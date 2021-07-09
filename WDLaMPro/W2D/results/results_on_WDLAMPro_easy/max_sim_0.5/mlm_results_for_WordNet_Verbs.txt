@@ -1,0 +1,10 @@
+
+
+Example count: 7159
+Average option count: 44.63
+Minimum option count: 5
+Maximum option count: 452
+
+
+Prediction Rank Results
+

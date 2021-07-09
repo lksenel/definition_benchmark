@@ -1,0 +1,102 @@
+===============================================================================================
+
+WORD: greenmail.n.01 (['Ġgreen', 'mail']),     Number of Definitions: 6
+
+
+True Definition:
+(corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business
+
+Prediction Rank Score: 0.40
+
+Definitions (True=1):
+
+1) (corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business (greenmail.n.01)
+Prediction Prob: 2.2203151849713295e-05, Prediction Rank: 4
+
+2) giving top executives lucrative benefits that must be paid by the acquirer if they are discharged after a takeover (golden_parachute.n.01)
+Prediction Prob: 4.896720613562378e-05, Prediction Rank: 2
+
+3) the target company defends itself by threatening to take over its acquirer (pac-man_strategy.n.01)
+Prediction Prob: 5.94145393475287e-05, Prediction Rank: 1
+
+4) the target company defends itself by making its stock less attractive to an acquirer (poison_pill.n.01)
+Prediction Prob: 3.2162145679421944e-05, Prediction Rank: 3
+
+5) the target company defends itself by acquiring a company so onerously regulated that it makes the target less attractive (safe_harbor.n.01)
+Prediction Prob: 1.3725014652329285e-05, Prediction Rank: 5
+
+6) the target company defends itself by selling off its crown jewels (scorched-earth_policy.n.01)
+Prediction Prob: 1.2224635440880656e-06, Prediction Rank: 6
+
+
+=====================================================
+Rank Scores when single contexts are prepadded:
+
+1) RS: 1.00	Context: the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the target firm to buy is the definition of greenmail .
+2) RS: 0.00	Context: greenmail is defined as the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the target firm to buy .
+
+=====================================================
+Detailed results for single contexts:
+
+1) RS: 1.00	Context: the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the target firm to buy is the definition of greenmail .
+===============================================================================================
+
+WORD: greenmail.n.01 (['Ġgreen', 'mail']),     Number of Definitions: 6
+
+
+True Definition:
+(corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business
+
+Prediction Rank Score: 1.00
+
+Definitions (True=1):
+
+1) (corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business (greenmail.n.01)
+Prediction Prob: 0.0302717367531411, Prediction Rank: 1
+
+2) giving top executives lucrative benefits that must be paid by the acquirer if they are discharged after a takeover (golden_parachute.n.01)
+Prediction Prob: 0.005868404578961428, Prediction Rank: 6
+
+3) the target company defends itself by threatening to take over its acquirer (pac-man_strategy.n.01)
+Prediction Prob: 0.017711708068319898, Prediction Rank: 2
+
+4) the target company defends itself by making its stock less attractive to an acquirer (poison_pill.n.01)
+Prediction Prob: 0.012064024586593558, Prediction Rank: 4
+
+5) the target company defends itself by acquiring a company so onerously regulated that it makes the target less attractive (safe_harbor.n.01)
+Prediction Prob: 0.011939474222976587, Prediction Rank: 5
+
+6) the target company defends itself by selling off its crown jewels (scorched-earth_policy.n.01)
+Prediction Prob: 0.014148499718228957, Prediction Rank: 3
+
+2) RS: 0.00	Context: greenmail is defined as the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the target firm to buy .
+===============================================================================================
+
+WORD: greenmail.n.01 (['Ġgreen', 'mail']),     Number of Definitions: 6
+
+
+True Definition:
+(corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business
+
+Prediction Rank Score: 0.00
+
+Definitions (True=1):
+
+1) (corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business (greenmail.n.01)
+Prediction Prob: 0.00013884952200370407, Prediction Rank: 6
+
+2) giving top executives lucrative benefits that must be paid by the acquirer if they are discharged after a takeover (golden_parachute.n.01)
+Prediction Prob: 0.0004581402297717113, Prediction Rank: 1
+
+3) the target company defends itself by threatening to take over its acquirer (pac-man_strategy.n.01)
+Prediction Prob: 0.00021196150071456973, Prediction Rank: 5
+
+4) the target company defends itself by making its stock less attractive to an acquirer (poison_pill.n.01)
+Prediction Prob: 0.00024387905812141286, Prediction Rank: 3
+
+5) the target company defends itself by acquiring a company so onerously regulated that it makes the target less attractive (safe_harbor.n.01)
+Prediction Prob: 0.00022128427564643924, Prediction Rank: 4
+
+6) the target company defends itself by selling off its crown jewels (scorched-earth_policy.n.01)
+Prediction Prob: 0.00031763101695902324, Prediction Rank: 2
+

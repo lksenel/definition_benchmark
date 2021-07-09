@@ -1,0 +1,6 @@
+Dataset: CoDA-clean-easy n
+Nonce bkatuhla: 0.4888 (274)
+Nonce opyatzel: 0.4444 (274)
+Nonce x: 0.4470 (274)
+Nonce orange: 0.4072 (274)
+Nonce cloud: 0.3981 (274)

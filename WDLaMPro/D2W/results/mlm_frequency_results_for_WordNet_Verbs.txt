@@ -1,0 +1,40 @@
+Results from mlm for Wordnet Verbs
+
+Example count: 8487
+Average option count: 43.80
+Minimum option count: 5
+Maximum option count: 473
+
+For rare (0-9):
+Example count: 799
+Average option count: 65.60
+
+For medium (10-99):
+Example count: 934
+Average option count: 51.30
+
+For freq. (100-):
+Example count: 6754
+Average option count: 40.20
+
+
+Prediction Rank Results
+
+| Model              |   rare (0-9) |   medium (10-99) |   freq. (100-) |   all |
+|--------------------+--------------+------------------+----------------+-------|
+| bert-base-uncased  |         0.79 |             0.75 |           0.62 |  0.65 |
+| bert-large-uncased |         0.77 |             0.74 |           0.63 |  0.65 |
+| roberta-base       |         0.73 |             0.67 |           0.76 |  0.74 |
+| roberta-large      |         0.75 |             0.73 |           0.81 |  0.8  |
+| random             |         0.5  |             0.5  |           0.5  |  0.5  |
+
+
+Accuracy Results
+
+| Model              |   rare (0-9) |   medium (10-99) |   freq. (100-) |   all |
+|--------------------+--------------+------------------+----------------+-------|
+| bert-base-uncased  |        30.29 |            26.87 |          16.97 | 19.31 |
+| bert-large-uncased |        26.91 |            24.95 |          17.59 | 19.28 |
+| roberta-base       |        24.28 |            19.91 |          35.28 | 32.56 |
+| roberta-large      |        26.16 |            25.05 |          41.99 | 38.64 |
+| random             |         7.72 |             8.11 |           8.02 |  8    |

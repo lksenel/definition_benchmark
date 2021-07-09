@@ -1,0 +1,78 @@
+===============================================================================================
+
+WORD: bryum.n.01 (['Ġb', 'ry', 'um']),     Number of Definitions: 8
+
+
+True Definition:
+type genus of the Bryaceae: mosses distinguished by mostly erect and tufted gametophytes and symmetrical short-necked capsules
+
+Prediction Rank Score: 0.86
+
+Definitions (True=1):
+
+1) type genus of the Bryaceae: mosses distinguished by mostly erect and tufted gametophytes and symmetrical short-necked capsules (bryum)
+Prediction Prob: 0.00026528041042659143, Prediction Rank: 2
+
+2) brown or blackish Alpine mosses having a dehiscent capsule with 4 longitudinal slits (andreaea)
+Prediction Prob: 4.27762773695986e-09, Prediction Rank: 4
+
+3) hornworts (anthoceros)
+Prediction Prob: 1.2286564925206427e-10, Prediction Rank: 8
+
+4) type genus of Dicranaceae (dicranum)
+Prediction Prob: 3.65711423231883e-09, Prediction Rank: 5
+
+5) a large genus constituting the order Sphagnales: atypical mosses of temperate bogs with leaves that can hold much water (genus sphagnum)
+Prediction Prob: 4.5761019549773213e-10, Prediction Rank: 7
+
+6) type genus of Marchantiaceae; liverworts that reproduce asexually by gemmae and have stalked antheridiophores (marchantia)
+Prediction Prob: 2.879003402409348e-09, Prediction Rank: 6
+
+7) mosses similar to those of genus Bryum but larger (mnium)
+Prediction Prob: 0.0010089228511451474, Prediction Rank: 1
+
+8) type genus of Sphaerocarpaceae; liverworts with small many-lobed usually orbicular thallus (sphaerocarpus)
+Prediction Prob: 7.106601694891284e-09, Prediction Rank: 3
+
+
+=====================================================
+Rank Scores one shot (correct def pairs):
+
+0) RS: 1.00	Context: type genus of the Bryaceae: mosses distinguished by mostly erect and tufted gametophytes and symmetrical short-necked capsules is the definition of bryum. 
+------------------------------------------------------------
+1) RS: 1.00	Context: a truck equipped with a loudspeaker and used for advertising is the definition of sound truck. . 
+2) RS: 1.00	Context: a military vehicle (usually armored) for transporting military personnel and their equipment is the definition of personnel carrier. . 
+3) RS: 0.86	Context: plants closely allied to the genera Satureja and Calamintha is the definition of acinos. . 
+4) RS: 0.86	Context: an Australian sheepdog with pointed ears is the definition of kelpie. . 
+5) RS: 0.86	Context: a dance involving a rhythmical stamping step is the definition of stomp. . 
+6) RS: 0.86	Context: a trivalent metallic element of the rare earth group; usually occurs in association with yttrium is the definition of lutetium. . 
+7) RS: 0.86	Context: the quality of being holy is the definition of holiness. . 
+8) RS: 0.86	Context: male salmon that has recently spawned is the definition of redfish. . 
+9) RS: 0.86	Context: (medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group is the definition of dysfunction. . 
+10) RS: 0.86	Context: octopuses and paper nautilus is the definition of octopoda. . 
+
+
+Rank Scores one shot (incorrect def pairs):
+
+
+------------------------------------------------------------
+1) RS: 0.86	Context: plants closely allied to the genera Satureja and Calamintha is the definition of filling. . 
+2) RS: 0.86	Context: speedy largely terrestrial bird found from California and Mexico to Texas is the definition of dysfunction. . 
+3) RS: 0.86	Context: (medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group is the definition of roadrunner. . 
+4) RS: 0.86	Context: the position of student is the definition of redfish. . 
+5) RS: 0.86	Context: male salmon that has recently spawned is the definition of studentship. . 
+6) RS: 0.86	Context: examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx) is the definition of personnel carrier. . 
+7) RS: 0.86	Context: a military vehicle (usually armored) for transporting military personnel and their equipment is the definition of rhinoscopy. . 
+8) RS: 0.86	Context: oily egg-shaped nut of an American tree of the walnut family is the definition of sound truck. . 
+9) RS: 0.86	Context: a truck equipped with a loudspeaker and used for advertising is the definition of butternut. . 
+10) RS: 0.86	Context: a wildflower of the genus Ratibida is the definition of holiness. . 
+11) RS: 0.86	Context: the quality of being holy is the definition of coneflower. . 
+12) RS: 0.86	Context: small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs is the definition of lutetium. . 
+13) RS: 0.86	Context: a trivalent metallic element of the rare earth group; usually occurs in association with yttrium is the definition of velociraptor. . 
+14) RS: 0.86	Context: used as an Italian courtesy title; can be prefixed to the name or used separately is the definition of stomp. . 
+15) RS: 0.86	Context: a dance involving a rhythmical stamping step is the definition of signor. . 
+16) RS: 0.86	Context: a radioactive element of the actinide series; found in uranium ores is the definition of kelpie. . 
+17) RS: 0.86	Context: an Australian sheepdog with pointed ears is the definition of actinium. . 
+18) RS: 0.86	Context: flow into something (as a container) is the definition of acinos. . 
+19) RS: 0.86	Context: octopuses and paper nautilus is the definition of oil filter. . 
+20) RS: 0.86	Context: a filter that removes impurities from the oil used to lubricate an internal-combustion engine is the definition of octopoda. . 

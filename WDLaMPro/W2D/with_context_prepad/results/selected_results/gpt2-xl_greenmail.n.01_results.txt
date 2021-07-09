@@ -1,0 +1,97 @@
+===============================================================================================
+
+WORD: greenmail.n.01 (['Ġgreen', 'mail']),     Number of Definitions: 6
+
+Following 0 contexts are prepadded before the definitions:
+
+True Definition:
+(corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business
+
+Prediction Score: 0.40
+
+Definitions (True=1):
+
+1) (corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business (greenmail.n.01)
+Prediction Prob: 2.220315992849031e-05, Prediction Rank: 4
+
+2) giving top executives lucrative benefits that must be paid by the acquirer if they are discharged after a takeover (golden_parachute.n.01)
+Prediction Prob: 4.896751800952332e-05, Prediction Rank: 2
+
+3) the target company defends itself by threatening to take over its acquirer (pac-man_strategy.n.01)
+Prediction Prob: 5.941453675260833e-05, Prediction Rank: 1
+
+4) the target company defends itself by making its stock less attractive to an acquirer (poison_pill.n.01)
+Prediction Prob: 3.216267392889085e-05, Prediction Rank: 3
+
+5) the target company defends itself by acquiring a company so onerously regulated that it makes the target less attractive (safe_harbor.n.01)
+Prediction Prob: 1.3725147207728884e-05, Prediction Rank: 5
+
+6) the target company defends itself by selling off its crown jewels (scorched-earth_policy.n.01)
+Prediction Prob: 1.222464226951757e-06, Prediction Rank: 6
+
+===============================================================================================
+
+WORD: greenmail.n.01 (['Ġgreen', 'mail']),     Number of Definitions: 6
+
+Following 1 contexts are prepadded before the definitions:
+1) close to bankruptcy . his successes included winning the british franchise for alka-seltzer and introducing low-cost generic drugs to the uk . he was a greenmail corporate raider and asset stripper . with the financial backing of sir isaac wolfson , he acquired diverse food companies quoted on the london
+
+True Definition:
+(corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business
+
+Prediction Score: 1.00
+
+Definitions (True=1):
+
+1) (corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business (greenmail.n.01)
+Prediction Prob: 0.004112421349485584, Prediction Rank: 1
+
+2) giving top executives lucrative benefits that must be paid by the acquirer if they are discharged after a takeover (golden_parachute.n.01)
+Prediction Prob: 0.0020144251671410096, Prediction Rank: 3
+
+3) the target company defends itself by threatening to take over its acquirer (pac-man_strategy.n.01)
+Prediction Prob: 0.000899104139910005, Prediction Rank: 6
+
+4) the target company defends itself by making its stock less attractive to an acquirer (poison_pill.n.01)
+Prediction Prob: 0.0017937915512031971, Prediction Rank: 4
+
+5) the target company defends itself by acquiring a company so onerously regulated that it makes the target less attractive (safe_harbor.n.01)
+Prediction Prob: 0.0021637268802912474, Prediction Rank: 2
+
+6) the target company defends itself by selling off its crown jewels (scorched-earth_policy.n.01)
+Prediction Prob: 0.000926292150181085, Prediction Rank: 5
+
+===============================================================================================
+
+WORD: greenmail.n.01 (['Ġgreen', 'mail']),     Number of Definitions: 6
+
+Following 3 contexts are prepadded before the definitions:
+1) greenmail or greenmailing is the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the target firm to buy
+2) cpc through salomon brothers a month later at 88.5 a share for a $ 40 million profit . both cpc and perelman denied it was greenmail despite appearances to the contrary , including what looked like an artificial price increase by salomon shortly before they sold perelman 's shares .
+3) after walt 's death in 1966 , the company began a slow decline as it floundered under directionless leadership , which culminated in an unsuccessful greenmail attempt to buy the company from current shareholders .
+
+True Definition:
+(corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business
+
+Prediction Score: 0.80
+
+Definitions (True=1):
+
+1) (corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business (greenmail.n.01)
+Prediction Prob: 0.4348656094890444, Prediction Rank: 2
+
+2) giving top executives lucrative benefits that must be paid by the acquirer if they are discharged after a takeover (golden_parachute.n.01)
+Prediction Prob: 0.36403478362845476, Prediction Rank: 5
+
+3) the target company defends itself by threatening to take over its acquirer (pac-man_strategy.n.01)
+Prediction Prob: 0.5028555424247827, Prediction Rank: 1
+
+4) the target company defends itself by making its stock less attractive to an acquirer (poison_pill.n.01)
+Prediction Prob: 0.4323865977666532, Prediction Rank: 3
+
+5) the target company defends itself by acquiring a company so onerously regulated that it makes the target less attractive (safe_harbor.n.01)
+Prediction Prob: 0.38419110346188035, Prediction Rank: 4
+
+6) the target company defends itself by selling off its crown jewels (scorched-earth_policy.n.01)
+Prediction Prob: 0.22977931375516292, Prediction Rank: 6
+

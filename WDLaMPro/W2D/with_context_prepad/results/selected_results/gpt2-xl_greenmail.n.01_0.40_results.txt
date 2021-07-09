@@ -1,0 +1,108 @@
+===============================================================================================
+
+WORD: greenmail.n.01 (['Ġgreen', 'mail']),     Number of Definitions: 6
+
+
+True Definition:
+(corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business
+
+Prediction Rank Score: 0.40
+
+Definitions (True=1):
+
+1) (corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business (greenmail.n.01)
+Prediction Prob: 2.22031287590073e-05, Prediction Rank: 4
+
+2) giving top executives lucrative benefits that must be paid by the acquirer if they are discharged after a takeover (golden_parachute.n.01)
+Prediction Prob: 4.8967633360004004e-05, Prediction Rank: 2
+
+3) the target company defends itself by threatening to take over its acquirer (pac-man_strategy.n.01)
+Prediction Prob: 5.941445965033975e-05, Prediction Rank: 1
+
+4) the target company defends itself by making its stock less attractive to an acquirer (poison_pill.n.01)
+Prediction Prob: 3.2162484831999493e-05, Prediction Rank: 3
+
+5) the target company defends itself by acquiring a company so onerously regulated that it makes the target less attractive (safe_harbor.n.01)
+Prediction Prob: 1.3725057272204579e-05, Prediction Rank: 5
+
+6) the target company defends itself by selling off its crown jewels (scorched-earth_policy.n.01)
+Prediction Prob: 1.2224757993969753e-06, Prediction Rank: 6
+
+
+=====================================================
+Rank Scores when single contexts are prepadded:
+
+0) RS: 1.00	Context: (corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business is the definition of greenmail. 
+------------------------------------------------------------
+1) RS: 1.00	Context: cpc through salomon brothers a month later at 88.5 a share for a $ 40 million profit . both cpc and perelman denied it was greenmail despite appearances to the contrary , including what looked like an artificial price increase by salomon shortly before they sold perelman 's shares . . 
+2) RS: 1.00	Context: walco national buying up and usually improving the operations of a diverse group of smaller operating companies . richmond was also accused of involvement in greenmail the purchase of strategic blocks of shares for resale back to a target for a profit . . 
+3) RS: 1.00	Context: and receive an incentive payment ( effectively a bribe ) from the company in order to avoid pursuing a hostile takeover of the company . greenmail represented a transfer payment from a company 's existing shareholders to a third party investor and provided no value to existing shareholders but did . 
+4) RS: 1.00	Context: corporate raiders , hostile takeovers and greenmail . . 
+5) RS: 1.00	Context: morgan . the chain expanded to over 100 stores , and became a vehicle ( as dart group ) by which herbert haft engaged in greenmail activities against other public companies . it spun off trak auto and crown books . dart drug was sold to a management group in . 
+6) RS: 1.00	Context: the st. regis paper company provides an example of greenmail . when an investor group led by sir james goldsmith acquired 8.6 % stake in st. regis and expressed interest in taking over the . 
+7) RS: 1.00	Context: after walt 's death in 1966 , the company began a slow decline as it floundered under directionless leadership , which culminated in an unsuccessful greenmail attempt to buy the company from current shareholders . . 
+8) RS: 1.00	Context: in 1986 the goodyear rubber & tire company was a victim of a greenmail attack . british financier james goldsmith in conjunction with the investment group hanson purchased 11 % of goodyear stock . they threatened to take . 
+9) RS: 1.00	Context: whereas `` cheff v. mathes '' had sanctioned greenmail , or payment to the raider to go away , in unocal the court sanctioned reverse greenmail , or payment to shareholders excluding the raider . . 
+10) RS: 1.00	Context: while benefiting the predator , the company and its shareholders lose money . greenmail also perpetuates the company 's existing management and employees , which would have most certainly seen their ranks reduced or eliminated had the hostile . 
+11) RS: 1.00	Context: note that whereas `` cheff v. mathes '' had sanctioned greenmail , or payment to the raider to go away , in unocal the court sanctioned reverse greenmail , or payment to shareholders excluding the . 
+12) RS: 1.00	Context: close to bankruptcy . his successes included winning the british franchise for alka-seltzer and introducing low-cost generic drugs to the uk . he was a greenmail corporate raider and asset stripper . with the financial backing of sir isaac wolfson , he acquired diverse food companies quoted on the london . 
+13) RS: 1.00	Context: institution , the walt disney co . he failed in this bid too , but forced disney to pay him $ 60 million in `` greenmail '' for his shares . . 
+14) RS: 0.80	Context: transworld , a company perelman already held 15 % of , was spooked by his taking of greenmail and instituted a variety of anti-takeover measures while preemptively putting themselves up onto the auction block to avoid a perelman takeover . whatever his . 
+15) RS: 0.80	Context: in the late 1980s , perelman was repeatedly accused of engaging in greenmail . `` greenmail '' is when someone buys a large block of a company 's stock and threatens to take over the company unless he is paid . 
+16) RS: 0.80	Context: of the company 's shares . when murdoch called on the management to take measures to increase the share price , it chose to pay greenmail to buy back shares from him at $ 40.10 , while the market price was $ 28.75 . . 
+17) RS: 0.80	Context: dollar ( but not to the dollars of other countries ) . other well-known names of the dollar as a whole in denominations include `` greenmail '' , `` green '' , and `` dead presidents '' , ( the last due to the fact that mostly late presidents are . 
+18) RS: 0.80	Context: and in federal tax treatment of greenmail gains ( a 50 % excise tax ) have all made greenmail far less common since the early 1990s . . 
+19) RS: 0.80	Context: of maremont 's holdings of holland stock at a price above the prevailing market stock price . essentially , the board authorized the payment of greenmail to maremont . . 
+20) RS: 0.80	Context: the spac management his `` yes '' vote for the deal in exchange for some additional consideration . back in the 1980 's , `` greenmail '' became taboo in corporate america almost as quickly as it arose . spac management teams have a very strong financial incentive to see . 
+21) RS: 0.60	Context: parties are poison pills , people pills , white knights , white squires , pac-man defense , lobster traps , sandbagging , whitemail , and greenmail . . 
+22) RS: 0.60	Context: ( george washington on paper ) , paper , cash , bread , dough , loot , dinero , cheese , cake , stacks , greenmail , jack , cabbage , pie , cutter , cheddar etc . ) . . 
+23) RS: 0.40	Context: increasing debt levels on the company 's balance sheet . additionally , the threat of the corporate raid would lead to the practice of `` greenmail '' , where a corporate raider or other party would acquire a significant stake in the stock of a company and receive an incentive . 
+24) RS: 0.40	Context: he was first accused of greenmail in late 1986 during a run at cpc international when he bought 8.2 % of cpc at around $ 75 a share and indirectly . 
+25) RS: 0.40	Context: in addition , he was instrumental in creating the council of institutional investors , an organization of pension funds and other institutions that opposed `` greenmail and other corporate practices that benefited only management '' . . 
+26) RS: 0.40	Context: haft 's dart group earned $ 250 million through greenmail and stock sales during unsuccessful takeover attempts of retailers safeway and stop & shop . in the 1990s he was involved in widely publicized . 
+27) RS: 0.40	Context: shares to gillette , ralston backed out of the deal , and perelman was left feeling a little foolish for having been tricked into taking greenmail . undeterred by the agreement he signed declaring he would n't attempt a hostile takeover of gillette for at least 10 years , he . 
+28) RS: 0.40	Context: in the late 1980s , perelman was repeatedly accused of engaging in greenmail . `` greenmail '' is when someone buys a large block of a company 's stock and threatens to take over the company unless . 
+29) RS: 0.20	Context: acquirer '' ( 濫用的買収者 ) ; see below . ) the high court laid out four examples of clearly abusive motives : ( 1 ) greenmail ; ( 2 ) `` scorched earth '' tactics ( e.g . pillaging intellectual property ) ; ( 3 ) aiming to use the . 
+30) RS: 0.00	Context: to use his clout to change the status quo and improve the company 's declining fortune . disney escaped steinberg 's attempt by paying him greenmail , but in its aftermath ceo ron w. miller resigned , to be replaced by michael eisner . roy e. disney , now back . 
+31) RS: 0.00	Context: latter example , goldsmith made $ 90 million from the goodyear tire and rubber company in the 1980s in this manner . occidental petroleum paid greenmail to david murdoch in 1984 . . 
+32) RS: 0.00	Context: greenmail . . 
+33) RS: 0.00	Context: greenmail or greenmailing is the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the target firm to buy . 
+34) RS: 0.00	Context: additionally , the threat of the corporate raid would lead to the practice of `` greenmail '' , where a corporate raider or other party would acquire a significant stake in the stock of a company and receive an incentive . 
+35) RS: 0.00	Context: 's existing shareholders to a third party investor and provided no value to existing shareholders but did benefit existing managers . the practice of `` greenmail '' is not typically considered a tactic of private equity investors and is not condoned by market participants . . 
+36) RS: 0.00	Context: greenmail proved lucrative for investors such as t. boone pickens and sir james goldsmith during the 1980s . in the latter example , goldsmith made . 
+
+
+
+Detailed results when the following context is padded:
+greenmail or greenmailing is the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the target firm to buy . 
+
+===============================================================================================
+
+WORD: greenmail.n.01 (['Ġgreen', 'mail']),     Number of Definitions: 6
+
+
+True Definition:
+(corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business
+
+Prediction Rank Score: 0.00
+
+Definitions (True=1):
+
+1) (corporation) the practice of purchasing enough shares in a firm to threaten a takeover and thereby forcing the owners to buy those shares back at a premium in order to stay in business (greenmail.n.01)
+Prediction Prob: 0.002940670049244476, Prediction Rank: 6
+
+2) giving top executives lucrative benefits that must be paid by the acquirer if they are discharged after a takeover (golden_parachute.n.01)
+Prediction Prob: 0.08537520172064195, Prediction Rank: 1
+
+3) the target company defends itself by threatening to take over its acquirer (pac-man_strategy.n.01)
+Prediction Prob: 0.038140748209485986, Prediction Rank: 2
+
+4) the target company defends itself by making its stock less attractive to an acquirer (poison_pill.n.01)
+Prediction Prob: 0.03577726871482856, Prediction Rank: 3
+
+5) the target company defends itself by acquiring a company so onerously regulated that it makes the target less attractive (safe_harbor.n.01)
+Prediction Prob: 0.03566252080649712, Prediction Rank: 4
+
+6) the target company defends itself by selling off its crown jewels (scorched-earth_policy.n.01)
+Prediction Prob: 0.013972645325963873, Prediction Rank: 5
+

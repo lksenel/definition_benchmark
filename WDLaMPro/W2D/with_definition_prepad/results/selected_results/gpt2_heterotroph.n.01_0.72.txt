@@ -1,0 +1,198 @@
+===============================================================================================
+
+WORD: heterotroph.n.01 (['Ġheter', 'ot', 'roph']),     Number of Definitions: 48
+
+
+True Definition:
+an organism that depends on complex organic substances for nutrition
+
+Prediction Rank Score: 0.72
+
+Definitions (True=1):
+
+1) an organism that depends on complex organic substances for nutrition (heterotroph)
+Prediction Prob: 1.4059217916171926e-06, Prediction Rank: 14
+
+2) an organism (especially a bacterium) that requires air or free oxygen for life (aerobe)
+Prediction Prob: 1.1915705829983833e-06, Prediction Rank: 18
+
+3) (genetics) an organism or cell having a diploid set of chromosomes from each parent (amphidiploid)
+Prediction Prob: 3.820206757623093e-07, Prediction Rank: 31
+
+4) an organism (especially a bacterium) that does not require air or free oxygen to live (anaerobe)
+Prediction Prob: 2.4532752224815247e-06, Prediction Rank: 8
+
+5) a living organism characterized by voluntary movement (animal)
+Prediction Prob: 3.9822147356699365e-06, Prediction Rank: 5
+
+6) microscopic organism such as an amoeba or paramecium (animalcule)
+Prediction Prob: 5.065985735778648e-07, Prediction Rank: 25
+
+7) an organism that has the characteristics of a more primitive type of that organism (atavist)
+Prediction Prob: 1.5886285429892935e-06, Prediction Rank: 11
+
+8) organisms (plants and animals) that live at or near the bottom of a sea (benthos)
+Prediction Prob: 1.4025056634235986e-07, Prediction Rank: 39
+
+9) (genetics) an organism that possesses a recessive gene whose effect is masked by a dominant allele; the associated trait is not apparent but can be passed on to offspring (carrier)
+Prediction Prob: 1.1497553394489787e-07, Prediction Rank: 40
+
+10) a group of genetically identical cells or organisms derived from a single cell or individual by some kind of asexual reproduction (clone)
+Prediction Prob: 3.513321477427357e-06, Prediction Rank: 6
+
+11) either of two different animal or plant species living in close association but not interdependent (commensal)
+Prediction Prob: 3.9196794629890993e-07, Prediction Rank: 29
+
+12) an organism belonging to the same species as another organism (conspecific)
+Prediction Prob: 1.974047253735047e-06, Prediction Rank: 10
+
+13) a plant or animal naturalized in a region (denizen)
+Prediction Prob: 5.867703809825838e-10, Prediction Rank: 48
+
+14) (genetics) an organism or cell having the normal amount of DNA per cell; i.e., two sets of chromosomes or twice the haploid number (diploid)
+Prediction Prob: 8.45231974559307e-08, Prediction Rank: 42
+
+15) a plant or animal that is atypically small (dwarf)
+Prediction Prob: 2.9138415334741315e-08, Prediction Rank: 45
+
+16) an organism with cells characteristic of all life forms except primitive microorganisms such as bacteria; i.e. an organism with `good' or membrane-bound nuclei in its cells (eukaryote)
+Prediction Prob: 6.313925442733447e-07, Prediction Rank: 21
+
+17) an organism of the kingdom Fungi lacking chlorophyll and feeding on organic matter; ranging from unicellular or multicellular organisms to spore-bearing syncytia (fungus)
+Prediction Prob: 4.223432933073812e-06, Prediction Rank: 4
+
+18) (genetics) an organism or cell having only one complete set of chromosomes (haploid)
+Prediction Prob: 6.239174480669099e-07, Prediction Rank: 22
+
+19) (genetics) an organism or cell having a chromosome number that is not an even multiple of the haploid chromosome number for that species (heteroploid)
+Prediction Prob: 2.706051728644646e-07, Prediction Rank: 35
+
+20) an animal or plant that nourishes and supports a parasite; it does not benefit and is often harmed by the association (host)
+Prediction Prob: 3.877002121278e-07, Prediction Rank: 30
+
+21) (genetics) an organism that is the offspring of genetically dissimilar parents or stock; especially offspring produced by breeding plants or animals of different varieties or breeds or species (hybrid)
+Prediction Prob: 1.443696238556898e-07, Prediction Rank: 38
+
+22) a single organism (individual)
+Prediction Prob: 1.4291136155171114e-06, Prediction Rank: 13
+
+23) an organism that lives in an oxygenated medium lacking organic matter (katharobe)
+Prediction Prob: 1.2064153415385612e-06, Prediction Rank: 17
+
+24) a person or animal that is adopted by a team or other group as a symbolic figure (mascot)
+Prediction Prob: 1.3217855824195453e-08, Prediction Rank: 46
+
+25) any organism of microscopic size (microorganism)
+Prediction Prob: 5.738485550349946e-07, Prediction Rank: 23
+
+26) (biology) an organism that has characteristics resulting from chromosomal alteration (mutant)
+Prediction Prob: 4.1246177035324926e-07, Prediction Rank: 28
+
+27) an organism such as an insect that habitually shares the nest of a species of ant (myrmecophile)
+Prediction Prob: 2.055785461686893e-06, Prediction Rank: 9
+
+28) indigenous plants and animals (native)
+Prediction Prob: 7.073158533175862e-08, Prediction Rank: 43
+
+29) the aggregate of actively swimming animals in a body of water ranging from microscopic organisms to whales (nekton)
+Prediction Prob: 3.276517272192727e-07, Prediction Rank: 32
+
+30) organisms without vascular tissue: e.g. algae, lichens, fungi, mosses (nonvascular organism)
+Prediction Prob: 2.958000745726428e-07, Prediction Rank: 34
+
+31) an animal or plant that lives in or on a host (another animal or plant); it obtains nourishment from the host without benefiting or killing the host (parasite)
+Prediction Prob: 4.90268614423892e-07, Prediction Rank: 27
+
+32) an organism (plant or animal) from which younger ones are obtained (parent)
+Prediction Prob: 2.2313952291695786e-07, Prediction Rank: 36
+
+33) a human being (person)
+Prediction Prob: 6.689910902734919e-08, Prediction Rank: 44
+
+34) the aggregate of small plant and animal organisms that float or drift in great numbers in fresh or salt water (plankton)
+Prediction Prob: 3.017209186733041e-07, Prediction Rank: 33
+
+35) (botany) a living organism lacking the power of locomotion (plant)
+Prediction Prob: 6.278215223006831e-06, Prediction Rank: 1
+
+36) an organism that can assume more than one adult form as in the castes of ants or termites (polymorph)
+Prediction Prob: 5.725114929581385e-06, Prediction Rank: 2
+
+37) (genetics) an organism or cell having more than twice the haploid number of chromosomes (polyploid)
+Prediction Prob: 5.258777217294586e-07, Prediction Rank: 24
+
+38) anything living after Noah's flood (postdiluvian)
+Prediction Prob: 3.5770740040436414e-09, Prediction Rank: 47
+
+39) a unicellular organism having cells lacking membrane-bound nuclei; bacteria are the prime example but also included are blue-green algae and actinomycetes and mycoplasma (prokaryote)
+Prediction Prob: 2.464480372842739e-06, Prediction Rank: 7
+
+40) a cell or organism in which genetic recombination has occurred (recombinant)
+Prediction Prob: 6.753620025351977e-07, Prediction Rank: 20
+
+41) an animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus) (relative)
+Prediction Prob: 1.0498745814228565e-07, Prediction Rank: 41
+
+42) an organism or species surviving as a remnant of an otherwise extinct flora or fauna in an environment much changed from that in which it originated (relict)
+Prediction Prob: 1.6922776240702826e-07, Prediction Rank: 37
+
+43) an organism that lives in and derives its nourishment from organic matter in stagnant or foul water (saprobe)
+Prediction Prob: 1.2962189001681734e-06, Prediction Rank: 16
+
+44) an organism that feeds on dead organic matter especially a fungus or bacterium (saprophyte)
+Prediction Prob: 4.95266355582453e-07, Prediction Rank: 26
+
+45) an organism (person or animal) that sits (sitter)
+Prediction Prob: 1.4379196421064455e-06, Prediction Rank: 12
+
+46) an organism (person or animal) that stands (stander)
+Prediction Prob: 8.180049759649467e-07, Prediction Rank: 19
+
+47) an organism that can utter vocal sounds (utterer)
+Prediction Prob: 4.914170850610992e-06, Prediction Rank: 3
+
+48) one of the distinct individuals forming a colonial animal such as a bryozoan or hydrozoan (zooid)
+Prediction Prob: 1.3881628760356606e-06, Prediction Rank: 15
+
+
+=====================================================
+Rank Scores one shot (correct def pairs):
+
+0) RS: 0.98	Context: an organism that depends on complex organic substances for nutrition is the definition of heterotroph. 
+------------------------------------------------------------
+1) RS: 0.96	Context: a military vehicle (usually armored) for transporting military personnel and their equipment is the definition of personnel carrier. . 
+2) RS: 0.91	Context: a dance involving a rhythmical stamping step is the definition of stomp. . 
+3) RS: 0.87	Context: plants closely allied to the genera Satureja and Calamintha is the definition of acinos. . 
+4) RS: 0.87	Context: an Australian sheepdog with pointed ears is the definition of kelpie. . 
+5) RS: 0.87	Context: a truck equipped with a loudspeaker and used for advertising is the definition of sound truck. . 
+6) RS: 0.85	Context: a trivalent metallic element of the rare earth group; usually occurs in association with yttrium is the definition of lutetium. . 
+7) RS: 0.83	Context: the quality of being holy is the definition of holiness. . 
+8) RS: 0.83	Context: octopuses and paper nautilus is the definition of octopoda. . 
+9) RS: 0.81	Context: male salmon that has recently spawned is the definition of redfish. . 
+10) RS: 0.66	Context: (medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group is the definition of dysfunction. . 
+
+
+Rank Scores one shot (incorrect def pairs):
+
+
+------------------------------------------------------------
+1) RS: 1.00	Context: examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx) is the definition of personnel carrier. . 
+2) RS: 0.94	Context: male salmon that has recently spawned is the definition of studentship. . 
+3) RS: 0.94	Context: used as an Italian courtesy title; can be prefixed to the name or used separately is the definition of stomp. . 
+4) RS: 0.91	Context: plants closely allied to the genera Satureja and Calamintha is the definition of filling. . 
+5) RS: 0.89	Context: a truck equipped with a loudspeaker and used for advertising is the definition of butternut. . 
+6) RS: 0.87	Context: a trivalent metallic element of the rare earth group; usually occurs in association with yttrium is the definition of velociraptor. . 
+7) RS: 0.83	Context: a wildflower of the genus Ratibida is the definition of holiness. . 
+8) RS: 0.81	Context: small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs is the definition of lutetium. . 
+9) RS: 0.81	Context: flow into something (as a container) is the definition of acinos. . 
+10) RS: 0.79	Context: oily egg-shaped nut of an American tree of the walnut family is the definition of sound truck. . 
+11) RS: 0.79	Context: a military vehicle (usually armored) for transporting military personnel and their equipment is the definition of rhinoscopy. . 
+12) RS: 0.77	Context: the quality of being holy is the definition of coneflower. . 
+13) RS: 0.77	Context: octopuses and paper nautilus is the definition of oil filter. . 
+14) RS: 0.77	Context: a radioactive element of the actinide series; found in uranium ores is the definition of kelpie. . 
+15) RS: 0.77	Context: a dance involving a rhythmical stamping step is the definition of signor. . 
+16) RS: 0.74	Context: the position of student is the definition of redfish. . 
+17) RS: 0.74	Context: (medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group is the definition of roadrunner. . 
+18) RS: 0.72	Context: an Australian sheepdog with pointed ears is the definition of actinium. . 
+19) RS: 0.70	Context: speedy largely terrestrial bird found from California and Mexico to Texas is the definition of dysfunction. . 
+20) RS: 0.57	Context: a filter that removes impurities from the oil used to lubricate an internal-combustion engine is the definition of octopoda. . 

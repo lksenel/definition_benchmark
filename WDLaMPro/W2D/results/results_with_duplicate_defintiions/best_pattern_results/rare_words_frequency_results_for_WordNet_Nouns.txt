@@ -1,0 +1,46 @@
+Results from bert-base-uncase for Wordnet Verbs
+
+Example count: 19924
+Average option count: 68.55
+Minimum option count: 5
+Maximum option count: 402
+
+For rare (0-9):
+Example count: 6999
+Average option count: 71.90
+
+For medium (10-99):
+Example count: 12925
+Average option count: 66.70
+
+For freq. (100-):
+Example count: 0
+Average option count: nan
+
+
+Prediction Rank Results
+
+| Model                  |   rare (0-9) |   medium (10-99) |   freq. (100-) |   all |
+|------------------------+--------------+------------------+----------------+-------|
+| bert                   |         0.79 |             0.8  |            nan |  0.79 |
+| AM context             |         0.74 |             0.77 |            nan |  0.76 |
+| AM add                 |         0.76 |             0.79 |            nan |  0.78 |
+| CE context             |         0.74 |             0.77 |            nan |  0.76 |
+| CE add                 |         0.76 |             0.79 |            nan |  0.78 |
+| CE old context         |         0.74 |             0.77 |            nan |  0.76 |
+| CE old fused           |         0.75 |             0.78 |            nan |  0.77 |
+| random_with_3_patterns |         0.5  |             0.5  |            nan |  0.5  |
+
+
+Accuracy Results
+
+| Model                  |   rare (0-9) |   medium (10-99) |   freq. (100-) |   all |
+|------------------------+--------------+------------------+----------------+-------|
+| bert                   |        34.63 |            39.3  |            nan | 37.66 |
+| AM context             |        22.55 |            27.74 |            nan | 25.91 |
+| AM add                 |        24.37 |            30.75 |            nan | 28.51 |
+| CE context             |        22.59 |            27.76 |            nan | 25.94 |
+| CE add                 |        24.65 |            31.23 |            nan | 28.91 |
+| CE old context         |        23    |            28.87 |            nan | 26.81 |
+| CE old fused           |        24.25 |            30.42 |            nan | 28.25 |
+| random_with_3_patterns |         7.04 |             7.44 |            nan |  7.3  |

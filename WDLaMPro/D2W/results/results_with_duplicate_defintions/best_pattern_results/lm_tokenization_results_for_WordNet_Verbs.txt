@@ -1,0 +1,42 @@
+Results from lm for Wordnet Verbs
+
+Example count: 8507
+Average option count: 43.78
+Minimum option count: 5
+Maximum option count: 473
+
+For 1 token:
+Example count: 4658
+Average option count: 40.20
+
+For 2 token:
+Example count: 2922
+Average option count: 45.90
+
+For 3 token:
+Example count: 742
+Average option count: 52.90
+
+For 3+ token:
+Example count: 185
+Average option count: 63.40
+
+
+Prediction Rank Results
+
+| Model       |   1 token |   2 token |   3 token |   3+ token |   all |
+|-------------+-----------+-----------+-----------+------------+-------|
+| gpt2        |      0.64 |      0.75 |      0.8  |       0.77 |  0.69 |
+| gpt2-medium |      0.65 |      0.74 |      0.78 |       0.77 |  0.69 |
+| gpt2-large  |      0.68 |      0.77 |      0.81 |       0.8  |  0.72 |
+| gpt2-xl     |      0.69 |      0.78 |      0.82 |       0.79 |  0.73 |
+
+
+Accuracy Results
+
+| Model       |   1 token |   2 token |   3 token |   3+ token |   all |
+|-------------+-----------+-----------+-----------+------------+-------|
+| gpt2        |     25.55 |     29.33 |     34.64 |      26.49 | 27.66 |
+| gpt2-medium |     22.46 |     26.63 |     31.67 |      26.49 | 24.78 |
+| gpt2-large  |     26.53 |     30.8  |     37.47 |      29.73 | 29.02 |
+| gpt2-xl     |     28.49 |     31.38 |     36.66 |      32.43 | 30.28 |

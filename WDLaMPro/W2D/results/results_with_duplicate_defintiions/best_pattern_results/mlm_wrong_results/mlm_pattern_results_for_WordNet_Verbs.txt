@@ -1,0 +1,28 @@
+Results from mlm for Wordnet Verbs
+
+Example count: 8602
+Average option count: 47.73
+Minimum option count: 5
+Maximum option count: 593
+
+
+Prediction Rank Results
+
+| Model                  |   Pattern 1 |   Pattern 2 |   Best Pattern |
+|------------------------+-------------+-------------+----------------|
+| bert-base-uncased      |        0.66 |        0.65 |           0.78 |
+| bert-large-uncased     |        0.68 |        0.69 |           0.8  |
+| roberta-base           |        0.69 |        0.72 |           0.83 |
+| roberta-large          |        0.71 |        0.72 |           0.81 |
+| random_with_2_patterns |        0.5  |        0.5  |           0.5  |
+
+
+Accuracy Results
+
+| Model                  |   Pattern 1 |   Pattern 2 |   Best Pattern |
+|------------------------+-------------+-------------+----------------|
+| bert-base-uncased      |       19.88 |       19.45 |          30.63 |
+| bert-large-uncased     |       25.49 |       24.46 |          36.7  |
+| roberta-base           |       25.92 |       26.04 |          39.27 |
+| roberta-large          |       28.28 |       31.03 |          40.85 |
+| random_with_2_patterns |        7.58 |        8.5  |           8.5  |

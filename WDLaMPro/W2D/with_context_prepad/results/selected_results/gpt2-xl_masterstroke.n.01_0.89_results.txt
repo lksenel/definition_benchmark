@@ -1,0 +1,156 @@
+===============================================================================================
+
+WORD: masterstroke.n.01 (['Ġmaster', 'stroke']),     Number of Definitions: 19
+
+
+True Definition:
+an achievement demonstrating great skill or mastery
+
+Prediction Rank Score: 0.89
+
+Definitions (True=1):
+
+1) an achievement demonstrating great skill or mastery (masterstroke.n.01)
+Prediction Prob: 1.8095400174031318e-06, Prediction Rank: 3
+
+2) accomplishment of an objective (arrival.n.01)
+Prediction Prob: 1.2956880874969778e-07, Prediction Rank: 14
+
+3) the act of achieving an aim (attainment.n.01)
+Prediction Prob: 9.37783931957414e-08, Prediction Rank: 15
+
+4) (baseball) an advance to first base by a batter who receives four balls (base_on_balls.n.01)
+Prediction Prob: 1.7623097706288768e-08, Prediction Rank: 19
+
+5) an initial accomplishment that opens the way for further developments (beachhead.n.02)
+Prediction Prob: 7.956389341753033e-08, Prediction Rank: 16
+
+6) an easy accomplishment (cakewalk.n.02)
+Prediction Prob: 2.117556842315551e-07, Prediction Rank: 12
+
+7) something achieved (or escaped) by a narrow margin (close_call.n.01)
+Prediction Prob: 2.560817509111163e-06, Prediction Rank: 2
+
+8) used in the phrase `to your credit' in order to indicate an achievement deserving praise (credit.n.04)
+Prediction Prob: 3.795274420357708e-07, Prediction Rank: 9
+
+9) an act that avoids a loss of face (of dignity or prestige) (face_saver.n.01)
+Prediction Prob: 4.1706994779796023e-07, Prediction Rank: 8
+
+10) an irreversible accomplishment (fait_accompli.n.01)
+Prediction Prob: 9.653763211318035e-07, Prediction Rank: 4
+
+11) a notable achievement (feat.n.01)
+Prediction Prob: 1.374642303478417e-07, Prediction Rank: 13
+
+12) advancing toward a goal (going.n.03)
+Prediction Prob: 3.036106746499914e-08, Prediction Rank: 18
+
+13) taking full advantage of an opportunity while it lasts (haymaking.n.01)
+Prediction Prob: 4.259107785567094e-06, Prediction Rank: 1
+
+14) the act of liberating someone or something (liberation.n.01)
+Prediction Prob: 4.380534225441305e-07, Prediction Rank: 7
+
+15) an outstanding achievement (masterpiece.n.02)
+Prediction Prob: 3.0007768596450386e-07, Prediction Rank: 11
+
+16) any recognized accomplishment (performance.n.04)
+Prediction Prob: 3.607950785908217e-07, Prediction Rank: 10
+
+17) the sum of recognized accomplishments (record.n.04)
+Prediction Prob: 8.469328202530735e-07, Prediction Rank: 5
+
+18) the act of getting recruits; enlisting people for the army (or for a job or a cause etc.) (recruitment.n.01)
+Prediction Prob: 7.078447358943173e-08, Prediction Rank: 17
+
+19) the act of smoothing (smooth.n.01)
+Prediction Prob: 6.769154882657673e-07, Prediction Rank: 6
+
+
+=====================================================
+Rank Scores when single contexts are prepadded:
+
+0) RS: 1.00	Context: an achievement demonstrating great skill or mastery is the definition of masterstroke. 
+------------------------------------------------------------
+1) RS: 1.00	Context: album , the band has announced a tour of the united states and europe , with support on the european dates coming from manticora and masterstroke . a us tour has been planned with support from circle ii circle and manticora . should the tour go ahead , it would . 
+2) RS: 1.00	Context: the capabilities of the nuclear-powered attack submarine . the highlight of 1964 was two months of duty with nato forces , participating in exercises `` masterstroke '' and `` teamwork '' and visiting le havre , france , and the isle of portland , england , before returning to new . 
+3) RS: 1.00	Context: up her east coast-west indies routine . in september and october , she visited european waters again to participate in two nato exercises , operations masterstroke and teamwork . the warship returned to norfolk on 20 october and resumed 2nd fleet operations . in november , she began her first . 
+4) RS: 1.00	Context: on 25 july . between 8 september and 18 december , the ship made another brief deployment to the mediterranean , highlighted by operation `` masterstroke '' and nato exercise `` teamwork '' during the outbound voyage . while conducting the latter operation , `` warrington '' briefly ventured north . 
+5) RS: 0.94	Context: yet a fully fledged autonomous province ) he would be playing from a very strong position . jinnah ’ s tactics were to prove a masterstroke of politics and would lead eventually to the creation of pakistan . . 
+6) RS: 0.94	Context: of intellectual resources is considered by some an indication of napoleon 's devotion to the principles of the enlightenment , and by others as a masterstroke of propaganda obfuscating the true imperialist motives of the invasion . . 
+7) RS: 0.94	Context: in 1962 giles delivered his masterstroke announcing the pending merger of elder smith and goldsbrough mort with its new corporate headquarters in adelaide . . 
+8) RS: 0.89	Context: '' doctrine from the supreme court 's `` plessy v. ferguson '' decision as it pertained to public education in the united states was the masterstroke that brought about the landmark `` brown '' decision . . 
+9) RS: 0.89	Context: the highlight of a disappointing campaign under ray medwell , but the appointment of ex-skipper hird as boss in the summer of 1979 proved a masterstroke . . 
+10) RS: 0.89	Context: phil daley and english import , castleford 's kevin ward who was flown back out to australia specifically for the grand final . manly 's masterstroke was the signing of former rugby union international michael o'connor from st. george who was regarded as one of the most gifted attacking backs . 
+11) RS: 0.89	Context: , commander of the huk regional command in the visayas , erstwhile secretary general and one of the founders of the pkp . santos ' masterstroke was the enlistment of pedro valentin , a local mountain leader who knew the people and the terrain like the back of his hand . 
+12) RS: 0.83	Context: second division club due to the creation of the premier league , though they were now in the third tier . ian taylor became another masterstroke signing . taylor was purchased from non-league moor green for £15,000 in may 1992 . . 
+13) RS: 0.83	Context: the primary source of comic relief on the show . he is also able to develop film with common household items as seen in `` masterstroke of malevolance . '' . 
+14) RS: 0.83	Context: of a new coalition government , bringing senior figures from the opposition into the cabinet . at first the coalition was seen as a political masterstroke , as the conservative leader bonar law was given a relatively minor job ( secretary for the colonies ) , whilst former conservative leader . 
+15) RS: 0.83	Context: to the season with six wins and five losses by the end of the first full round . but their plight was rescued by a masterstroke from their chief executive keith barnes . the great britain side was touring australia that season and in strict secrecy barnes negotiated to have . 
+16) RS: 0.83	Context: dean street the day before setting sail for the battle of trafalgar . he spent the night drawing up his final battleplans , including the masterstroke of painting identifiable gold and black checks on the ships . he is said to have spent the early part of the evening at . 
+17) RS: 0.83	Context: , france ; and naples , italy , provided diversion for the ship 's company between u.s. and nato operations `` teamwork '' , `` masterstroke '' , and `` steel pike i '' . she returned to newport on 18 december . . 
+18) RS: 0.83	Context: larkham ’ s conversion from fullback to flyhalf is now hailed as a rod macqueen masterstroke that put the wallabies on track to win the 1999 rugby world cup . however , initially this was controversial selection as his tactical . 
+19) RS: 0.83	Context: which would have effectively ended his championship challenge . schumacher won the race after switching to a 3-stop strategy , which was seen as a masterstroke by tactician ross brawn . meanwhile häkkinen fell to 6th after gearbox problems in the closing stages . . 
+20) RS: 0.83	Context: was ultimately realised in 2009 . the replacement of premiership-winning coach steve folkes with his assistant kevin moore was met with uncertainty but proved a masterstroke . the purchases of several key players , including former melbourne and cronulla playmaker brett kimmorley changed the bulldogs from a poorly-run and poorly-performing . 
+21) RS: 0.78	Context: , he finds out that speckles , whose home and family had been destroyed by humans , is the mastermind of the plan , whose masterstroke is to cause a massive planetwide bombardment of space junk pulled from orbit to make the planet surface uninhabitable . speckles promptly amalgamates the . 
+22) RS: 0.78	Context: , instantly becoming one of tv 's funniest , sharpest shows . the casting of steve carell in the gervais role proved to be a masterstroke . the american `` office '' is that rarest of anomalies : a remake of a classic show that both does right by its . 
+23) RS: 0.78	Context: as `` a clever and effective argument '' . simon singh of the `` daily telegraph '' described the flying spaghetti monster as `` a masterstroke , which underlined the absurdity of intelligent design , '' and applauded henderson for `` galvanis [ ing ] a defence of science and . 
+24) RS: 0.78	Context: probably could not breach it . this essentially reduced the conflict to a naval one . themistocles now proposed what was in hindsight the strategic masterstroke in the allied campaign ; to lure the persian fleet to battle in the straits of salamis . however , as successful as this . 
+25) RS: 0.78	Context: . the descent to the extraterrestrial surface . the bitching by brett and parker , who are concerned only about collecting their shares . the masterstroke of the surface murk through which the crew members move , their helmet lights hardly penetrating the soup . the shadowy outline of the . 
+26) RS: 0.72	Context: after three dismal seasons on the field and at the gate , the team started to gel again . in a masterstroke , finley hired billy martin to manage the young team , led by new young stars rickey henderson , mike norris , tony armas . 
+27) RS: 0.72	Context: probably the best known example of such an approach is trapezoidal saint peter 's square , which has been praised as a masterstroke of baroque theatre . the square is shaped by two colonnades , designed by gian lorenzo bernini on an unprecedented colossal scale to suit . 
+28) RS: 0.72	Context: against the us over the fenians , the british had agreed to guarantee canadian loans for the construction of the canadian pacific railway . this masterstroke of diplomacy and statecraft allowed an otherwise deeply unpopular treaty to be ratified by parliament . . 
+29) RS: 0.72	Context: other schemes included the building of shelters for migrant workers ; the forgiveness of rural debt ; and , in a populist masterstroke , a plan to have an electric bulb in every house . when r. k. baliga , founder of the electronics city proposed the . 
+30) RS: 0.72	Context: accompaniment , and the syncopated chords from measures 72-77 give the piece a forward momentum . meter changes in measures 9 and 16 are a masterstroke , delicately altering the overall sense of phrase balance . . 
+31) RS: 0.72	Context: for the democratic party in the 1960s . despite the reservations robert kennedy had about johnson 's nomination , the move proved to be a masterstroke for his older brother . johnson vigorously campaigned for jfk and was instrumental in helping the democrats to carry several southern states skeptical of . 
+32) RS: 0.72	Context: the negotiation led by gustav nobel , on one side , and walter c. teagle , on the other , proved to be a profitable masterstroke for the nobel family . . 
+33) RS: 0.72	Context: central characters with religious icons , and staging his finale in a cathedral . that final scene was regarded by some critics as luhrmann 's masterstroke : adapting a device first used in restoration adaptations of the play , juliet begins to wake before romeo takes the poison , but . 
+34) RS: 0.72	Context: of appendicitis and star forward eddie keher couldn ’ t play because of a broken collar bone . limerick saw their chance and pulled a masterstroke when the moved éamonn cregan from the forwards back to centre-back where he marked kilkenny ’ s main score-getter pat delaney . on a . 
+35) RS: 0.67	Context: the team 's renewed ambition . his home debut versus calvisano was greeted by a capacity crowd and the signing was regarded as a marketing masterstroke . results improved with wins over the ospreys and the newport gwent dragons in december . . 
+36) RS: 0.67	Context: and third verses . the effectiveness of the concluding line in the concluding stanza has divided critics and has variously been described as `` a masterstroke of understatement '' and overtly sentimental . wordsworth 's voice remains largely muted , and he was equally silent about the poem and series . 
+37) RS: 0.67	Context: the newt gingrich 's contract with america introduced six weeks before the 1994 us congressional election , which was widely considered to be a creative masterstroke in his 2001 campaign bid for prime ministership . in this solemn agreement , berlusconi claimed his commitment on improving several aspects of the . 
+38) RS: 0.67	Context: edmund l. starling said of the raid : `` [ adam ] johnson performed perhaps the most reckless , and yet most successful , military masterstroke achieve by any commander of high or low authority , in either army during the war . '' . 
+39) RS: 0.67	Context: his notes on the plan ; they are amazed that one man could have created such a complete and detailed scheme , including obrien 's masterstroke . fearing to interfere with the plan , they keep their newfound knowledge to themselves . . 
+40) RS: 0.67	Context: had two competitors in its core market ( cpus ) , while microsoft had none . the integration of dos into windows 95 was the masterstroke : not only were the other operating system vendors frozen out , microsoft could now require computer manufacturers to comply with its demands on . 
+41) RS: 0.67	Context: as the pressure grew more intense on him during svein knutsson 's viceroy reign , einar made his greatest political masterstroke . he travelled to gardarike ( later russia ) , where he found olav 's eleven-year-old illegitimate son magnus ( later dubbed 'the good . 
+42) RS: 0.67	Context: cup in france . he is used to playing in the conditions and rotating him with current imcumbent cj van der linde would be a masterstroke . . 
+43) RS: 0.67	Context: dismiss sherwin campbell for his 299th wicket , then remove star batsman brian lara for his 300th wicket the very next ball . in a masterstroke this eventuated as planned , following this with the dismissal of captain jimmy adams to complete a memorable hat trick . the targeting of . 
+44) RS: 0.67	Context: the attack was a masterstroke of guerrilla planning . quantrill had been able to gain the confidence of many of the leaders of independent bushwhacker groups , and chose . 
+45) RS: 0.61	Context: in a massive manhunt and , at a summit meeting between the president of the united states and the soviet premier , make a daring masterstroke for peace in our time , and for all time . . 
+46) RS: 0.61	Context: it seemed a strategic masterstroke when hafey encouraged `` bull '' to play ruck-rover , and to rove to the rucks ' hitouts ( more often than not behind . 
+47) RS: 0.61	Context: a camera which recorded the murder scene . sheena is taken to jail and she transfers all her wealth to raj 's name . this masterstroke was fully planned by raj . a few years ago , all cameras were removed from the base camp but raj deliberately left this . 
+48) RS: 0.56	Context: fangio chose to switch teams again , joining maserati before the start of the season . the decision to switch proved to be a masterstroke , with ferrari 's line-up of peter collins , eugenio castellotti and the returning mike hawthorn failing to win a race . castellotti and . 
+49) RS: 0.56	Context: july 18–19 : civilization one , commander , dark tranquillity , drone , grind inc. , lyriel , masterstroke , moder , morgana lefay , nohellia , path of golconda , persefone , raintime , rocketchief , sabaton , sadist , scarlet fire . 
+50) RS: 0.56	Context: the cabinetmaker , well-endorsed , house chores , simple loan , ball , flytrap , trapeze , flupke the model maker , constructions , a masterstroke , barely believable , you can ’ t judge a book by its cover , the rocket , the scrupulous artist , the prey . 
+51) RS: 0.56	Context: `` the bulletin '' soon became known as `` the bushman 's bible , '' with a circulation reaching 80,000 by 1900 . archibald 's masterstroke was to open `` the bulletin '' 's pages to contributions from its readers in 1886 , running pages of poetry , short stories . 
+52) RS: 0.50	Context: effect from the midnight of july 19 , 1969 . jayaprakash narayan , a national leader of india , described the step as a `` masterstroke of political sagacity . '' `` within two weeks of the issue of the ordinance , the parliament passed the banking companies ( acquisition . 
+53) RS: 0.50	Context: and court ceremonial outstripped diocletian 's in their supra-human elevation of the imperial hierarch . his later direct intervention in church affairs proved a political masterstroke . constantine united and re-founded the empire as an absolute head of state by divine dispensation and was honoured as its first christian imperial . 
+54) RS: 0.50	Context: soba noodles at the time . ando began the sales of his most famous product , cup noodles on september 18 , 1971 with the masterstroke of providing a waterproof polystyrene container . as prices dropped , ramen soon became a booming business . worldwide demand reached 98 billion servings . 
+55) RS: 0.50	Context: valadier 's masterstroke was in linking the piazza with the heights of the `` pincio '' , the pincian hill of ancient rome , which overlooked the . 
+56) RS: 0.50	Context: , and praised the input of the group 's new recruit , mixmaster mike ; `` hiring dj mixmaster mike turned out to be a masterstroke ; he and the beasties created a sound that strongly recalls the spare electronic funk of the early '80s , but spiked with the . 
+57) RS: 0.50	Context: the hostile press , and official cricket benefited from a dramatic test series played between australia and a touring indian team . the acb 's masterstroke was the appointment of the 41 year-old bobby simpson as australian captain , after a ten-year retirement from first-class cricket . he led a . 
+58) RS: 0.50	Context: despite the reservations robert kennedy had about johnson 's nomination , choosing johnson as jfk 's running mate proved to be a masterstroke for his older brother . johnson vigorously campaigned for jfk and was instrumental in helping the democrats to carry several southern states skeptical of . 
+59) RS: 0.44	Context: the first years of her reign she spent a lot of effort in reducing their suspicions . her marriage to tungī mailefihi had been a masterstroke of her father , as tungī was a direct descendant of the tu ‘ i ha ‘ atakalaua , which at that time was . 
+60) RS: 0.44	Context: while covering the book series , `` fresh online '' , which interviewed cecily von ziegesar , called the creation of blair `` a masterstroke , '' asserting that `` her selfishness , stubbornness and complete self-obsession make her the focus of much of the humor , but while . 
+61) RS: 0.44	Context: midway through 2008 , with the hawks looking to bolster their backline , and in what would later turn out a masterstroke , coach alastair clarkson sent him back to defence ( where he was all-australian in 2005 ) and from there on hodge dominated . . 
+62) RS: 0.44	Context: appearance as one of the 33 best guest appearances in the show 's history , and the bbc classified his appearance as a `` pr masterstroke '' . the episode is included on the `` around the world in 80 d'ohs '' dvd . . 
+63) RS: 0.44	Context: named after the merchant navy shipping lines involved in the battle of the atlantic , and latterly those which used southampton docks , a publicity masterstroke by the southern railway , which operated southampton docks during the period . . 
+64) RS: 0.39	Context: shankly was a master tactician and player of mind games , which lead him to pull off a masterstroke just before the semi-final of the european cup against inter milan , anfield was already buzzing in anticipation of the up and coming game . 
+65) RS: 0.39	Context: for game 2 , giving a default win to spassky . his appeal was rejected . karpov speculates that this forfeited game was actually a masterstroke on fischer 's part , a move designed specifically to upset spassky 's equanimity . . 
+66) RS: 0.39	Context: of himself as a legitimate ruler of bosnia and denunciation of the heretic bosnian church , he was crowned in 1445 . in another political masterstroke , he married catherine in a catholic ceremony in may of 1446 ensuring , at least for a short while , the support of . 
+67) RS: 0.39	Context: a counter-league , march 9 , 1528 . they secured aid from other princes , and made expensive military preparations , to anticipate by a masterstroke an attack of the enemy . . 
+68) RS: 0.39	Context: , institutions and autonomy , remaining legally distinct but federated in a dynastic union under one ruling house . historians consider this arrangement the political masterstroke of the hispanic middle ages . both realms gained greater strength and security and aragon got its much needed outlet to the sea . . 
+69) RS: 0.39	Context: she had won the battle efficiency award for five consecutive years . in 1964 , she participated in nato exercises `` teamwork '' and `` masterstroke '' in the north atlantic . later in 1964 , she underwent 10 weeks of yardwork at baltimore , maryland , to provide adequate . 
+70) RS: 0.33	Context: . the trapezoidal shape of the piazza , which creates a heightened perspective for a visitor leaving the basilica and has been praised as a masterstroke of baroque theater ( `` illustration , below right '' ) , is largely a product of site constraints . . 
+71) RS: 0.33	Context: created a six point lead . it seemed as if kildare 's fitness had run meath into the ground . then boylan produced a tactical masterstroke introducing substitute jody devine who scored six points in quick succession and helping meath pull ahead by a single point before kildare grabbed a . 
+72) RS: 0.28	Context: larrieu was surprisingly made first choice for the 2001–02 season but this decision proved to be a masterstroke . plymouth became champions of division three ( now league 2 ) with larrieu conceding only 28 goals , keeping 27 clean-sheets ( a . 
+73) RS: 0.22	Context: was built on the western edge of millennium park . the `` chicago tribunes pulitzer prize-winning architecture critic blair kamin called this move `` a masterstroke '' and praised the new location `` where the skaters symbolize the year-round vitality of the city '' . kamin noted the location on . 
+74) RS: 0.17	Context: in july , 1999 , toronto 's star ray tv aired `` masterstroke '' , a comic soap opera written & directed by gil . it was on the set of this project that gil met dave . 
+75) RS: 0.17	Context: on guitars , riccardo paoli on bass ( the only ones left of the original line-up ) , mimmo palmiotta on drums ( previously with masterstroke and death ss ) and morby on vocals ( ex-sabotage , one of the very first metal band in italy ) . . 
+76) RS: 0.17	Context: , apparently intending to set the party on a reformist course . philbrick himself made a brief show of opposing this new policy — a masterstroke , as the policy was also opposed by william z . foster , longtime chairman of the communist party . shortly thereafter , in . 
+77) RS: 0.17	Context: a melody durable enough to withstand countless repeated listenings '' . `` entertainment weeklys raymond fiore referred to `` heartbeat '' as an `` indie-cred masterstroke '' . `` heartbeat '' ranked thirty-second on the 2004 pazz & jop list , a survey of several hundred music critics conducted by . 
+78) RS: 0.11	Context: “ the second version was a masterstroke , a second act to dramatize the entropy of the motion . and , since the figures always turn left , not only at . 
+79) RS: 0.11	Context: 5.d4 exd4 6.qxd4 qxd4 7.nxd4 ) and then outplaying capablanca in the endgame . luděk pachman remarks that lasker 's choice of opening was a masterstroke , since capablanca was intent on simplifying the game to obtain a draw , and the line lasker chose requires black to play actively . 
+80) RS: 0.11	Context: while performing in `` henry v '' in toronto the summer of 1999 , roberts auditioned for an avant-garde local tv production called `` masterstroke '' , and was cast as its lead . the comic soap opera aired for only a short time on ontario 's star ray . 
+81) RS: 0.06	Context: adult r & b '' . kelefa sanneh of `` blender '' described the `` soft-serve balladry '' of the song as a `` silk-sheets masterstroke '' . in a 2008 ign review , todd gilchrist explained that the elements of `` human nature '' worked better today than they . 

@@ -1,0 +1,26 @@
+Results from lm for Wordnet Verbs
+
+Example count: 8602
+Average option count: 47.73
+Minimum option count: 5
+Maximum option count: 593
+
+
+Prediction Rank Results
+
+| Model       |   Pattern 1 |   Best Pattern |
+|-------------+-------------+----------------|
+| gpt2        |        0.8  |           0.8  |
+| gpt2-medium |        0.8  |           0.8  |
+| gpt2-large  |        0.83 |           0.83 |
+| gpt2-xl     |        0.83 |           0.83 |
+
+
+Accuracy Results
+
+| Model       |   Pattern 1 |   Best Pattern |
+|-------------+-------------+----------------|
+| gpt2        |       43    |          43    |
+| gpt2-medium |       42.28 |          42.28 |
+| gpt2-large  |       46.7  |          46.7  |
+| gpt2-xl     |       46.97 |          46.97 |

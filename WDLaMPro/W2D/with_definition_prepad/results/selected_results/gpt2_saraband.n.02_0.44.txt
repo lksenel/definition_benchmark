@@ -1,0 +1,111 @@
+===============================================================================================
+
+WORD: saraband.n.02 (['Ġsar', 'aband']),     Number of Definitions: 19
+
+
+True Definition:
+a stately court dance of the 17th and 18th centuries; in slow time
+
+Prediction Rank Score: 0.44
+
+Definitions (True=1):
+
+1) a stately court dance of the 17th and 18th centuries; in slow time (saraband)
+Prediction Prob: 8.96298320653187e-08, Prediction Rank: 11
+
+2) a slow section of a pas de deux requiring great skill and strength by the dancers (adagio)
+Prediction Prob: 6.350557217268642e-07, Prediction Rank: 2
+
+3) a form of solo dancing that involves rapid acrobatic moves in which different parts of the body touch the ground; normally performed to the rhythm of rap music (break dancing)
+Prediction Prob: 3.28684092808901e-08, Prediction Rank: 18
+
+4) a court dance of the 16th century; consisted of short advances and retreats (courante)
+Prediction Prob: 1.6339073524384464e-07, Prediction Rank: 5
+
+5) a Latin American dance similar in rhythm to the rumba (mambo)
+Prediction Prob: 2.343557182497929e-07, Prediction Rank: 3
+
+6) an intricate traditional dance in India performed by professional dancing girls (nautch)
+Prediction Prob: 5.13179999809027e-08, Prediction Rank: 16
+
+7) (ballet) a dance for two people (usually a ballerina and a danseur noble) (pas de deux)
+Prediction Prob: 1.8730934035830456e-07, Prediction Rank: 4
+
+8) (ballet) a dance for four people (pas de quatre)
+Prediction Prob: 1.1807359011794838e-07, Prediction Rank: 9
+
+9) (ballet) a dance for three people (pas de trois)
+Prediction Prob: 1.3299060036500262e-07, Prediction Rank: 7
+
+10) (ballet) a solo dance or dance figure (pas seul)
+Prediction Prob: 1.4623743448618212e-07, Prediction Rank: 6
+
+11) a stately court dance of the 16th and 17th centuries (pavane)
+Prediction Prob: 7.121912185158709e-08, Prediction Rank: 12
+
+12) dance movements that are linked in a single choreographic sequence (phrase)
+Prediction Prob: 4.3094624395940935e-08, Prediction Rank: 17
+
+13) a dance that is part of a religious ritual (ritual dancing)
+Prediction Prob: 9.081612532652695e-08, Prediction Rank: 10
+
+14) a rhythmic dance to reggae music performed by bending forward and extending the hands while bending the knees (skank)
+Prediction Prob: 6.542917749410619e-07, Prediction Rank: 1
+
+15) a form of dancing in which dancers slam into one another; normally performed to punk rock (slam dancing)
+Prediction Prob: 5.804467859179628e-08, Prediction Rank: 13
+
+16) dancing as part of a social occasion (social dancing)
+Prediction Prob: 2.467705698402162e-08, Prediction Rank: 19
+
+17) a show involving artistic dancing (stage dancing)
+Prediction Prob: 5.6750730145714896e-08, Prediction Rank: 14
+
+18) dancing in which the steps are more important than gestures or postures (step dancing)
+Prediction Prob: 5.572047920301052e-08, Prediction Rank: 15
+
+19) a dance performed on tiptoe (toe dancing)
+Prediction Prob: 1.2542903619260468e-07, Prediction Rank: 8
+
+
+=====================================================
+Rank Scores one shot (correct def pairs):
+
+0) RS: 1.00	Context: a stately court dance of the 17th and 18th centuries; in slow time is the definition of saraband. 
+------------------------------------------------------------
+1) RS: 0.89	Context: the quality of being holy is the definition of holiness. . 
+2) RS: 0.89	Context: a truck equipped with a loudspeaker and used for advertising is the definition of sound truck. . 
+3) RS: 0.83	Context: (medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group is the definition of dysfunction. . 
+4) RS: 0.67	Context: an Australian sheepdog with pointed ears is the definition of kelpie. . 
+5) RS: 0.67	Context: a dance involving a rhythmical stamping step is the definition of stomp. . 
+6) RS: 0.50	Context: plants closely allied to the genera Satureja and Calamintha is the definition of acinos. . 
+7) RS: 0.44	Context: octopuses and paper nautilus is the definition of octopoda. . 
+8) RS: 0.39	Context: male salmon that has recently spawned is the definition of redfish. . 
+9) RS: 0.28	Context: a military vehicle (usually armored) for transporting military personnel and their equipment is the definition of personnel carrier. . 
+10) RS: 0.11	Context: a trivalent metallic element of the rare earth group; usually occurs in association with yttrium is the definition of lutetium. . 
+
+
+Rank Scores one shot (incorrect def pairs):
+
+
+------------------------------------------------------------
+1) RS: 0.94	Context: (medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group is the definition of roadrunner. . 
+2) RS: 0.89	Context: plants closely allied to the genera Satureja and Calamintha is the definition of filling. . 
+3) RS: 0.78	Context: a wildflower of the genus Ratibida is the definition of holiness. . 
+4) RS: 0.72	Context: the position of student is the definition of redfish. . 
+5) RS: 0.72	Context: the quality of being holy is the definition of coneflower. . 
+6) RS: 0.72	Context: a military vehicle (usually armored) for transporting military personnel and their equipment is the definition of rhinoscopy. . 
+7) RS: 0.67	Context: a dance involving a rhythmical stamping step is the definition of signor. . 
+8) RS: 0.67	Context: male salmon that has recently spawned is the definition of studentship. . 
+9) RS: 0.61	Context: used as an Italian courtesy title; can be prefixed to the name or used separately is the definition of stomp. . 
+10) RS: 0.61	Context: flow into something (as a container) is the definition of acinos. . 
+11) RS: 0.56	Context: oily egg-shaped nut of an American tree of the walnut family is the definition of sound truck. . 
+12) RS: 0.56	Context: an Australian sheepdog with pointed ears is the definition of actinium. . 
+13) RS: 0.50	Context: examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx) is the definition of personnel carrier. . 
+14) RS: 0.50	Context: a radioactive element of the actinide series; found in uranium ores is the definition of kelpie. . 
+15) RS: 0.50	Context: small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs is the definition of lutetium. . 
+16) RS: 0.50	Context: a truck equipped with a loudspeaker and used for advertising is the definition of butternut. . 
+17) RS: 0.44	Context: a filter that removes impurities from the oil used to lubricate an internal-combustion engine is the definition of octopoda. . 
+18) RS: 0.39	Context: speedy largely terrestrial bird found from California and Mexico to Texas is the definition of dysfunction. . 
+19) RS: 0.22	Context: a trivalent metallic element of the rare earth group; usually occurs in association with yttrium is the definition of velociraptor. . 
+20) RS: 0.17	Context: octopuses and paper nautilus is the definition of oil filter. . 

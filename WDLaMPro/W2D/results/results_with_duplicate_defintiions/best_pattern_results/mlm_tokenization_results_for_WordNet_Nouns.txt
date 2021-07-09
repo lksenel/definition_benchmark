@@ -1,0 +1,42 @@
+Results from mlm for Wordnet Nouns
+
+Example count: 51559
+Average option count: 50.23
+Minimum option count: 5
+Maximum option count: 404
+
+For 1 token:
+Example count: 3382
+Average option count: 29.80
+
+For 2 token:
+Example count: 16913
+Average option count: 35.50
+
+For 3 token:
+Example count: 17367
+Average option count: 49.80
+
+For 3+ token:
+Example count: 13897
+Average option count: 73.70
+
+
+Prediction Rank Results
+
+| Model              |   1 token |   2 token |   3 token |   3+ token |   all |
+|--------------------+-----------+-----------+-----------+------------+-------|
+| bert-base-uncased  |      0.88 |      0.85 |      0.79 |       0.76 |  0.82 |
+| bert-large-uncased |      0.89 |      0.86 |      0.78 |       0.75 |  0.83 |
+| roberta-base       |      0.88 |      0.86 |      0.83 |       0.78 |  0.83 |
+| roberta-large      |      0.9  |      0.88 |      0.85 |       0.8  |  0.85 |
+
+
+Accuracy Results
+
+| Model              |   1 token |   2 token |   3 token |   3+ token |   all |
+|--------------------+-----------+-----------+-----------+------------+-------|
+| bert-base-uncased  |     53    |     52.43 |     35.83 |      26.49 | 43.7  |
+| bert-large-uncased |     57.93 |     54.1  |     32.66 |      24.29 | 44.26 |
+| roberta-base       |     50.77 |     50.73 |     46.16 |      36.88 | 45.46 |
+| roberta-large      |     58.87 |     55.84 |     50.69 |      39.76 | 49.97 |

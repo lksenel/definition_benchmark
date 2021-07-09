@@ -1,0 +1,436 @@
+=========== Sample 0 ===========
+
+Contexts
+1) A Yankee sergeant gave the following <XXX> of his sweetheart : `` My girl is none of your one-horse girls .
+2) Through the SBA 's Management Counseling Program , practical , personalized <XXX> on sound management principles is available upon request to both prospective and established businessmen in a community .
+3) The crowd staged its own mad scene in salvos of cheers and <XXX> and finally a standing ovation as Miss Sutherland took curtain call after curtain call following a fantastic `` Mad Scene '' created on her own and with the help of the composer and the other performers .
+4) `` Can I tell you a <XXX> ?
+5) Under committee <XXX> , it went automatically to a subcommittee for one week .
+6) Will mere debate on that <XXX> , even though it be free and untrammeled , remove the dross and leave a residue of refined gold ?
+7) American audiences in particular learned two valuable <XXX> .
+8) She never said a <XXX> about the fifty dollars .
+
+Definitions
+1) a statement that represents something in words (description.n.01)
+2) a proposal for an appropriate course of action (advice.n.01)
+3) a demonstration of approval by clapping the hands together (applause.n.01)
+4) something that should remain hidden from others (especially information that is not to be passed on) (secret.n.01)
+5) prescribed guide for conduct or action (rule.n.03)
+6) (logic) a statement that affirms or denies something and is either true or false (proposition.n.01)
+7) the significance of a story or event (moral.n.01)
+8) a brief statement (word.n.02)
+
+
+=========== Sample 1 ===========
+
+Contexts
+1) In the above development we have applied the thermodynamics of equilibrium ( referred to by some as thermostatics ) to the steady <XXX> .
+2) As <XXX> has passed and science has progressed , the speed of military vehicles has increased , the range of missiles has been extended , the use of target-hunting noses on the projectiles has been adopted , and the range and breadth of message sending has increased .
+3) Practically all the <XXX> of Laos , he explained - about two million of them - are rice farmers , and the means and motives of modern war are as strange to them as clocks and steel plows .
+4) And even with her limited <XXX> of such things , she knew that the car could be repaired there ; sufficiently , at least , to get them back into town .
+5) Following observation of the fact that the reaction rates of supposedly identical reaction mixtures prepared on the same filling manifold and exposed under identical conditions often differed by several hundred per cent , a systematic series of experiments was undertaken to see whether the difficulty could be ascribed to the method of preparing the chlorine , to the effects of oxygen or moisture or to the effect of surface to <XXX> ratio in the reaction tubes .
+6) The <XXX> between particle size and infectious dose is illustrated in Table 1 .
+7) Every detail in his interpretation has been beautifully thought out , and of these I would especially cite the delicious landler touch the pianist brings to the fifth variation ( an obvious <XXX> that he is playing with Viennese musicians ) , and the gossamer shading throughout .
+8) `` Deegan '' , the manager said , his <XXX> pitched low , quivering .
+9) We have shown that the graph of f contains at least one component whose inverse is the entire <XXX> [ 0 , T ] , and whose multiplicity is odd .
+
+Definitions
+1) the way something is with respect to its main attributes (state.n.02)
+2) the continuum of experience in which events pass from the future through the present to the past (time.n.05)
+3) the body of citizens of a state or country (citizenry.n.01)
+4) the psychological result of perception and learning and reasoning (cognition.n.01)
+5) the amount of 3-dimensional space occupied by an object (volume.n.01)
+6) a relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness) (relationship.n.01)
+7) something that serves to indicate or suggest (indication.n.01)
+8) the sound made by the vibration of vocal folds modified by the resonance of the vocal tract (voice.n.02)
+9) a set containing all points (or all real numbers) between two given endpoints (interval.n.02)
+
+
+=========== Sample 2 ===========
+
+Contexts
+1) He came spurring and whooping down the road , his horse kicking up clouds of <XXX> , shouting :
+2) Pels also sent a check for $ 100 to Russell 's widow and had a white <XXX> monument erected on his grave .
+3) The high cost of land and a few operational problems resulting from excessive loadings have created the need for a <XXX> treatment system with the operational characteristics of the oxidation pond but with the ability to treat more organic matter per unit volume .
+4) It was a fine broody hen , white , with a maternal eye and a striking abundance of <XXX> in the under region of the abdomen .
+5) It was then distilled at least three times from a trap at - 78 ` to a liquid air trap with only a small middle <XXX> being retained in each distillation .
+6) The thing is that these bees love a fine-grained <XXX> that is moist ; yet the water in the ground should not be stagnant either .
+7) And the coffee shop on Drexel Street , where the men spent their evenings and Sundays playing <XXX> , had a rose hedge beneath its window .
+
+Definitions
+1) fine powdery material such as dry earth or pollen that can be blown about in the air (dust.n.01)
+2) a hard crystalline metamorphic rock that takes a high polish; used for sculpture and as building material (marble.n.01)
+3) water mixed with waste matter (effluent.n.01)
+4) the light horny waterproof structure forming the external covering of birds (feather.n.01)
+5) a component of a mixture that has been separated by a fractional process (fraction.n.01)
+6) the part of the earth's surface consisting of humus and disintegrated rock (soil.n.02)
+7) one of a set of small pieces of stiff paper marked in various ways and used for playing games or for telling fortunes (card.n.01)
+
+
+=========== Sample 3 ===========
+
+Contexts
+1) With lower levels , thyroid hypertrophy and increased thyroid blood flow enable the thyroid to accumulate a larger proportion of the daily <XXX> of iodine .
+2) Hal felt sorry for Mary ; he had a time keeping the <XXX> from welling to his own eyes as he stood in the crowd in the observation dome .
+3) `` As long as the couple is in agreement in their approach to <XXX> , it makes little difference if one or the other dominates '' , Dr. Calderone declares .
+4) His face took on a sudden pallor , became beaded with sweat , and he seemed to have trouble with his <XXX> .
+5) It improves over-all balance and <XXX> for the bodybuilder , and helps to make Squats more easily and more correctly performed .
+
+Definitions
+1) the process of taking food into the body through the mouth (as by eating) (consumption.n.01)
+2) the process of shedding tears (usually accompanied by sobs or other inarticulate sounds) (crying.n.01)
+3) activities associated with sexual intercourse (sexual_activity.n.01)
+4) the bodily process of inhalation and exhalation; the process of taking in oxygen from inhaled air and releasing carbon dioxide by exhalation (breathing.n.01)
+5) (physiology) regulation or maintenance of a function or action or reflex etc (control.n.03)
+
+
+=========== Sample 4 ===========
+
+Contexts
+1) In of all the <XXX> that were made , his was the silliest the possessive his represents his suggestion and is stressed .
+2) When Mayor Dever heard of the banquet he summoned Hughes for an <XXX> of why he had been dishonouring the police department by consorting with these felons and fixers .
+3) As part of the same arrangement , Torrio had , in the <XXX> of peace and good will , and in exchange for armed support in the April election campaign , bestowed upon O ' Banion a third share in the Hawthorne Smoke Shop proceeds and a cut in the Cicero beer trade .
+4) A <XXX> of meteorite data , prepared by Whipple ( 1958 ) on the basis of photographic , visual , and radar evidence , is given in Table 5 - 1 .
+5) A major portion of the <XXX> should also go to flautist Haumd for his rendering of the almost impossible `` Indianapolis '' movement in the Baslot .
+6) Certainly one of the most important <XXX> that can be made upon the spiritual and cultural life of any period of Western civilization during the past sixteen or seventeen centuries has to do with the way in which its leaders have read and interpreted the Bible .
+
+Definitions
+1) a proposal offered for acceptance or rejection (suggestion.n.02)
+2) a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc. (explanation.n.01)
+3) the intended meaning of a communication (intent.n.02)
+4) a brief statement that presents the main points in a concise form (summary.n.01)
+5) approval (recognition.n.03)
+6) a written explanation or criticism or illustration that is added to a book or other textual material (comment.n.02)
+
+
+=========== Sample 5 ===========
+
+Contexts
+1) In a series of fairy tales and fantasies , Melies demonstrated that the film is superbly equipped to tell a straightforward <XXX> , with beginning , middle and end , complications , resolutions , climaxes , and conclusions .
+2) This explanation of tone difficulties , however , does not apply in all <XXX> .
+3) On June 6 , 1958 , General Motors submitted its objections to the Government 's <XXX> .
+4) The fish hawk flew on and was lost from <XXX> .
+5) In your <XXX> , who is this E. Andrews on the ' certain ' list `` ?
+6) As soon as he could think logically again he reached for the telephone directory and found Jerry Burton 's home <XXX> .
+
+Definitions
+1) a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program (narrative.n.01)
+2) (language) communication by word of mouth (speech.n.02)
+3) something proposed (such as a plan or assumption) (proposal.n.01)
+4) anything that is seen (sight.n.02)
+5) a message expressing a belief about something; the expression of a belief that is held with confidence but not substantiated by positive knowledge or proof (opinion.n.02)
+6) the number is used in calling a particular telephone (phone_number.n.01)
+
+
+=========== Sample 6 ===========
+
+Contexts
+1) Since the details of the elections were settled the <XXX> of government had no direct effect on the technical aspects of the elections , and may have been more important as an indication of royal displeasure with the U.N.F.P.
+2) It purported to be a reasonably serious <XXX> at a treatment of jazz musicians , their aims , their problems - the tug-of-war between the `` pure '' and the `` commercial '' - and seemed a promising vehicle , for the two men shared a common interest in jazz .
+3) When negotiating with your union , do you make sure employees have a <XXX> between new benefits and their cents per hour cost in wages .
+4) To free the factors of production was a major objective of the rising bourgeoisie , and this objective required that governmental authority - administrative officials and judges - be limited as precisely and explicitly as possible ; that old customs which inhibited trade be abrogated ; that business be free from governmental supervision and notions of morality which might clog the automatic adjustments of the free <XXX> ; that obligations of status that were inconsistent with the new politics and the new economics be done away with .
+5) Yet often fear persists because , even with the most rigid ritual , one is never quite free from the uneasy feeling that one might make some <XXX> or that in every previous execution one had been unaware of the really decisive act .
+6) Radiation instruments suitable for home use are available , and would be of value in locating that portion of the home which offers the best <XXX> against fallout radiation .
+7) The radio <XXX> of a planet was first detected in 1955 , when Burke and Franklin ( 1955 ) identified the origin of interference like radio noise on their records at about 15 meters wave length as <XXX> from Jupiter .
+
+Definitions
+1) the action of changing something (change.n.03)
+2) earnest and conscientious activity intended to do or accomplish something (attempt.n.01)
+3) the act of choosing or selecting (choice.n.02)
+4) the world of commercial activity where goods and services are bought and sold (market.n.01)
+5) a wrong action attributable to bad judgment or ignorance or inattention (mistake.n.01)
+6) the activity of protecting someone or something (protection.n.01)
+7) the act of emitting; causing to flow forth (emission.n.01)
+
+
+=========== Sample 7 ===========
+
+Contexts
+1) In view of the increasing shortage of usable surface and ground water in many parts of the Nation and the importance of finding new sources of supply to meet its present and future water <XXX> , it is the policy of the Congress to provide for the development of practicable low-cost means for the large-scale production of water of a quality suitable for municipal , industrial , agricultural , and other beneficial consumptive uses from saline water , and for studies and research related thereto .
+2) ( 3 ) For anionics , these micelles appear to be roughly spherical assemblages in which the hydrocarbon tails come together so that the polar <XXX> ( the ionized ends ) face outward towards the aqueous continuous phase .
+3) The morning hawk , hungry for any eatable , killable , digestible item , kept his eyes on the ring of anchored ships that lay off the shores in the <XXX> , sheltered by the Jersey inlets .
+4) A <XXX> which has all of its watershed within a national forest or other lands under good conservation practices is less likely to be affected by pollution than one passing through unrestricted logging or past an industrial area .
+5) A measure of the total mass accretion of meteoritic material by the Earth is obtained from analyses of deep <XXX> sediments and dust collected in remote regions ( Pettersson , 1960 ) .
+6) By means of charts showing wave travel times and depths in the <XXX> at various locations , it is possible to estimate the rate of approach and probable time of arrival at Hawaii of a tsunami getting under way at any spot in the Pacific .
+7) In the first of these sentences if by is the complement of come and Tuesday is an <XXX> of time equivalent to on Tuesday , there will be strong stress on by in the spoken language ; but if a complement for come is implied and by Tuesday is a prepositional unit used as an <XXX> , by will be unstressed or lightly stressed at most .
+8) The enormous plates which had held Mr. Jack 's four fried eggs and five <XXX> of bacon were still stacked in the sink .
+9) Living with his watercolors is a vicarious experience of seeing nature distilled through the eyes of a sensitive interpretor , a breath and breadth of the outdoor <XXX> to help man honor the Creator of it all .
+10) Besides the well-known hydrogen line at 21 cm wavelength , the spectra of extraterrestrial radio sources may contain sharp lines characteristic of other atoms , ions , and small <XXX> .
+
+Definitions
+1) anything that is necessary but lacking (need.n.02)
+2) (chemistry) two or more atoms bound together as a single unit and forming part of a molecule (group.n.02)
+3) an indentation of a shoreline larger than a cove but smaller than a gulf (bay.n.01)
+4) a natural body of running water flowing on or under the earth (stream.n.01)
+5) a division of an ocean or a large body of salt water partially enclosed by land (sea.n.01)
+6) a large body of water constituting a principal part of the hydrosphere (ocean.n.01)
+7) something added to another thing but not an essential part of it (adjunct.n.01)
+8) a relatively long narrow piece of something (strip.n.01)
+9) a part of the earth that can be considered separately (world.n.06)
+10) (physics and chemistry) the simplest structural unit of an element or compound (molecule.n.01)
+
+
+=========== Sample 8 ===========
+
+Contexts
+1) The sequence of <XXX> leading to his important discovery still remains ambiguous but it seems that one of the advanced students at the university related that the first direct event that led to the publication of Oersted 's discovery occurred during a private lecture made before a group of other advanced students in the spring of 1820 .
+2) This manifestation may be an early <XXX> of multiple sclerosis or the beginning of sewer 's cramp .
+3) The casual seduction of a seventeen year old bluestocking seemed tame by <XXX> .
+4) The <XXX> is composed of three credit services , Federal Land Banks and National Farm Loan Associations , Federal Intermediate ( short-term ) Credit Banks , and Banks for Cooperatives .
+5) The amount of water frontage , the quantity and <XXX> of the water , and the recreation afforded by it are important .
+6) It is at this <XXX> in his life that the mature Prokofieff emerges .
+7) The major question in this chapter is : What is the <XXX> of exactly x successes in n trials ?
+8) Of the longer pieces of the volume none is so memorable as `` Nameless and Immortal '' , which at once took rank among the finest poems ever written in the Swedish <XXX> .
+9) By monitoring , we mean some system of <XXX> over the types of information sent from the various centers .
+
+Definitions
+1) something that happens at a given place and time (event.n.01)
+2) any nonverbal action or gesture that encodes a message (signal.n.01)
+3) relation based on similarities and differences (comparison.n.02)
+4) a group of independent but interrelated elements comprising a unified whole (system.n.02)
+5) an essential and distinguishing attribute of something or someone; --Shakespeare (quality.n.01)
+6) an instant of time (point.n.06)
+7) a measure of how likely it is that some event will occur; a number expressing the ratio of favorable cases to the whole number of cases possible (probability.n.01)
+8) a systematic means of communicating by the use of sounds or conventional symbols (language.n.01)
+9) a relation of constraint of one entity (thing or person or group) by another (control.n.02)
+
+
+=========== Sample 9 ===========
+
+Contexts
+1) To the <XXX> , it was a brilliant satire on modernism ; to the Neo Classicists , it was a challenge to the pre-war world .
+2) `` Yes , <XXX> .
+3) In 1959 SAAMI 's shooting development program announced a new activity designed to expose thousands of teen-age boys and <XXX> to the healthy fun enjoyed through the participation in the shooting sports .
+4) And you know you will always wonder all of your life whether it was because you wanted him so bad that you did n't get him , and you can feel nearly sorry enough to cry when you think of that other <XXX> , the chump who begged you to marry him , the one with the plastered hair and the car he could n't afford and the too shiny shoes .
+5) I called the other afternoon on my old friend , Graves Moreland , the Anglo-American literary <XXX> - his mother was born in Ohio - who lives alone in a fairy-tale cottage on the Upson Downs , raising hell and peacocks , the former only when the venerable gentleman becomes an angry old man about the state of literature or something else that is dwindling and diminishing , such as human stature , hope , and humor .
+6) She stood there , a large <XXX> , smiling at the things she would say to him in the morning , this big foolish baby of a son .
+7) When I talked to Ching about it , he said , Everyone can learn , if he is not a <XXX> or lazy .
+8) `` Ladies and <XXX> , in place of my regular closing number tonight , I 'd like to sing something of a different nature for you .
+
+Definitions
+1) one who adheres to traditional views (traditionalist.n.01)
+2) term of address for a man (sir.n.01)
+3) a young woman (girl.n.01)
+4) an informal term for a youth or man (guy.n.01)
+5) a person who is professionally engaged in the analysis and interpretation of works of art (critic.n.01)
+6) a woman who is old (old_woman.n.01)
+7) an extreme conservative; an opponent of progress or liberalism (reactionary.n.01)
+8) a man of refinement (gentleman.n.01)
+
+
+=========== Sample 10 ===========
+
+Contexts
+1) The engineer had more than seven years of experience in the firm , was well trained , was considered a hard worker , was respected by his fellow engineers for his technical <XXX> and was regarded as a `` comer '' .
+2) Privately , he created and magnified an <XXX> of himself as a hired assassin .
+3) Few states make effective <XXX> of their existing vocational education programs or funds for the purpose of attracting new industry .
+4) The warped , broken trees in the valley assumed wraith-like <XXX> .
+5) This much having been said , the question remains whether we have the <XXX> for the job we have to do - defeat Communism - and , if so , how those <XXX> ought to be used .
+6) In any given period piece the costumes , bric-a-brac , vehicles , and decor , bear the stamp of unimpeachable <XXX> .
+7) And in its engineers ' frantic attempts to achieve maximum dynamic impact and earsplitting <XXX> , the recording sounds as though it had been `` doctored for super high fidelity '' .
+8) The <XXX> of staining with * * f was established as follows : * * f specifically stained tumor sections but not sections of healthy sweet clover stems or of crown gall tumor tissue from sweet clover .
+
+Definitions
+1) the quality of being adequately or well qualified physically and intellectually (competence.n.01)
+2) (Jungian psychology) a personal facade that one presents to the world (persona.n.02)
+3) a particular service (use.n.03)
+4) the visual appearance of something or someone (form.n.07)
+5) a source of aid or support that may be drawn upon when needed (resource.n.02)
+6) undisputed credibility (authenticity.n.01)
+7) the quality of being magnificent or splendid or grand (magnificence.n.02)
+8) the quality of being specific rather than general (specificity.n.01)
+
+
+=========== Sample 11 ===========
+
+Contexts
+1) During the following week , six tons of hay belonging to one <XXX> were burned ; some buildings , farm tools , two horses , plows , and hay owned by Bonito Lavato , a friendly interpreter for the company , and Pedro Chavez ' hay were stolen or destroyed ; and a store was broken into and robbed .
+2) Roy Mason is essentially a landscape <XXX> whose style and direction has a kinship with the English watercolorists of the early nineteenth century , especially the beautifully patterned art of John Sell Cotman .
+3) He looked for the <XXX> of the noise that had awakened him * * h It was that prick Coughlin .
+4) Such payments shall be made to small domestic <XXX> of zinc as long as the market price for prime western zinc at East Saint Louis , Illinois , as determined by the Secretary , is below 14 - 1 2 cents per pound , and such payments shall be 55 per centum of the difference between 14 - 1 2 cents per pound and the average market price for the month in which the sale occurred as determined by the Secretary .
+5) Besides , it 's important to the way a painter thinks that he should move in a certain atmosphere , an atmosphere in which he may absorb the ideas of other <XXX> , as Durer went to Italy to meet Bellini and Mantegna '' .
+6) The thoroughgoing idealization of the <XXX> society did not come , however , until after the Civil War when Southern writers were eager to defend a way of life which had been destroyed .
+
+Definitions
+1) a person who owns or operates a ranch (rancher.n.01)
+2) an artist who paints (painter.n.01)
+3) someone who originates or causes or initiates something (generator.n.03)
+4) someone who manufactures something (manufacturer.n.02)
+5) an artist of consummate skill (maestro.n.01)
+6) the owner or manager of a plantation (planter.n.01)
+
+
+=========== Sample 12 ===========
+
+Contexts
+1) Some of the choicest <XXX> made by soldiers in their letters were in disparagement of unpopular officers .
+2) This much having been said , the <XXX> remains whether we have the resources for the job we have to do - defeat Communism - and , if so , how those resources ought to be used .
+3) The film they did after his return was an inconsequential bit of nothing titled Out of This World , a <XXX> on the Sinatra bobby-soxer craze .
+4) They 'd peddled the soap virtually alone , and without much success , until about a year ago , when - with the addition of `` SX-21 '' to their secret <XXX> and the inauguration of a high-powered advertising campaign - sales had soared practically into orbit .
+5) Despite the 45 - degree weather the game was clicked off in 1 : 48 , <XXX> to only three bases on balls and some good infield play .
+6) On one of his 1921 ventures he was actually come upon by a Detective Sergeant John J. Ryan down on his knees with a tool embedded in a labour office safe in the Postal Telegraph Building ; the jury wanted better <XXX> than that and he was acquitted , at a cost of $ 30000 in bribes , it was estimated .
+
+Definitions
+1) a statement that expresses a personal opinion or belief or adds information (remark.n.01)
+2) the subject matter at issue (question.n.02)
+3) witty language used to convey insults or scorn; ; ; --Jonathan Swift (sarcasm.n.01)
+4) directions for making something (recipe.n.01)
+5) an acknowledgment of appreciation (thanks.n.01)
+6) (law) all the means by which any alleged matter of fact whose truth is investigated at judicial trial is established or disproved (evidence.n.03)
+
+
+=========== Sample 13 ===========
+
+Contexts
+1) Subject to the limitations of this Act , the Secretary shall make stabilization payments to small domestic producers upon <XXX> of evidence satisfactory to him of their status as such producers and of the sale by them of newly mined ores , or concentrates produced therefrom , as provided in this Act .
+2) There was a clump of trees that appeared to provide <XXX> right up to the road , and the shouting and gunfire never slackened .
+3) The next thing he knew he was reporting for duty as commanding officer of Troop H , 7 th Cavalry , in the middle of corps <XXX> in Japan .
+4) On the other hand , if he wishes to continue in his chosen <XXX> , he must abandon his own code and sacrifice his precious individualism .
+5) Greatest benefits have been associated with <XXX> low moisture corn in beef <XXX> programs .
+6) By the death of his father in 1888 he had come into <XXX> of the family estate and had re-assumed its traditions .
+7) He had gotten stuck with a job too big for his imagination ; he had to cling to <XXX> , tested procedures .
+
+Definitions
+1) the activity of formally presenting something (as a prize or reward) (presentation.n.01)
+2) the act of concealing the existence of something by obstructing the view of it (cover.n.03)
+3) a military training exercise (maneuver.n.01)
+4) an occupation requiring special education (especially in the liberal arts or sciences) (profession.n.02)
+5) the act of supplying food and nourishment (feeding.n.02)
+6) the act of having and controlling property (possession.n.01)
+7) an unvarying or habitual method or procedure (routine.n.01)
+
+
+=========== Sample 14 ===========
+
+Contexts
+1) Frequently a few isolated thick walled cells or , rarely , groups of such cells in the xylem region , were also specifically stained , but there was no such <XXX> in epidermis , cortex , most xylem cells , ray cells , or pith .
+2) To perpetuate wealth control led by small groups of individuals who played no role in its <XXX> prevents those with real initiative from coming to the fore , and is basically anti democratic .
+3) Do you insist that unneeded salary employees take their vacations during plant <XXX> ?
+4) Since electrical <XXX> of the posterior hypothalamus produces the effects of wakefulness while <XXX> of the anterior hypothalamus induces sleep , it may be said that the reactivity of the whole organism is altered by a change in the autonomic reactivity of the hypothalamus .
+5) The expense of this type of organization in religious life , when one recalls the number of city churches which deteriorated beyond <XXX> before being abandoned , raises fundamental questions about the principle of Protestant survival in a mobile society ; nonetheless , the prevalence of economic integration in congregations illumines the nature of the Protestant development .
+
+Definitions
+1) the act of spotting or staining something (staining.n.02)
+2) the act of starting something for the first time; introducing something new (initiation.n.02)
+3) termination of operations (closure.n.07)
+4) the act of arousing an organism to action (stimulation.n.01)
+5) the act of putting something in working order again (repair.n.01)
+
+
+=========== Sample 15 ===========
+
+Contexts
+1) Since it requires only five players , it would seem to fall into the <XXX> of chamber music - yet it calls for a double bass , an instrument generally regarded as symphonic .
+2) He has announced results on Hokan , Penutian , Uto-Aztecan , and almost all other American families and phyla , and has diagrammed their degree of interrelation ; but he has not worked out by lexicostatistics one comprehensively complete <XXX> of even a single family other than Salish .
+3) All research within the United States contracted for , sponsored , cosponsored , or authorized under authority of this Act , shall be provided for in such manner that all information , uses , products , processes , patents , and other developments resulting from such research developed by Government expenditure will ( with such exceptions and limitations , if any , as the Secretary may find to be necessary in the interest of national defense ) be available to the general <XXX> .
+4) In the casual field straws feature wedge heels of cork or carved wood in a <XXX> of styles .
+5) Most countries in this second category share the difficulty of having many of the structures of a modern political and <XXX> without the modern standards of performance required to make them effective .
+6) Two poets are paired on each record , in the <XXX> given above .
+7) Yes , he believed that the Jews were `` <XXX> of the Reich '' , and such a belief is , of course , typical of `` patriotic '' anti-Semites ; but he believed in the Jew as enemy in a kind of abstract , theological way , like a member of a cult speculating on the nature of things .
+8) These short , `` streamlined '' meetings usually are sponsored by local banks , Chambers of Commerce , trade associations , or other civic <XXX> .
+9) The females like to burrow in the short turf of well-kept lawns , where their little <XXX> of earth often appear by the hundreds .
+10) Not only is this kind of duplication wasteful , but it gives the combined system the ability to take freight <XXX> away from the New York Central and other railroads serving the area .
+
+Definitions
+1) a collection of things sharing a common attribute (class.n.01)
+2) a group of people or things arranged by class or category (classification.n.02)
+3) people in general considered as a whole (populace.n.01)
+4) a collection containing a variety of sorts of things (assortment.n.01)
+5) the people in a society considered as a system organized by a characteristic pattern of relationships (social_organization.n.01)
+6) logical or comprehensible arrangement of separate elements (ordering.n.01)
+7) any hostile group of people (enemy.n.03)
+8) a group of people who work together (organization.n.01)
+9) a collection of objects laid on top of each other (pile.n.01)
+10) the aggregation of things (pedestrians or vehicles) coming and going in a particular locality during a specified period of time (traffic.n.01)
+
+
+=========== Sample 16 ===========
+
+Contexts
+1) The <XXX> of the arc voltage upon the mass flow velocity of the transpirating gas was investigated for various arc lengths and currents between 100 Amp and 200 Amp .
+2) Its form was a heavy <XXX> in a fluttering soutane .
+3) It can put an <XXX> to marginal claims which play havoc with your insurance rates .
+4) Adam and Eve were perfect , not in the sense that they possessed <XXX> , but in the sense that they were capable of development toward <XXX> .
+5) It was , too , an optimistic philosophy , and , though it separated law from <XXX> , it was by no means an immoral or amoral one .
+6) Equally a master of prose and verse , he recreates the glory of Sweden in the past and continues it into the <XXX> .
+7) The argument against this last approach is comparable to that which rejects stories about hoop snakes , about snakes that break themselves into many pieces and join up again , or even of ghosts that chase people out of graveyards ; the mere piling up of testimony does not prove , to the scientific mind , the <XXX> of hoop snakes , joint snakes , or ghosts .
+8) One <XXX> of the spirit in community is its givenness .
+9) Probably because it was a place where she might get a <XXX> of certainty and security .
+10) One of the ironies of the present crusade for Christian <XXX> is that there are not , relatively speaking , many real Christians to unite .
+
+Definitions
+1) the state of relying on or being controlled by someone or something else (dependence.n.01)
+2) a combination of points and lines and planes that form a visible palpable shape (figure.n.06)
+3) a final state (end.n.06)
+4) the state of being without a flaw or defect (perfection.n.01)
+5) concern with the distinction between good and evil or right and wrong; right or good conduct (morality.n.01)
+6) the period of time that is happening now; any continuous stretch of time including the moment of speech (present.n.01)
+7) the state or fact of existing (being.n.01)
+8) a distinguishing quality (characteristic.n.02)
+9) the experiencing of affective and emotional states (feeling.n.01)
+10) an undivided or unbroken completeness or totality with nothing wanting (integrity.n.01)
+
+
+=========== Sample 17 ===========
+
+Contexts
+1) This is the only case in modern history of a people of Britannic origin submitting without continued struggle to what they view as foreign <XXX> .
+2) Procreation , expansion , proliferation - these are the laws of living things , with the <XXX> for not obeying them the ultimate in punishments : oblivion .
+3) Noticing Russell 's horse in front of the long log building , he assumed his friend had slipped inside and would be able to put up a good <XXX> , so he began working his way down the ditch to join him .
+4) It rested its decision solely on 7 , which reads in pertinent part : `` [ N ] o corporation engaged in <XXX> shall acquire , directly or indirectly , the whole or any part of the stock or other share capital of another corporation engaged also in <XXX> , where the effect of such acquisition may be to substantially lessen competition between the corporation whose stock is so acquired and the corporation making the acquisition , or to restrain such <XXX> in any section or community , or tend to create a monopoly of any line of <XXX> .
+5) State and federal legislation against racial <XXX> in employment was called for yesterday in a report of a `` blue ribbon '' citizens committee on the aid to dependent children program .
+6) Missionary outreach by friendly contact looks somewhat different when one reflects on what is known about friendly contact in metropolitan neighborhoods ; the majority of such contacts are with people of similar social and economic position ; <XXX> by level of achievement is the dominant principle of informal relations .
+7) The new Council was itself inescapably of political meaning , which was most clearly revealed in the <XXX> of any U.N.F.P. members and the presence of several Istiqlal leaders .
+8) They figured prominently in the Balafrej government of May , 1958 , which the King was reportedly determined to keep in office until <XXX> could be held .
+
+Definitions
+1) social control by dominating (domination.n.01)
+2) the act of punishing (punishment.n.01)
+3) the act of fighting; any contest or struggle (fight.n.02)
+4) transactions (sales and purchases) having the objective of supplying commodities (goods and services) (commerce.n.01)
+5) unfair treatment of a person or group on the basis of prejudice (discrimination.n.01)
+6) the act of consorting with or joining with others (association.n.02)
+7) failure to be present (absence.n.02)
+8) a vote to select the winner of a position or political office (election.n.01)
+
+
+=========== Sample 18 ===========
+
+Contexts
+1) While Johnny made himself comfortable on the <XXX> , I 'd play the tunes for him .
+2) Harold put a teaspoonful of powdered coffee in his cup and filled it with hot water , and then , stirring , he sat back in his <XXX> .
+3) At the end of work one day , the personnel man took the applicants one at a time , asked them to sit behind the receptionist 's <XXX> and he then played the role of a number of people who might come to the receptionist with a number of queries and for a number of purposes .
+4) He sat beside Kate 's <XXX> with the others throughout the morning , talking , talking of God 's will , while Kate lay staring angrily at him .
+5) Conrad hung up and sat on the small telephone-booth <XXX> , massaging his right leg .
+
+Definitions
+1) an upholstered seat for more than one person (sofa.n.01)
+2) a seat for one person, with a support for the back (chair.n.01)
+3) a piece of furniture with a writing surface and usually drawers or other compartments (desk.n.01)
+4) a piece of furniture that provides a place to sleep (bed.n.01)
+5) a long seat for more than one person (bench.n.01)
+
+
+=========== Sample 19 ===========
+
+Contexts
+1) Thus , 1745 corresponded to the <XXX> of the `` Leiden '' jar by Kleist , 1764 that of the electrophorus by Wilcke , 1782 produced the condenser of Volta , and 1801 the voltaic pile .
+2) Except for a rich friendship with the painter , Chauncey Ryder who gave him the only professional instruction he ever had - and this was limited to a few lessons , though the two <XXX>ists often went on painting trips together - Roy developed his <XXX> by himself .
+3) The opium had disappeared before Emile 's death and whoever shot him could not by any stretch of the <XXX> have foreseen Sarah 's own doubts and suspicions - and questions .
+4) Regardless of rights and wrongs , a population and an area appropriate to a pre World War I , great power have been , following conquest , ruled against their <XXX> by a neighboring people , and have had imposed upon them social and economic controls they dislike .
+5) He was oblivious of the form of the object actually being viewed , precisely because he could not assign it to a visual shape , already learned and held in visual <XXX> , as persons of normal vision do .
+6) At the end of the half-hour , racking his <XXX> , thinking over and over again of Kitti , her friends , her past , he left the bedroom .
+7) By `` image '' is meant not only a visual presentation , but also remembered sensations of any of the five <XXX> plus the feelings which are immediately conjoined therewith .
+8) On the one side we have the university professors and their students , trained in Teutonic <XXX> of research , who have sought out , collected and studied the true products of the oral traditions of the ethnic , regional and occupational groups that make up this nation .
+
+Definitions
+1) the creation of something in the mind (invention.n.01)
+2) a superior skill that you can learn by study and practice and observation (art.n.03)
+3) the formation of a mental image of something that is not perceived as real and is not present to the senses (imagination.n.01)
+4) the capability of conscious choice and decision and intention; - George Meredith (volition.n.01)
+5) the power of retaining and recalling past experience (memory.n.03)
+6) mental ability (brain.n.02)
+7) the faculty through which the external world is apprehended (sense.n.03)
+8) a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps) (method.n.01)
+
+

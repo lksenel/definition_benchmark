@@ -1,0 +1,138 @@
+===============================================================================================
+
+WORD: step_dancing.n.01 (['Ġstep', 'Ġdancing']),     Number of Definitions: 19
+
+
+True Definition:
+dancing in which the steps are more important than gestures or postures
+
+Prediction Rank Score: 0.67
+
+Definitions (True=1):
+
+1) dancing in which the steps are more important than gestures or postures (step_dancing.n.01)
+Prediction Prob: 0.00011843651655287467, Prediction Rank: 7
+
+2) a slow section of a pas de deux requiring great skill and strength by the dancers (adagio.n.02)
+Prediction Prob: 5.8213942316183084e-05, Prediction Rank: 10
+
+3) a form of solo dancing that involves rapid acrobatic moves in which different parts of the body touch the ground; normally performed to the rhythm of rap music (break_dancing.n.01)
+Prediction Prob: 0.0005829776252799582, Prediction Rank: 1
+
+4) a court dance of the 16th century; consisted of short advances and retreats (courante.n.01)
+Prediction Prob: 0.0004377355960140661, Prediction Rank: 2
+
+5) a Latin American dance similar in rhythm to the rumba (mambo.n.01)
+Prediction Prob: 0.000146936477330324, Prediction Rank: 6
+
+6) an intricate traditional dance in India performed by professional dancing girls (nautch.n.01)
+Prediction Prob: 5.7424153919460874e-05, Prediction Rank: 11
+
+7) (ballet) a dance for two people (usually a ballerina and a danseur noble) (pas_de_deux.n.01)
+Prediction Prob: 3.952846596966611e-05, Prediction Rank: 13
+
+8) (ballet) a dance for four people (pas_de_quatre.n.01)
+Prediction Prob: 3.368652827446042e-05, Prediction Rank: 14
+
+9) (ballet) a dance for three people (pas_de_trois.n.01)
+Prediction Prob: 4.528198845074605e-05, Prediction Rank: 12
+
+10) (ballet) a solo dance or dance figure (pas_seul.n.01)
+Prediction Prob: 0.00025517391615052787, Prediction Rank: 4
+
+11) a stately court dance of the 16th and 17th centuries (pavane.n.02)
+Prediction Prob: 6.967182098515875e-06, Prediction Rank: 15
+
+12) dance movements that are linked in a single choreographic sequence (phrase.n.04)
+Prediction Prob: 0.00028822421848420307, Prediction Rank: 3
+
+13) a dance that is part of a religious ritual (ritual_dancing.n.01)
+Prediction Prob: 2.9483421122956455e-06, Prediction Rank: 19
+
+14) a stately court dance of the 17th and 18th centuries; in slow time (saraband.n.02)
+Prediction Prob: 3.946679251037665e-06, Prediction Rank: 18
+
+15) a rhythmic dance to reggae music performed by bending forward and extending the hands while bending the knees (skank.n.02)
+Prediction Prob: 0.00021357935481601184, Prediction Rank: 5
+
+16) a form of dancing in which dancers slam into one another; normally performed to punk rock (slam_dancing.n.01)
+Prediction Prob: 6.19572034037748e-05, Prediction Rank: 9
+
+17) dancing as part of a social occasion (social_dancing.n.01)
+Prediction Prob: 5.114861785694312e-06, Prediction Rank: 16
+
+18) a show involving artistic dancing (stage_dancing.n.01)
+Prediction Prob: 4.945543899696455e-06, Prediction Rank: 17
+
+19) a dance performed on tiptoe (toe_dancing.n.01)
+Prediction Prob: 6.471296694422366e-05, Prediction Rank: 8
+
+
+=====================================================
+Rank Scores when single contexts are prepadded:
+
+0) RS: 1.00	Context: dancing in which the steps are more important than gestures or postures is the definition of step dancing. 
+------------------------------------------------------------
+1) RS: 1.00	Context: formed in 2001 around the east midlands and south yorkshire regions of the uk , comprising hannah james ( accordion , piano , vocals , step dancing ) , sam sweeney ( fiddle , percussion ) , jamie roberts ( guitars ) , and tom sweeney ( bass guitar ) . 
+2) RS: 1.00	Context: the interval of a barn dance . such dolls may occasionally appear at live traditional music sessions in english pubs ( in the past , step dancing by members of the audience would have been a common feature of such a pub session ) . . 
+3) RS: 1.00	Context: , national honor society , ping-pong club , rho kappa , sadd , science club , scrabble club , scrapbook club , special olympics , step dancing , student council , super teams , thespians/drama club , tri-m , ultimate frisbee club , and voices united/unity day . . 
+4) RS: 1.00	Context: from the mid-nineteenth century . also like the west country it is one of the few regions where there is still an active tradition of step dancing and like the midlands the tradition of molly dance died out in the 1930s . the region was relatively neglected by folk song . 
+5) RS: 1.00	Context: ground stepping out to the music , very relaxed , similar to tap dance , but it is not the stage show event like the step dancing you see in productions of riverdance . sean-nós dancing is a very impromptu , rhythmic , and low key accompaniment to a lively . 
+6) RS: 1.00	Context: competitive step dancing has grown steadily since the mid 1900 's , and more rapidly since the appearance of `` riverdance '' . an organized stepdance . 
+7) RS: 1.00	Context: cecil sharp frequently encountered step dancing , clog dancing and north west morris dancing ( a type of morris often performed in clogs and often mistakenly referred to as . 
+8) RS: 1.00	Context: some of these include clogging and flatfoot dancing ( appalachia ) , contradancing ( new england ) , square dancing ( southern states ) and step dancing ( nova scotia , particularly cape breton island ) , though there is some overlap between regions . . 
+9) RS: 1.00	Context: step dancing is another form of dancing often performed at céilidhs , the form that was popularised in the 1990s by the world-famous riverdance ensemble . 
+10) RS: 1.00	Context: another form of step dancing , stepping , has been popularized by national pan-hellenic council . this step dance has african roots and is an african american tradition . 
+11) RS: 0.94	Context: as a child he learned step dancing and fiddle playing , and performed at local houses . his elder brother jim had a high reputation but was never recorded . . 
+12) RS: 0.94	Context: two ? after all , says patrick o'dea , they are two entirely different dances - one , a traditional `` old style '' of step dancing , and the second , a newer and less traditional outgrowth or variation . . 
+13) RS: 0.94	Context: she comes from a musical family , as her father , robert , and uncle , lauchie , were both well-known fiddlers . brenda began step dancing and playing the piano at age five , and started playing fiddle at age eight . . 
+14) RS: 0.94	Context: years in 1983 . he sold real estate in scarborough until 1995 . he continues to run fiddle classes in toronto and teaches cape breton step dancing . he is a prolific composer with over a hundred tunes to his credit , many in active circulation among cape breton players . 
+15) RS: 0.94	Context: people , speech and debate , student government , and forty diverse clubs and organizations . among these are the fellowship of christian athletes , step dancing club , invisible children club , key club , young republicans , young democrats , muslim students association , asian club , and . 
+16) RS: 0.94	Context: the youngest daughter of john james ingham and his wife elizabeth ann née jackson . at the age of 11 she won the all england step dancing title . later she formed a dancing act with her sister may , they called themselves the two violets . . 
+17) RS: 0.94	Context: in 1997 and was replaced by ashton geoghagan . anderson left the band in 1998 , and in 1999 dan stacey ( fiddle , canadian step dancing ) and scott long ( highland bagpipes ) joined seven nations 's lineup . geoghagan left in august 2001 to pursue other interests . 
+18) RS: 0.94	Context: others in a protestant church , and the annual irish week festival , which takes place around saint patrick 's day is enormous , including step dancing , food , historical and modern exhibitions , and irish lessons . many celebrities of irish descent visit seattle during it 's saint . 
+19) RS: 0.94	Context: `` riverdance '' is a theatrical show consisting of traditional irish step dancing , notable for its rapid leg movements while body and arms are kept largely stationary . . 
+20) RS: 0.94	Context: cornish dance has largely been shaped by its people and the industries they worked in . in most cases , particularly with the step dancing , the dances were still being performed across the region when they were collected . . 
+21) RS: 0.94	Context: dancer who specializes in appalachian flatfooting , '' and also dances green grass style appalachian clogging , english clogging , french-canadian step dancing , irish step dancing , and south african gumboot dancing . . 
+22) RS: 0.89	Context: drama film directed by ian iqbal rashid and starring rutina wesley , clé bennett and romina d'ugo . the film showcases the street culture of step dancing . the film is produced by celluloid dreams , sienna films and mtv films . . 
+23) RS: 0.89	Context: a `` percussive step dancer who specializes in appalachian flatfooting , '' and also dances green grass style appalachian clogging , english clogging , french-canadian step dancing , irish step dancing , and south african gumboot dancing . . 
+24) RS: 0.89	Context: celtic spring is an irish-american dance and fiddle band from california , united states . the family band combine irish traditional music with cape breton step dancing . the members of celtic spring are all members of the wood family . . 
+25) RS: 0.89	Context: old-style step dancing . . 
+26) RS: 0.89	Context: beryl ingham was born in 1901 in haslingden , lancashire . she was a champion clogdancer and actress , winning the all england step dancing title at the age of 11 . later she formed a dancing act with her sister , may , which they called themselves . 
+27) RS: 0.89	Context: cornish dance can roughly be divided into 3 areas : 'scoot ' or step dancing , 'furry ' or feast day dances and dance which you will often find in a 'troyl ' , the cornish equivalent of . 
+28) RS: 0.89	Context: and salzburg where his father owned a small theatre . already during his school years peter kraus took singing and acting lessons as well as step dancing classes . his first acting role was the part of johnny in „ das fliegende klassenzimmer “ ( 1954 ) after the novel . 
+29) RS: 0.89	Context: du nord was formed in 2002 when nicolas boulerice and olivier demers met benoit bourque ( vocals , accordion , mandolin , bones , and step dancing ) in vancouver . with the same interest and passion in folk music , and in spite of the fact that all were . 
+30) RS: 0.89	Context: old , men and women participate in this festive dance . the dabke is a traditional line dance and it is sometimes compared to irish step dancing , the greek `` hassapiko '' and the jewish `` hora '' . . 
+31) RS: 0.89	Context: acoustic demo , titled `` brushes '' ; fleetwood mac then added further instrumental audio tracks to make it more layered . inspired by triple step dancing patterns , `` do n't stop '' includes both conventional acoustic and tack piano . in the latter instrument , nails are placed . 
+32) RS: 0.89	Context: dance styles associated with the music are cape breton step dancing , cape breton square dancing ( iona style and inverness style ) , and highland dancing . . 
+33) RS: 0.89	Context: lattapuch , in the unity fish cellars , newquay in the 1880s , and dancing the lancers . it seems clear that social dancing , step dancing - sometimes competitive , music and song were involved . such events occurred on the completion of a particularly successful catch and at . 
+34) RS: 0.89	Context: , buddy macmaster , john donald cameron and wilfred gillis . sandy made two trips to the northwest territories , where he taught fiddle and step dancing to many native and inuit children under the auspices of the “ strings across the sky ” program arranged by toronto symphony violinist . 
+35) RS: 0.89	Context: traditional rhythms and dances . this music is often accompanied by a piano and has a very apparent dance rhythm , often being complimented with step dancing . irish immigration to the americas has also had a substantial influence upon cape breton music . . 
+36) RS: 0.83	Context: in summerside , prince edward island , canada , is an international school teaching highland bagpiping , scottish-style snare drumming , highland dancing and island step dancing . . 
+37) RS: 0.83	Context: the capa dance department instructs their students in different levels of ballet , modern , jazz , tap , hip- hop , and even irish step dancing , also known as `` river funk '' dance majors perform annually in the thanksgiving day parade . 
+38) RS: 0.83	Context: stepdancing as a modern form is descended directly from old-style step dancing . there are several different forms of stepdancing in ireland ( including sean-nós dancing and old style stepdancing ) , but the style . 
+39) RS: 0.83	Context: having an effect upon blackface performance , juba was highly influential on the development of such american dance styles as tap , jazz , and step dancing . . 
+40) RS: 0.83	Context: in traditional irish culture especially music and at the age of 17 he was employed by the gaelic league to tutor the connacht style of step dancing at the gaelic league school in county mayo . . 
+41) RS: 0.83	Context: of steps but also some integral upper body , arm , and hand movements . even so , it is still considered a form of step dancing in that the main element of highland dancing is concerned with footwork . . 
+42) RS: 0.83	Context: guitar . ellie plays fiddle , mandolin , and guitar . both also perform percussive dance , combining elements of clogging , tap danging , step dancing , and other styles . . 
+43) RS: 0.83	Context: scholars in recent decades have repeatedly pointed to juba as the progenitor of tap dancing and , by extension , step dancing . winter wrote that `` [ t ] he repertoire of any current tap-dancer contains elements which were established theatrically by him '' . 
+44) RS: 0.83	Context: three types of shoes are worn in competitive step dancing : hard shoes and two kinds of soft shoe . the hard shoe ( `` heavy shoe '' , `` jig shoe '' . 
+45) RS: 0.78	Context: the city is home to an annual old time fiddling and step dancing festival , which happens labour day weekend at riverside park . there are often up to 1400 rvs parked there for the week . 
+46) RS: 0.78	Context: dance on the balls of the feet . in many ways , highland dancing evolved from solo step dancing , but while some forms of step dancing are purely percussive in nature , highland dancing involves not only a combination of steps but also some integral upper body , arm . 
+47) RS: 0.78	Context: and uncles and 3 of his brothers . it was an aboriginal group that performed traditional dances with sticks and spears . it also included step dancing , tap dancing , hula dancing , and māori influences , burlesque , clowning , and singing . . 
+48) RS: 0.78	Context: as a boy in the boston suburb of belmont , massachusetts , curran began dancing by learning traditional irish step dancing . `` i used to go once a week for a dollar , '' curran recalled in a 1999 new york times profile . 
+49) RS: 0.78	Context: , say , ballroom dancing , the dancers dance on the balls of the feet . in many ways , highland dancing evolved from solo step dancing , but while some forms of step dancing are purely percussive in nature , highland dancing involves not only a combination of steps . 
+50) RS: 0.78	Context: english clog dancing and morris dancing . barrand was a mentor to bernstein and exposed him to english , irish , and canadian clog and step dancing . he gave bernstein private lessons in traditional english dance styles , and gave him unlimited access to his film archive . bernstein . 
+51) RS: 0.78	Context: huw williams is wales ' foremost exponent of the art of clogging , a form of step dancing , which he has been performing since the age of fifteen . he has won several titles at the welsh national step-dancing championships . 
+52) RS: 0.78	Context: old-style step dancing ( a tradition related to , yet distinct from , sean-nós dancing ) evolved in the late 18th and early 19th century from . 
+53) RS: 0.78	Context: role in 2007 film `` how she move '' , from british director ian iqbal rashid . the character raya green , who enters a step dancing competition to secure funds for her education , was inspired from tony monero , portrayed by john travolta in `` saturday night fever . 
+54) RS: 0.78	Context: played in some regions until the 20th century ( e.g . 1922 , at great torrington ) . other ancient customs which survive include dartmoor step dancing , and `` crying the neck '' . . 
+55) RS: 0.72	Context: sony picture classics . a similar sundance film festival reception was met by how she move , a feature film set in the world of step dancing , which ian directed in 2006/7 . the film was nominated for a sundance world cinema grand jury prize and after much sales . 
+56) RS: 0.72	Context: after the boston red sox clinched the american league east title in 2007 , papelbon celebrated the victory by irish step dancing in the middle of the fenway park diamond to the dropkick murphys ' song `` i 'm shipping up to boston '' , . 
+57) RS: 0.72	Context: and teacher in the united states who specializes in traditional american dance forms such as appalachian-style clogging , flatfoot dancing , tap dance , and step dancing . he is considered an authority on clogging , and the leading figure in this dance style . he calls himself a `` . 
+58) RS: 0.72	Context: grimes is a performing arts magnet school that engages students in african dance and drumming , ballet , jazz , hip-hop , irish step dancing and band and string instrument instruction . . 
+59) RS: 0.72	Context: the dancing of traveling irish dance masters . the dance masters slowly formalized and transformed both solo and social dances . modern masters of old-style step dancing style can trace the lineage of their steps directly back to 18th century dancers . . 
+60) RS: 0.67	Context: the form that was popularised in the 1990s by the world-famous riverdance ensemble . whereas set dancing involves all present , whatever their skill , step dancing is usually reserved for show , being performed only by the most talented of dancers . . 
+61) RS: 0.61	Context: i hold in a very strategic potion to see either party , and this began , it was better the previous q , the same step dancing horses and donkeys and llamas , i started searching the crowd , i got up and went where q a friend called me . 
+62) RS: 0.39	Context: set dances such as the blackbird , st. patrick 's day , and the job of journey work , which also persist in modern irish step dancing . in this context , `` set dance '' signifies a separate tradition from the social dance tradition also called set dance . . 
+63) RS: 0.17	Context: vishten plays a mixture of acadian , irish , and scottish music styles , with fiery fiddling and powerful step dancing taking front and center . formed in 2000 on their native prince edward island , vishten is a sextet of young traditional acadian . 

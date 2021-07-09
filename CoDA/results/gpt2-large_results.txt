@@ -1,0 +1,20 @@
+Dataset: CoDA-clean-hard
+n: 0.3820 (106)
+v: 0.3403 (102)
+All: 0.3616 (208)
+
+Dataset: CoDA-clean-easy
+n: 0.4717 (274)
+v: 0.4204 (103)
+All: 0.4577 (377)
+
+Dataset: CoDA-noisy-hard
+n: 0.3947 (691)
+v: 0.3727 (350)
+All: 0.3873 (1041)
+
+Dataset: CoDA-noisy-easy
+n: 0.4568 (1188)
+v: 0.4089 (370)
+All: 0.4454 (1558)
+

@@ -1,0 +1,73 @@
+===============================================================================================
+
+WORD: bassine.n.01 (['Ġbass', 'ine']),     Number of Definitions: 17
+
+
+True Definition:
+coarse leaf fiber from palmyra palms used in making brushes and brooms
+
+Prediction Rank Score: 0.31
+
+Definitions (True=1):
+
+1) coarse leaf fiber from palmyra palms used in making brushes and brooms (bassine.n.01)
+Prediction Prob: 1.3706441621067588e-10, Prediction Rank: 12
+
+2) a stiff fiber (coarse hair or filament); natural or synthetic (bristle.n.01)
+Prediction Prob: 7.7983096692742e-10, Prediction Rank: 9
+
+3) tuft of strong filaments by which e.g. a mussel makes itself fast to a fixed surface (byssus.n.01)
+Prediction Prob: 2.5580483467372293e-08, Prediction Rank: 1
+
+4) hard fiber used in making coarse twine; from Philippine agave plants (cantala.n.01)
+Prediction Prob: 3.3820177860946232e-09, Prediction Rank: 7
+
+5) stiff coarse fiber from the outer husk of a coconut (coir.n.01)
+Prediction Prob: 1.2551193956932828e-10, Prediction Rank: 14
+
+6) a very slender natural or synthetic fiber (fibril.n.01)
+Prediction Prob: 1.119992805015994e-09, Prediction Rank: 8
+
+7) fine ravellings of cotton or linen fibers (lint.n.01)
+Prediction Prob: 8.818335987819925e-09, Prediction Rank: 2
+
+8) the dried fibrous part of the fruit of a plant of the genus Luffa; used as a washing sponge or strainer (loofa.n.01)
+Prediction Prob: 7.227205472982369e-09, Prediction Rank: 3
+
+9) fiber created from natural materials or by chemical processes (man-made_fiber.n.01)
+Prediction Prob: 1.397562471433125e-11, Prediction Rank: 17
+
+10) fiber derived from plants or animals (natural_fiber.n.01)
+Prediction Prob: 7.820569392338621e-11, Prediction Rank: 15
+
+11) a threadlike extension of a nerve cell (nerve_fiber.n.01)
+Prediction Prob: 2.610422480652767e-11, Prediction Rank: 16
+
+12) loose hemp or jute fiber obtained by unravelling old ropes; when impregnated with tar it was used to caulk seams and pack joints in wooden ships (oakum.n.01)
+Prediction Prob: 4.341061029420877e-09, Prediction Rank: 4
+
+13) a very thin fiber made of glass that functions as a waveguide for light; used in bundles to transmit images (optical_fiber.n.01)
+Prediction Prob: 1.2898040907460913e-10, Prediction Rank: 13
+
+14) fiber of a raffia palm used as light cordage and in making hats and baskets (raffia.n.02)
+Prediction Prob: 3.5626385695096966e-09, Prediction Rank: 6
+
+15) a bit of fiber that has become separated from woven fabric (raveling.n.01)
+Prediction Prob: 3.6660229206432354e-09, Prediction Rank: 5
+
+16) (biology) tiny fibers that are seen in cell division; the fibers radiate from two poles and meet at the equator in the middle (spindle.n.01)
+Prediction Prob: 1.688516789305191e-10, Prediction Rank: 11
+
+17) a tough piece of fiber in vegetables, meat, or other food (especially the tough fibers connecting the two halves of a bean pod) (string.n.07)
+Prediction Prob: 6.159057784144474e-10, Prediction Rank: 10
+
+
+=====================================================
+Rank Scores when single contexts are prepadded:
+
+0) RS: 1.00	Context: coarse leaf fiber from palmyra palms used in making brushes and brooms is the definition of bassine. 
+------------------------------------------------------------
+1) RS: 0.81	Context: yglesias was the youngest of seven children born to solomon and kate bassine , bothyiddish-speaking immigrants from the russian-controlled portion of poland who lived in an apartment in fort greene , brooklyn . solomon bassine was the . 
+2) RS: 0.69	Context: helen bassine yglesias ( march 29 , 1915 – march 28 , 2008 ) was an american novelist . . 
+3) RS: 0.69	Context: bassine citation from the academy of american poets , 1986 . 
+4) RS: 0.44	Context: solomon and kate bassine , bothyiddish-speaking immigrants from the russian-controlled portion of poland who lived in an apartment in fort greene , brooklyn . solomon bassine was the failed owner of several grocery stores . helen wrote her first novel about a teenage girl in a new york high school . 

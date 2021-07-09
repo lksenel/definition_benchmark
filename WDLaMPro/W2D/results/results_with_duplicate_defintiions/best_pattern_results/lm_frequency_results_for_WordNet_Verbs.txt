@@ -1,0 +1,40 @@
+Results from lm for Wordnet Verbs
+
+Example count: 8602
+Average option count: 47.73
+Minimum option count: 5
+Maximum option count: 593
+
+For rare (0-9):
+Example count: 805
+Average option count: 72.00
+
+For medium (10-99):
+Example count: 951
+Average option count: 55.70
+
+For freq. (100-):
+Example count: 6846
+Average option count: 43.80
+
+
+Prediction Rank Results
+
+| Model       |   rare (0-9) |   medium (10-99) |   freq. (100-) |   all |
+|-------------+--------------+------------------+----------------+-------|
+| gpt2        |         0.82 |             0.79 |           0.8  |  0.8  |
+| gpt2-medium |         0.82 |             0.81 |           0.8  |  0.8  |
+| gpt2-large  |         0.85 |             0.83 |           0.82 |  0.83 |
+| gpt2-xl     |         0.86 |             0.84 |           0.82 |  0.83 |
+| random      |         0.5  |             0.5  |           0.5  |  0.5  |
+
+
+Accuracy Results
+
+| Model       |   rare (0-9) |   medium (10-99) |   freq. (100-) |      all |
+|-------------+--------------+------------------+----------------+----------|
+| gpt2        |     47.58    |         40.9     |       42.75    | 43       |
+| gpt2-medium |     45.84    |         42.9     |       41.78    | 42.28    |
+| gpt2-large  |     50.31    |         46.27    |       46.33    | 46.7     |
+| gpt2-xl     |     52.92    |         47.63    |       46.17    | 46.97    |
+| random      |      7.57513 |          8.02124 |        7.83618 |  7.83221 |

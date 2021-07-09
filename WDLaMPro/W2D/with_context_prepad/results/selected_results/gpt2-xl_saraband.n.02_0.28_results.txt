@@ -1,0 +1,118 @@
+===============================================================================================
+
+WORD: saraband.n.02 (['Ġsar', 'aband']),     Number of Definitions: 19
+
+
+True Definition:
+a stately court dance of the 17th and 18th centuries; in slow time
+
+Prediction Rank Score: 0.28
+
+Definitions (True=1):
+
+1) a stately court dance of the 17th and 18th centuries; in slow time (saraband.n.02)
+Prediction Prob: 4.0091118128397166e-07, Prediction Rank: 14
+
+2) a slow section of a pas de deux requiring great skill and strength by the dancers (adagio.n.02)
+Prediction Prob: 3.0387171841455337e-06, Prediction Rank: 7
+
+3) a form of solo dancing that involves rapid acrobatic moves in which different parts of the body touch the ground; normally performed to the rhythm of rap music (break_dancing.n.01)
+Prediction Prob: 2.3420772983870233e-06, Prediction Rank: 8
+
+4) a court dance of the 16th century; consisted of short advances and retreats (courante.n.01)
+Prediction Prob: 4.759681325409895e-06, Prediction Rank: 5
+
+5) a Latin American dance similar in rhythm to the rumba (mambo.n.01)
+Prediction Prob: 6.080204747437208e-06, Prediction Rank: 3
+
+6) an intricate traditional dance in India performed by professional dancing girls (nautch.n.01)
+Prediction Prob: 7.95858638477317e-07, Prediction Rank: 11
+
+7) (ballet) a dance for two people (usually a ballerina and a danseur noble) (pas_de_deux.n.01)
+Prediction Prob: 1.3020961958889912e-06, Prediction Rank: 9
+
+8) (ballet) a dance for four people (pas_de_quatre.n.01)
+Prediction Prob: 6.268146921364358e-07, Prediction Rank: 12
+
+9) (ballet) a dance for three people (pas_de_trois.n.01)
+Prediction Prob: 9.314903909671816e-07, Prediction Rank: 10
+
+10) (ballet) a solo dance or dance figure (pas_seul.n.01)
+Prediction Prob: 3.1924801060840722e-06, Prediction Rank: 6
+
+11) a stately court dance of the 16th and 17th centuries (pavane.n.02)
+Prediction Prob: 8.754187974279071e-08, Prediction Rank: 16
+
+12) dance movements that are linked in a single choreographic sequence (phrase.n.04)
+Prediction Prob: 7.119873171097368e-06, Prediction Rank: 2
+
+13) a dance that is part of a religious ritual (ritual_dancing.n.01)
+Prediction Prob: 8.567464872953531e-08, Prediction Rank: 17
+
+14) a rhythmic dance to reggae music performed by bending forward and extending the hands while bending the knees (skank.n.02)
+Prediction Prob: 1.3079578607093486e-05, Prediction Rank: 1
+
+15) a form of dancing in which dancers slam into one another; normally performed to punk rock (slam_dancing.n.01)
+Prediction Prob: 2.6532193545606147e-07, Prediction Rank: 15
+
+16) dancing as part of a social occasion (social_dancing.n.01)
+Prediction Prob: 4.215050251968945e-08, Prediction Rank: 18
+
+17) a show involving artistic dancing (stage_dancing.n.01)
+Prediction Prob: 1.646929942131195e-08, Prediction Rank: 19
+
+18) dancing in which the steps are more important than gestures or postures (step_dancing.n.01)
+Prediction Prob: 4.9745618351100486e-06, Prediction Rank: 4
+
+19) a dance performed on tiptoe (toe_dancing.n.01)
+Prediction Prob: 4.3294813375949265e-07, Prediction Rank: 13
+
+
+=====================================================
+Rank Scores when single contexts are prepadded:
+
+0) RS: 1.00	Context: a stately court dance of the 17th and 18th centuries; in slow time is the definition of saraband. 
+------------------------------------------------------------
+1) RS: 0.89	Context: groups of dancers interact in pairs , trios , quartets etc . a number of the movements are based on 17th-century french court dances – saraband , galliard and bransle . it was danced as part of city ballet 's 1982 stravinsky centennial celebration‎ . 
+2) RS: 0.56	Context: as the game begins , synbios is part of a military force representing aspinia at a peace conference in the neutral city of saraband . due to manipulation by outside forces - later discovered to be connected with a religious cult known as the `` bulzome sect '' . 
+3) RS: 0.50	Context: , the american newspaper `` usa today '' suggested that ahlstedt should be nominated for a best supporting actor oscar for his role in `` saraband '' , with the comment `` he shows you what it 's like to be an aging version of a man who was already . 
+4) RS: 0.44	Context: the historical validity of such books , although giving a separate definition of the `` gymnopédie '' / '' gymnopaedia '' and mentioning the `` saraband '' as a dance `` probably '' coming from spain , remains questionable however . even the fact that fertiault gives an early 17th . 
+5) RS: 0.44	Context: at least five bergman features . norwegian actress liv ullmann , who appeared in nine of bergman 's films and one televisual movie ( `` saraband '' ) , was the last to join this group ( in the 1966 film `` persona '' ) , and ultimately became most . 
+6) RS: 0.22	Context: his country , he senses that there are other forces at work beneath the tensions between aspinia and destonia . he attends the conference in saraband on behalf of destonia , along with his brothers arrawnt and mageron . as discovered in scenario 1 , much of this influence comes . 
+7) RS: 0.22	Context: biff hanon , tom warrington , & doug webb ) , ( live & studio ) , ( two gold records on the `` varese saraband label '' for michelle nicastro ) , `` japanese recording artist '' kishiko ( debut cd ) , and also with comic legends jerry . 
+8) RS: 0.22	Context: television specials . as with previous work for tv some of these productions were later released in theatres . the last such work was `` saraband '' ( 2003 ) , a sequel to `` scenes from a marriage '' and directed by bergman when he was eighty-four years old . 
+9) RS: 0.22	Context: king zirak khan , son of abdali , son of tareen , son of sharif ud-din ( sharakh-bun ) , son of ibrahim sari ( saraband ) , son of qais ul-laik ( 'abdu ' r rashid pathan ) . it is assumed that qais ul-laik was the 37th in . 
+10) RS: 0.17	Context: on david lean 's `` brief encounter '' in 1946 . kellner was nominated for two oscars , in 1949 for basil dearden 's `` saraband for dead lovers '' and in 1959 for joseph l. mankiewicz 's adaptation of tennessee williams ' `` suddenly last summer '' . he . 
+11) RS: 0.17	Context: the sarabande inspired the title of ingmar bergman 's last film `` saraband '' ( 2003 ) . each of bach 's cello suites contains a sarabande , and the film uses the sarabande from his fifth . 
+12) RS: 0.11	Context: and admiration of the present age , and will scarce be credited by the succeeding . i shall beg leave to mention the chaconne , saraband , menuet , in all which she appears with that grace , softness , and address none can look on but with attention , . 
+13) RS: 0.11	Context: in the classical suite , consisting strictly of the allemande , courante , saraband and gigue , composers often interpolated a gavotte , bourrée , minuet , musette or passepied . . 
+14) RS: 0.11	Context: saraband for dead lovers . . 
+15) RS: 0.11	Context: saraband . . 
+16) RS: 0.11	Context: director ( notably with bergman drama `` faithless '' ) and reprised her role from `` scenes from a marriage '' in 2003 's `` saraband '' , bergman 's final telemovie . `` faithless '' was close to being awarded the golden palm and best actress at cannes film . 
+17) RS: 0.11	Context: . that was the first recording of any of the music from the ballet . in 1949 , lambert recorded two more numbers , `` saraband for the followers of virgo '' and `` bacchanale '' , with the philharmonia orchestra . the five-movement `` horoscope '' suite was later . 
+18) RS: 0.11	Context: saraband of lost time . . 
+19) RS: 0.06	Context: the boat can perform well , as seen in the 1988 pacific cup , won ( on corrected time ) by the westsail 32 `` saraband '' in relatively light winds . the same boat finished third in 1990 . . 
+20) RS: 0.06	Context: '' ( 1945 ) which the critic leslie halliwell called `` novelettish balderdash killed stone dead by stilted production '' . an exception was `` saraband for dead lovers '' ( 1948 ) , an ealing studios production . the screenplay was by john dighton and alexander mackendrick , who . 
+21) RS: 0.06	Context: dearden 's films , and in 1949 was nominated for an academy award for art direction for his work on the stewart granger vehicle `` saraband for dead lovers '' ( 1948 ) . . 
+22) RS: 0.06	Context: with the common basis that the most hateful things may be done for apparently the best of reasons . an admirable historical novel , `` saraband for dead lovers '' , came out in 1935 , as did `` the female felon '' , a long short story . . 
+23) RS: 0.06	Context: of forex in 1964 and merged it with 50 % of languedocienne to create the neptune drilling company . the first computerized reservoir analysis , saraband , was introduced in 1970 . the remaining 50 % of forex was acquired the following year ; neptune was renamed forex neptune drilling . 
+24) RS: 0.06	Context: bringing back to the screen the characters of johan and marianne , played by erland josephson and liv ullmann respectively . in july 2005 `` saraband '' was released theatrically in the united states with subtitles in english . . 
+25) RS: 0.06	Context: in `` saraband '' , marianne travels into the country to the home of her ex-husband , and father of her daughters martha and sara , johan . 
+26) RS: 0.06	Context: `` saraband of lost time '' is a science fiction novel by maine author richard grant ( 1952-present ) , published by avon books in 1985 . 
+27) RS: 0.00	Context: army officer , or for his comedy roles in ealing and other british films . one of his first appearances was in the film `` saraband for dead lovers '' , a tearjerking romance starring joan greenwood and stewart granger . . 
+28) RS: 0.00	Context: alexander '' ( 1982 ) , `` the best intentions '' ( 1992 ) , `` sunday 's children '' ( 1992 ) and `` saraband '' ( 2003 ) . ahlstedt has also worked with the directors bo widerberg and kay pollak . . 
+29) RS: 0.00	Context: ) and `` those magnificent men in their flying machines '' ( 1965 ) . he earned an academy award nomination in 1949 for `` saraband for dead lovers '' . . 
+30) RS: 0.00	Context: `` saraband for dead lovers '' ( released in the united states . as `` saraband '' ) is a 1948 british historical drama film directed by basil dearden and starring stewart granger and joan greenwood . it is based . 
+31) RS: 0.00	Context: `` saraband '' is a 2003 swedish telemovie by film director ingmar bergman and his last theatrically released work . the film is a sequel to . 
+32) RS: 0.00	Context: nicastro has recorded four albums released on the varese saraband label . two albums , `` toonful '' and `` toonful too '' feature songs from animated musicals , `` reel imagination '' features . 
+33) RS: 0.00	Context: zig , zig , zig . what a saraband ! . 
+34) RS: 0.00	Context: the 1948 costume historical romantic film , `` saraband for dead lovers '' ( called `` saraband '' in the u.s. ) starring stewart granger , joan greenwood , peter bull , flora . 
+35) RS: 0.00	Context: the good stallion , gallinule who was also a roarer and bleeder . pretty polly ’ s dam was the cluster mare , admiration by saraband , who won two small races in ireland , before being tried as a steeplechaser . admiration foaled nine winners , which won 42 . 
+36) RS: 0.00	Context: sophia dorothea 's affair and its tragic outcome is the basis of the 1948 british film `` saraband for dead lovers '' . she is played by joan greenwood . . 
+37) RS: 0.00	Context: seraband rug or saraband , is an iranian ( persian ) handwoven floor covering from the ser-e band district located southwest of arak , iran . these 19th . 
+38) RS: 0.00	Context: `` from the life of the marionettes '' continues the story of peter and katarina , a couple that appear in episode 1 ; `` saraband '' continues the story of marianne and johan . . 
+39) RS: 0.00	Context: `` saraband for dead lovers '' ( released in the united states . as `` saraband '' ) is a 1948 british historical drama film directed . 
+40) RS: 0.00	Context: the 1948 costume historical romantic film , `` saraband for dead lovers '' ( called `` saraband '' in the u.s. ) starring stewart granger , joan greenwood , peter bull , flora robson , and anthony quayle and directed by . 
+41) RS: 0.00	Context: he returned in `` champagne charlie '' ( 1944 ) and went on to make , `` nicholas nickleby '' ( 1947 ) , `` saraband for dead lovers '' ( 1948 ) - ealing 's first technicolor film , `` another shore '' ( 1948 ) and classics like . 
+42) RS: 0.00	Context: on screen , george has been portrayed by peter bull in the 1948 film `` saraband for dead lovers '' , eric pohlmann in the 1953 film `` rob roy , the highland rogue '' , otto waldis in the . 
+43) RS: 0.00	Context: girl '' ( 1948 ) ; as a prospective labour mp in `` frieda '' ( 1947 ) ; and in costume melodrama , `` saraband for dead lovers '' ( 1948 ) . her other film roles included the queen of hearts in `` alice in wonderland '' ( . 

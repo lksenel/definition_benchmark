@@ -1,0 +1,105 @@
+===============================================================================================
+
+WORD: bassine.n.01 (['Ġbass', 'ine']),     Number of Definitions: 17
+
+
+True Definition:
+coarse leaf fiber from palmyra palms used in making brushes and brooms
+
+Prediction Rank Score: 0.25
+
+Definitions (True=1):
+
+1) coarse leaf fiber from palmyra palms used in making brushes and brooms (bassine)
+Prediction Prob: 1.1071510788704119e-08, Prediction Rank: 13
+
+2) a stiff fiber (coarse hair or filament); natural or synthetic (bristle)
+Prediction Prob: 2.0283087789595532e-08, Prediction Rank: 7
+
+3) tuft of strong filaments by which e.g. a mussel makes itself fast to a fixed surface (byssus)
+Prediction Prob: 2.68840933089539e-07, Prediction Rank: 1
+
+4) hard fiber used in making coarse twine; from Philippine agave plants (cantala)
+Prediction Prob: 4.527914238004267e-08, Prediction Rank: 4
+
+5) stiff coarse fiber from the outer husk of a coconut (coir)
+Prediction Prob: 1.902939014622673e-08, Prediction Rank: 8
+
+6) a very slender natural or synthetic fiber (fibril)
+Prediction Prob: 1.6131328416092203e-08, Prediction Rank: 9
+
+7) fine ravellings of cotton or linen fibers (lint)
+Prediction Prob: 1.60540143892561e-08, Prediction Rank: 10
+
+8) the dried fibrous part of the fruit of a plant of the genus Luffa; used as a washing sponge or strainer (loofa)
+Prediction Prob: 4.579808296386386e-08, Prediction Rank: 3
+
+9) fiber created from natural materials or by chemical processes (man-made fiber)
+Prediction Prob: 5.960218217746765e-09, Prediction Rank: 16
+
+10) fiber derived from plants or animals (natural fiber)
+Prediction Prob: 4.25549573606184e-09, Prediction Rank: 17
+
+11) a threadlike extension of a nerve cell (nerve fiber)
+Prediction Prob: 6.540493783577573e-09, Prediction Rank: 15
+
+12) loose hemp or jute fiber obtained by unravelling old ropes; when impregnated with tar it was used to caulk seams and pack joints in wooden ships (oakum)
+Prediction Prob: 2.1472580354320428e-08, Prediction Rank: 6
+
+13) a very thin fiber made of glass that functions as a waveguide for light; used in bundles to transmit images (optical fiber)
+Prediction Prob: 1.065474389109243e-08, Prediction Rank: 14
+
+14) fiber of a raffia palm used as light cordage and in making hats and baskets (raffia)
+Prediction Prob: 5.047250582218088e-08, Prediction Rank: 2
+
+15) a bit of fiber that has become separated from woven fabric (raveling)
+Prediction Prob: 1.4837758993526249e-08, Prediction Rank: 11
+
+16) (biology) tiny fibers that are seen in cell division; the fibers radiate from two poles and meet at the equator in the middle (spindle)
+Prediction Prob: 1.2989339825230634e-08, Prediction Rank: 12
+
+17) a tough piece of fiber in vegetables, meat, or other food (especially the tough fibers connecting the two halves of a bean pod) (string)
+Prediction Prob: 2.3101270024168487e-08, Prediction Rank: 5
+
+
+=====================================================
+Rank Scores one shot (correct def pairs):
+
+0) RS: 1.00	Context: coarse leaf fiber from palmyra palms used in making brushes and brooms is the definition of bassine. 
+------------------------------------------------------------
+1) RS: 0.94	Context: a truck equipped with a loudspeaker and used for advertising is the definition of sound truck. . 
+2) RS: 0.94	Context: (medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group is the definition of dysfunction. . 
+3) RS: 0.88	Context: the quality of being holy is the definition of holiness. . 
+4) RS: 0.75	Context: plants closely allied to the genera Satureja and Calamintha is the definition of acinos. . 
+5) RS: 0.69	Context: a military vehicle (usually armored) for transporting military personnel and their equipment is the definition of personnel carrier. . 
+6) RS: 0.69	Context: octopuses and paper nautilus is the definition of octopoda. . 
+7) RS: 0.62	Context: male salmon that has recently spawned is the definition of redfish. . 
+8) RS: 0.50	Context: an Australian sheepdog with pointed ears is the definition of kelpie. . 
+9) RS: 0.50	Context: a dance involving a rhythmical stamping step is the definition of stomp. . 
+10) RS: 0.25	Context: a trivalent metallic element of the rare earth group; usually occurs in association with yttrium is the definition of lutetium. . 
+
+
+Rank Scores one shot (incorrect def pairs):
+
+
+------------------------------------------------------------
+1) RS: 0.94	Context: oily egg-shaped nut of an American tree of the walnut family is the definition of sound truck. . 
+2) RS: 0.88	Context: male salmon that has recently spawned is the definition of studentship. . 
+3) RS: 0.81	Context: a wildflower of the genus Ratibida is the definition of holiness. . 
+4) RS: 0.69	Context: examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx) is the definition of personnel carrier. . 
+5) RS: 0.69	Context: the quality of being holy is the definition of coneflower. . 
+6) RS: 0.69	Context: a filter that removes impurities from the oil used to lubricate an internal-combustion engine is the definition of octopoda. . 
+7) RS: 0.69	Context: a dance involving a rhythmical stamping step is the definition of signor. . 
+8) RS: 0.69	Context: an Australian sheepdog with pointed ears is the definition of actinium. . 
+9) RS: 0.62	Context: octopuses and paper nautilus is the definition of oil filter. . 
+10) RS: 0.62	Context: a truck equipped with a loudspeaker and used for advertising is the definition of butternut. . 
+11) RS: 0.62	Context: (medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group is the definition of roadrunner. . 
+12) RS: 0.56	Context: a trivalent metallic element of the rare earth group; usually occurs in association with yttrium is the definition of velociraptor. . 
+13) RS: 0.56	Context: the position of student is the definition of redfish. . 
+14) RS: 0.56	Context: used as an Italian courtesy title; can be prefixed to the name or used separately is the definition of stomp. . 
+15) RS: 0.50	Context: a military vehicle (usually armored) for transporting military personnel and their equipment is the definition of rhinoscopy. . 
+16) RS: 0.50	Context: flow into something (as a container) is the definition of acinos. . 
+17) RS: 0.44	Context: speedy largely terrestrial bird found from California and Mexico to Texas is the definition of dysfunction. . 
+18) RS: 0.44	Context: plants closely allied to the genera Satureja and Calamintha is the definition of filling. . 
+19) RS: 0.31	Context: small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs is the definition of lutetium. . 
+20) RS: 0.19	Context: a radioactive element of the actinide series; found in uranium ores is the definition of kelpie. . 

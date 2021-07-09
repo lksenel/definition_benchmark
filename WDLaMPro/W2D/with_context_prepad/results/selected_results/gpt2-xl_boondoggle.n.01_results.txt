@@ -1,0 +1,106 @@
+===============================================================================================
+
+WORD: boondoggle.n.01 (['Ġbo', 'ond', 'oggle']),     Number of Definitions: 7
+
+Following 0 contexts are prepadded before the definitions:
+
+True Definition:
+work of little or no value done merely to look busy
+
+Prediction Score: 0.17
+
+Definitions (True=1):
+
+1) work of little or no value done merely to look busy (boondoggle.n.01)
+Prediction Prob: 8.584203753243284e-06, Prediction Rank: 6
+
+2) excessive spending (extravagance.n.03)
+Prediction Prob: 0.00019592774447068384, Prediction Rank: 1
+
+3) spending resources lavishly and wastefully (squandering.n.01)
+Prediction Prob: 0.00015174401355003844, Prediction Rank: 3
+
+4) a useless effort (waste_of_effort.n.01)
+Prediction Prob: 1.0631824904912488e-05, Prediction Rank: 5
+
+5) a useless consumption of material (waste_of_material.n.01)
+Prediction Prob: 1.3533652147900236e-05, Prediction Rank: 4
+
+6) money spent for inadequate return (waste_of_money.n.01)
+Prediction Prob: 0.00016720222826756252, Prediction Rank: 2
+
+7) the devotion of time to a useless activity (waste_of_time.n.01)
+Prediction Prob: 8.010290513087833e-07, Prediction Rank: 7
+
+===============================================================================================
+
+WORD: boondoggle.n.01 (['Ġbo', 'ond', 'oggle']),     Number of Definitions: 7
+
+Following 1 contexts are prepadded before the definitions:
+1) known as `` boondoggle '' or `` gimp '' ( also spelled `` gymp '' ) , it is used for making lanyards . lanyards of this type
+
+True Definition:
+work of little or no value done merely to look busy
+
+Prediction Score: 0.50
+
+Definitions (True=1):
+
+1) work of little or no value done merely to look busy (boondoggle.n.01)
+Prediction Prob: 0.03107993458666156, Prediction Rank: 4
+
+2) excessive spending (extravagance.n.03)
+Prediction Prob: 0.1313243782817028, Prediction Rank: 1
+
+3) spending resources lavishly and wastefully (squandering.n.01)
+Prediction Prob: 0.07248780014419982, Prediction Rank: 2
+
+4) a useless effort (waste_of_effort.n.01)
+Prediction Prob: 0.015432494073973561, Prediction Rank: 6
+
+5) a useless consumption of material (waste_of_material.n.01)
+Prediction Prob: 0.007361378035200688, Prediction Rank: 7
+
+6) money spent for inadequate return (waste_of_money.n.01)
+Prediction Prob: 0.02510029185533511, Prediction Rank: 5
+
+7) the devotion of time to a useless activity (waste_of_time.n.01)
+Prediction Prob: 0.03703367413234513, Prediction Rank: 3
+
+===============================================================================================
+
+WORD: boondoggle.n.01 (['Ġbo', 'ond', 'oggle']),     Number of Definitions: 7
+
+Following 3 contexts are prepadded before the definitions:
+1) boondoggle ( project ) .
+2) this was the only of the bayou expeditions to successfully bypass the vicksburg defenses , historian ed bearss calls this episode the `` lake providence boondoggle . ''
+3) still high ( with a worst case estimate of nz $ 3.9 billion ) and at that point the corridor was fast becoming a political boondoggle . the proposed motorway was one of the principal points of contention in the 2004 local body elections and contributed to the defeat of
+
+True Definition:
+work of little or no value done merely to look busy
+
+Prediction Score: 0.33
+
+Definitions (True=1):
+
+1) work of little or no value done merely to look busy (boondoggle.n.01)
+Prediction Prob: 0.1054752276421173, Prediction Rank: 5
+
+2) excessive spending (extravagance.n.03)
+Prediction Prob: 0.3764874012748231, Prediction Rank: 1
+
+3) spending resources lavishly and wastefully (squandering.n.01)
+Prediction Prob: 0.3252542595345685, Prediction Rank: 3
+
+4) a useless effort (waste_of_effort.n.01)
+Prediction Prob: 0.005276466249432568, Prediction Rank: 7
+
+5) a useless consumption of material (waste_of_material.n.01)
+Prediction Prob: 0.3706833278678512, Prediction Rank: 2
+
+6) money spent for inadequate return (waste_of_money.n.01)
+Prediction Prob: 0.20594552606216948, Prediction Rank: 4
+
+7) the devotion of time to a useless activity (waste_of_time.n.01)
+Prediction Prob: 0.0708082272886696, Prediction Rank: 6
+

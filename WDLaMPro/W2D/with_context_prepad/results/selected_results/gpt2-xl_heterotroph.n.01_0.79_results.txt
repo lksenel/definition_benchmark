@@ -1,0 +1,182 @@
+===============================================================================================
+
+WORD: heterotroph.n.01 (['Ġheter', 'ot', 'roph']),     Number of Definitions: 48
+
+
+True Definition:
+an organism that depends on complex organic substances for nutrition
+
+Prediction Rank Score: 0.79
+
+Definitions (True=1):
+
+1) an organism that depends on complex organic substances for nutrition (heterotroph.n.01)
+Prediction Prob: 2.6798371509844233e-05, Prediction Rank: 11
+
+2) an organism (especially a bacterium) that requires air or free oxygen for life (aerobe.n.01)
+Prediction Prob: 3.3390910134347957e-05, Prediction Rank: 9
+
+3) (genetics) an organism or cell having a diploid set of chromosomes from each parent (amphidiploid.n.01)
+Prediction Prob: 3.976881175992988e-07, Prediction Rank: 41
+
+4) an organism (especially a bacterium) that does not require air or free oxygen to live (anaerobe.n.01)
+Prediction Prob: 5.635033563633234e-05, Prediction Rank: 7
+
+5) a living organism characterized by voluntary movement (animal.n.01)
+Prediction Prob: 2.3781444214271327e-06, Prediction Rank: 32
+
+6) microscopic organism such as an amoeba or paramecium (animalcule.n.01)
+Prediction Prob: 1.5284318568828636e-05, Prediction Rank: 15
+
+7) an organism that has the characteristics of a more primitive type of that organism (atavist.n.01)
+Prediction Prob: 4.29415758233763e-06, Prediction Rank: 25
+
+8) organisms (plants and animals) that live at or near the bottom of a sea (benthos.n.02)
+Prediction Prob: 3.044475646660552e-06, Prediction Rank: 30
+
+9) (genetics) an organism that possesses a recessive gene whose effect is masked by a dominant allele; the associated trait is not apparent but can be passed on to offspring (carrier.n.11)
+Prediction Prob: 9.530705699263857e-09, Prediction Rank: 46
+
+10) a group of genetically identical cells or organisms derived from a single cell or individual by some kind of asexual reproduction (clone.n.02)
+Prediction Prob: 4.7095210638951735e-06, Prediction Rank: 23
+
+11) either of two different animal or plant species living in close association but not interdependent (commensal.n.01)
+Prediction Prob: 2.31368695300577e-05, Prediction Rank: 13
+
+12) an organism belonging to the same species as another organism (conspecific.n.01)
+Prediction Prob: 9.33558008913941e-06, Prediction Rank: 18
+
+13) a plant or animal naturalized in a region (denizen.n.02)
+Prediction Prob: 2.5787979400321273e-08, Prediction Rank: 45
+
+14) (genetics) an organism or cell having the normal amount of DNA per cell; i.e., two sets of chromosomes or twice the haploid number (diploid.n.01)
+Prediction Prob: 1.5270515919980968e-07, Prediction Rank: 43
+
+15) a plant or animal that is atypically small (dwarf.n.03)
+Prediction Prob: 1.9591387055033672e-06, Prediction Rank: 33
+
+16) an organism with cells characteristic of all life forms except primitive microorganisms such as bacteria; i.e. an organism with `good' or membrane-bound nuclei in its cells (eukaryote.n.01)
+Prediction Prob: 8.758816972995326e-06, Prediction Rank: 19
+
+17) an organism of the kingdom Fungi lacking chlorophyll and feeding on organic matter; ranging from unicellular or multicellular organisms to spore-bearing syncytia (fungus.n.01)
+Prediction Prob: 0.0001615309740773759, Prediction Rank: 3
+
+18) (genetics) an organism or cell having only one complete set of chromosomes (haploid.n.01)
+Prediction Prob: 7.098099153799797e-07, Prediction Rank: 37
+
+19) (genetics) an organism or cell having a chromosome number that is not an even multiple of the haploid chromosome number for that species (heteroploid.n.01)
+Prediction Prob: 4.968129042876719e-06, Prediction Rank: 22
+
+20) an animal or plant that nourishes and supports a parasite; it does not benefit and is often harmed by the association (host.n.03)
+Prediction Prob: 3.1126199630089618e-06, Prediction Rank: 29
+
+21) (genetics) an organism that is the offspring of genetically dissimilar parents or stock; especially offspring produced by breeding plants or animals of different varieties or breeds or species (hybrid.n.03)
+Prediction Prob: 3.577830328325614e-06, Prediction Rank: 28
+
+22) a single organism (individual.n.02)
+Prediction Prob: 3.93327692701447e-06, Prediction Rank: 26
+
+23) an organism that lives in an oxygenated medium lacking organic matter (katharobe.n.01)
+Prediction Prob: 0.0001263658564356052, Prediction Rank: 5
+
+24) a person or animal that is adopted by a team or other group as a symbolic figure (mascot.n.01)
+Prediction Prob: 9.632943705669232e-10, Prediction Rank: 48
+
+25) any organism of microscopic size (microorganism.n.01)
+Prediction Prob: 1.6306607027008428e-05, Prediction Rank: 14
+
+26) (biology) an organism that has characteristics resulting from chromosomal alteration (mutant.n.01)
+Prediction Prob: 1.0062082790283487e-05, Prediction Rank: 17
+
+27) an organism such as an insect that habitually shares the nest of a species of ant (myrmecophile.n.01)
+Prediction Prob: 2.6937575700351387e-06, Prediction Rank: 31
+
+28) indigenous plants and animals (native.n.03)
+Prediction Prob: 4.2650425630029806e-07, Prediction Rank: 40
+
+29) the aggregate of actively swimming animals in a body of water ranging from microscopic organisms to whales (nekton.n.01)
+Prediction Prob: 1.944986465294121e-06, Prediction Rank: 34
+
+30) organisms without vascular tissue: e.g. algae, lichens, fungi, mosses (nonvascular_organism.n.01)
+Prediction Prob: 0.0001857852800471802, Prediction Rank: 2
+
+31) an animal or plant that lives in or on a host (another animal or plant); it obtains nourishment from the host without benefiting or killing the host (parasite.n.01)
+Prediction Prob: 3.122198250286897e-05, Prediction Rank: 10
+
+32) an organism (plant or animal) from which younger ones are obtained (parent.n.02)
+Prediction Prob: 2.5538111762404034e-05, Prediction Rank: 12
+
+33) a human being (person.n.01)
+Prediction Prob: 5.940944740295178e-09, Prediction Rank: 47
+
+34) the aggregate of small plant and animal organisms that float or drift in great numbers in fresh or salt water (plankton.n.01)
+Prediction Prob: 3.6074743961571285e-06, Prediction Rank: 27
+
+35) (botany) a living organism lacking the power of locomotion (plant.n.02)
+Prediction Prob: 1.0557203465130837e-05, Prediction Rank: 16
+
+36) an organism that can assume more than one adult form as in the castes of ants or termites (polymorph.n.01)
+Prediction Prob: 0.00028387948767607613, Prediction Rank: 1
+
+37) (genetics) an organism or cell having more than twice the haploid number of chromosomes (polyploid.n.01)
+Prediction Prob: 5.773245237237129e-07, Prediction Rank: 39
+
+38) anything living after Noah's flood (postdiluvian.n.01)
+Prediction Prob: 4.0336621618322095e-08, Prediction Rank: 44
+
+39) a unicellular organism having cells lacking membrane-bound nuclei; bacteria are the prime example but also included are blue-green algae and actinomycetes and mycoplasma (prokaryote.n.01)
+Prediction Prob: 4.8320422643663466e-05, Prediction Rank: 8
+
+40) a cell or organism in which genetic recombination has occurred (recombinant.n.01)
+Prediction Prob: 6.273370048925644e-06, Prediction Rank: 20
+
+41) an animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus) (relative.n.02)
+Prediction Prob: 3.413035961177661e-07, Prediction Rank: 42
+
+42) an organism or species surviving as a remnant of an otherwise extinct flora or fauna in an environment much changed from that in which it originated (relict.n.01)
+Prediction Prob: 1.372256357423503e-06, Prediction Rank: 35
+
+43) an organism that lives in and derives its nourishment from organic matter in stagnant or foul water (saprobe.n.01)
+Prediction Prob: 5.230117570386495e-06, Prediction Rank: 21
+
+44) an organism that feeds on dead organic matter especially a fungus or bacterium (saprophyte.n.01)
+Prediction Prob: 6.384387170243813e-05, Prediction Rank: 6
+
+45) an organism (person or animal) that sits (sitter.n.02)
+Prediction Prob: 1.143853329569956e-06, Prediction Rank: 36
+
+46) an organism (person or animal) that stands (stander.n.01)
+Prediction Prob: 6.425296600963971e-07, Prediction Rank: 38
+
+47) an organism that can utter vocal sounds (utterer.n.01)
+Prediction Prob: 4.3315610203876936e-06, Prediction Rank: 24
+
+48) one of the distinct individuals forming a colonial animal such as a bryozoan or hydrozoan (zooid.n.01)
+Prediction Prob: 0.0001498444014828304, Prediction Rank: 4
+
+
+=====================================================
+Rank Scores when single contexts are prepadded:
+
+0) RS: 1.00	Context: an organism that depends on complex organic substances for nutrition is the definition of heterotroph. 
+------------------------------------------------------------
+1) RS: 0.98	Context: sulfate and carbon dioxide . also `` a. profundus '' grow lithotrophically , but while this species needs acetate and co2 for biosynthesis they are heterotroph . . 
+2) RS: 0.91	Context: a heterotroph ( greek `` heteros '' = `` another '' , `` different '' and `` trophe '' = `` nutrition '' ) is an . 
+3) RS: 0.81	Context: photobioreactors when compared to bioreactors for heterotroph organisms . . 
+4) RS: 0.79	Context: helper t cell - hepadnaviridae - hepatitis b - herbivore - heredity - hereditary disease - hermaphrodite - herpetology - hershey-chase experiment - heterochromatin - heterotroph - heterozygote - hfr cell - hibernation - hierarchy of life - hill reaction - his tag - histone - homeobox - homeostasis - . 
+5) RS: 0.72	Context: such as wild buckwheats , ragweeds , plucheas , and `` tiquilia plicata '' and `` t. palmeri '' to obtain nutrients . as a heterotroph , the plant lacks chlorophyll and is grayish , whitish , or brown in color . it has glandular scale-like leaves along its surface . 
+6) RS: 0.68	Context: protist that can both eat food as animals by heterotrophy ; and can photosynthesize , like plants , by autotrophy . when acting as a heterotroph , the euglena surrounds a particle of food and consumes it by phagocytosis . when acting as an autotroph , the euglena utilizes chloroplasts . 
+7) RS: 0.66	Context: growing on the roots or of various shrubs such as burrobush , yerba santa , california croton , rabbitbrush , and ragweeds . as a heterotroph which derives its nutrients from other plants , it lacks chlorophyll and is brownish-gray or whitish in color . there are hairy , glandular . 
+8) RS: 0.66	Context: ectothermic ( cold blooded ) , meaning that their body temperature is dependent on that of the water . they can be any type of heterotroph : omnivore , carnivore , herbivore , or detrivore . . 
+9) RS: 0.62	Context: energy and nutrients between two species . this is also sometimes known as resource-to-resource mutualism . trophic mutualism often occurs between an autotroph and a heterotroph . although there are many examples of trophic mutualisms , the heterotroph is generally a fungus or bacteria . this mutualism can be both . 
+10) RS: 0.55	Context: immunoglobulin - hela cell - helminth protein - helper t cell - hemopexin - hemoglobin - herpes simplex virus protein vmw65 - heterocyclic compound - heterotroph - heterozygote - hfr cell - hill reaction - his tag - histamine h1 receptor - histamine h2 receptor - histamine receptor - histidine . 
+11) RS: 0.51	Context: a single terminal opening . `` difflugia '' are particularly common in marshes . the difflugia use pseudopods to move around . it is a heterotroph and it engulfs its food . . 
+12) RS: 0.49	Context: heterotrophs . the sugars and other molecular components produced by the autotrophs are then broken down , releasing stored solar energy , and giving the heterotroph the energy required for survival . this process is known as respiration . . 
+13) RS: 0.49	Context: organism of choice for many selection experiments because ( 1 ) it has a short generation time , ( 2 ) it is both a heterotroph and facultative autotroph , ( 3 ) it can reproduce both sexually and asexually , and ( 4 ) there is a wealth of . 
+14) RS: 0.49	Context: as resource-to-resource mutualism . trophic mutualism often occurs between an autotroph and a heterotroph . although there are many examples of trophic mutualisms , the heterotroph is generally a fungus or bacteria . this mutualism can be both obligate and opportunistic . . 
+15) RS: 0.45	Context: the persian sturgeon is heterotroph equipped with tactile and gustatory receptors , when feeding it simply sucks in its food . the eating habits of the sturgeon change throughout . 
+16) RS: 0.40	Context: predation is a biological interaction where a predator ( a heterotroph that is hunting ) feeds on its prey ( the organism that is attacked ) . predators may or may not kill their prey . 
+17) RS: 0.36	Context: molecules ( carbohydrates , fats , and proteins ) obtained in food . carnivorous organisms ultimately rely on autotrophs because the nutrients obtained from their heterotroph prey come from autotrophs they consumed . . 
+18) RS: 0.36	Context: by then would be altered or destroyed by temperatures exceeding . they estimate that the development of a 100 kilobase genome of a dna/protein primitive heterotroph into a 7000 gene filamentous cyanobacterium would have required only 7 ma . . 
+19) RS: 0.34	Context: able to thrive in a wide variety of environmental conditions and can make use of a variety of different resources ( for example , a heterotroph with a varied diet ) . a specialist species can only thrive in a narrow range of environmental conditions or has a limited diet . 
+20) RS: 0.26	Context: heterotroph . . 

@@ -1,0 +1,134 @@
+===============================================================================================
+
+WORD: clanger.n.01 (['Ġcl', 'anger']),     Number of Definitions: 10
+
+Following 0 contexts are prepadded before the definitions:
+
+True Definition:
+a conspicuous mistake whose effects seem to reverberate
+
+Prediction Score: 0.11
+
+Definitions (True=1):
+
+1) a conspicuous mistake whose effects seem to reverberate (clanger.n.01)
+Prediction Prob: 2.3945446514699567e-08, Prediction Rank: 9
+
+2) the momentary juggling of a batted or thrown baseball (bobble.n.01)
+Prediction Prob: 1.4635286448388991e-08, Prediction Rank: 10
+
+3) a serious and ludicrous blunder (bull.n.04)
+Prediction Prob: 3.7637588114789404e-07, Prediction Rank: 5
+
+4) a socially awkward or tactless act (faux_pas.n.01)
+Prediction Prob: 5.016535166556138e-07, Prediction Rank: 3
+
+5) a blunder (especially an actor's forgetting the lines) (fluff.n.03)
+Prediction Prob: 4.389732385015994e-07, Prediction Rank: 4
+
+6) (sports) dropping the ball (fumble.n.01)
+Prediction Prob: 1.43642654148798e-07, Prediction Rank: 6
+
+7) a glaring blunder (howler.n.03)
+Prediction Prob: 5.318045478791726e-08, Prediction Rank: 8
+
+8) an acronym often used by soldiers in World War II: situation normal all fucked up (snafu.n.01)
+Prediction Prob: 6.217192964470572e-08, Prediction Rank: 7
+
+9) a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself (spectacle.n.03)
+Prediction Prob: 3.01163107787987e-06, Prediction Rank: 1
+
+10) an unintentional but embarrassing blunder (trip.n.07)
+Prediction Prob: 1.3963534456723319e-06, Prediction Rank: 2
+
+===============================================================================================
+
+WORD: clanger.n.01 (['Ġcl', 'anger']),     Number of Definitions: 10
+
+Following 1 contexts are prepadded before the definitions:
+1) sachs made his screen debut in 1959 in the film `` the night we dropped a clanger '' . he then appeared in numerous tv series throughout the 1960s including some appearances in itc productions such as `` the saint ''
+
+True Definition:
+a conspicuous mistake whose effects seem to reverberate
+
+Prediction Score: 0.78
+
+Definitions (True=1):
+
+1) a conspicuous mistake whose effects seem to reverberate (clanger.n.01)
+Prediction Prob: 0.0006541744861112281, Prediction Rank: 3
+
+2) the momentary juggling of a batted or thrown baseball (bobble.n.01)
+Prediction Prob: 0.00012156863543072438, Prediction Rank: 10
+
+3) a serious and ludicrous blunder (bull.n.04)
+Prediction Prob: 0.0002230176867363612, Prediction Rank: 7
+
+4) a socially awkward or tactless act (faux_pas.n.01)
+Prediction Prob: 0.00020565753931708897, Prediction Rank: 8
+
+5) a blunder (especially an actor's forgetting the lines) (fluff.n.03)
+Prediction Prob: 0.0005133504005769111, Prediction Rank: 5
+
+6) (sports) dropping the ball (fumble.n.01)
+Prediction Prob: 0.001058132558021535, Prediction Rank: 2
+
+7) a glaring blunder (howler.n.03)
+Prediction Prob: 0.0006019417702849764, Prediction Rank: 4
+
+8) an acronym often used by soldiers in World War II: situation normal all fucked up (snafu.n.01)
+Prediction Prob: 0.00015332558585146386, Prediction Rank: 9
+
+9) a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself (spectacle.n.03)
+Prediction Prob: 0.0012293087044913525, Prediction Rank: 1
+
+10) an unintentional but embarrassing blunder (trip.n.07)
+Prediction Prob: 0.0002877661125974887, Prediction Rank: 6
+
+===============================================================================================
+
+WORD: clanger.n.01 (['Ġcl', 'anger']),     Number of Definitions: 10
+
+Following 3 contexts are prepadded before the definitions:
+1) buckinghamshire clanger .
+2) the night we dropped a clanger .
+3) just can ’ t. ” at the opening of the episode , after the opening where a rocket shoots down the iron chicken , major clanger kicks a door to make it work and his first words are `` sod it , the bloody thing ’ s stuck again. ”
+
+
+True Definition:
+a conspicuous mistake whose effects seem to reverberate
+
+Prediction Score: 0.00
+
+Definitions (True=1):
+
+1) a conspicuous mistake whose effects seem to reverberate (clanger.n.01)
+Prediction Prob: 0.001828571732786624, Prediction Rank: 10
+
+2) the momentary juggling of a batted or thrown baseball (bobble.n.01)
+Prediction Prob: 0.023842232486003923, Prediction Rank: 2
+
+3) a serious and ludicrous blunder (bull.n.04)
+Prediction Prob: 0.005231714332960491, Prediction Rank: 7
+
+4) a socially awkward or tactless act (faux_pas.n.01)
+Prediction Prob: 0.04918955412783532, Prediction Rank: 1
+
+5) a blunder (especially an actor's forgetting the lines) (fluff.n.03)
+Prediction Prob: 0.005901081779564166, Prediction Rank: 6
+
+6) (sports) dropping the ball (fumble.n.01)
+Prediction Prob: 0.003561635628616111, Prediction Rank: 9
+
+7) a glaring blunder (howler.n.03)
+Prediction Prob: 0.0049033489183364365, Prediction Rank: 8
+
+8) an acronym often used by soldiers in World War II: situation normal all fucked up (snafu.n.01)
+Prediction Prob: 0.00877944207285708, Prediction Rank: 3
+
+9) a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself (spectacle.n.03)
+Prediction Prob: 0.006971227047188555, Prediction Rank: 4
+
+10) an unintentional but embarrassing blunder (trip.n.07)
+Prediction Prob: 0.006181704499837459, Prediction Rank: 5
+

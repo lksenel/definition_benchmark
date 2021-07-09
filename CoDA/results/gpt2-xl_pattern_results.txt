@@ -1,0 +1,4 @@
+Dataset: CoDA-clean-easy n
+Pattern '<CONTEXT> Definition of <XXXXX> is': 0.4888 (274)
+Pattern '<CONTEXT> <XXXXX> is defined as': 0.5141 (274)
+Pattern '<CONTEXT> <XXXXX> is': 0.4878 (274)

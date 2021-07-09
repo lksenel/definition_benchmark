@@ -1,0 +1,111 @@
+===============================================================================================
+
+WORD: masterstroke.n.01 (['Ġmaster', 'stroke']),     Number of Definitions: 19
+
+
+True Definition:
+an achievement demonstrating great skill or mastery
+
+Prediction Rank Score: 1.00
+
+Definitions (True=1):
+
+1) an achievement demonstrating great skill or mastery (masterstroke)
+Prediction Prob: 1.4354679972353982e-05, Prediction Rank: 1
+
+2) accomplishment of an objective (arrival)
+Prediction Prob: 5.252916487687926e-08, Prediction Rank: 19
+
+3) the act of achieving an aim (attainment)
+Prediction Prob: 1.2127765106531422e-07, Prediction Rank: 18
+
+4) (baseball) an advance to first base by a batter who receives four balls (base on balls)
+Prediction Prob: 1.7572165335726108e-07, Prediction Rank: 17
+
+5) an initial accomplishment that opens the way for further developments (beachhead)
+Prediction Prob: 7.060830698745092e-07, Prediction Rank: 11
+
+6) an easy accomplishment (cakewalk)
+Prediction Prob: 1.3479654230473992e-06, Prediction Rank: 7
+
+7) something achieved (or escaped) by a narrow margin (close call)
+Prediction Prob: 1.5393529079876095e-06, Prediction Rank: 4
+
+8) used in the phrase `to your credit' in order to indicate an achievement deserving praise (credit)
+Prediction Prob: 3.639137935603542e-07, Prediction Rank: 15
+
+9) an act that avoids a loss of face (of dignity or prestige) (face saver)
+Prediction Prob: 3.859945241806571e-07, Prediction Rank: 14
+
+10) an irreversible accomplishment (fait accompli)
+Prediction Prob: 1.2293153019312633e-06, Prediction Rank: 9
+
+11) a notable achievement (feat)
+Prediction Prob: 9.543898850672427e-07, Prediction Rank: 10
+
+12) advancing toward a goal (going)
+Prediction Prob: 6.994700592990422e-07, Prediction Rank: 12
+
+13) taking full advantage of an opportunity while it lasts (haymaking)
+Prediction Prob: 4.635325526861772e-06, Prediction Rank: 3
+
+14) the act of liberating someone or something (liberation)
+Prediction Prob: 2.304993470698794e-07, Prediction Rank: 16
+
+15) an outstanding achievement (masterpiece)
+Prediction Prob: 1.481748726097189e-06, Prediction Rank: 5
+
+16) any recognized accomplishment (performance)
+Prediction Prob: 1.2506300497664856e-06, Prediction Rank: 8
+
+17) the sum of recognized accomplishments (record)
+Prediction Prob: 1.4003506737830958e-06, Prediction Rank: 6
+
+18) the act of getting recruits; enlisting people for the army (or for a job or a cause etc.) (recruitment)
+Prediction Prob: 5.405960704699245e-07, Prediction Rank: 13
+
+19) the act of smoothing (smooth)
+Prediction Prob: 6.511045007042207e-06, Prediction Rank: 2
+
+
+=====================================================
+Rank Scores one shot (correct def pairs):
+
+0) RS: 1.00	Context: an achievement demonstrating great skill or mastery is the definition of masterstroke. 
+------------------------------------------------------------
+1) RS: 1.00	Context: a dance involving a rhythmical stamping step is the definition of stomp. . 
+2) RS: 1.00	Context: a truck equipped with a loudspeaker and used for advertising is the definition of sound truck. . 
+3) RS: 1.00	Context: a military vehicle (usually armored) for transporting military personnel and their equipment is the definition of personnel carrier. . 
+4) RS: 0.83	Context: the quality of being holy is the definition of holiness. . 
+5) RS: 0.61	Context: a trivalent metallic element of the rare earth group; usually occurs in association with yttrium is the definition of lutetium. . 
+6) RS: 0.61	Context: male salmon that has recently spawned is the definition of redfish. . 
+7) RS: 0.56	Context: plants closely allied to the genera Satureja and Calamintha is the definition of acinos. . 
+8) RS: 0.56	Context: an Australian sheepdog with pointed ears is the definition of kelpie. . 
+9) RS: 0.56	Context: octopuses and paper nautilus is the definition of octopoda. . 
+10) RS: 0.33	Context: (medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group is the definition of dysfunction. . 
+
+
+Rank Scores one shot (incorrect def pairs):
+
+
+------------------------------------------------------------
+1) RS: 1.00	Context: plants closely allied to the genera Satureja and Calamintha is the definition of filling. . 
+2) RS: 1.00	Context: used as an Italian courtesy title; can be prefixed to the name or used separately is the definition of stomp. . 
+3) RS: 1.00	Context: a truck equipped with a loudspeaker and used for advertising is the definition of butternut. . 
+4) RS: 0.94	Context: the position of student is the definition of redfish. . 
+5) RS: 0.94	Context: a military vehicle (usually armored) for transporting military personnel and their equipment is the definition of rhinoscopy. . 
+6) RS: 0.89	Context: the quality of being holy is the definition of coneflower. . 
+7) RS: 0.89	Context: male salmon that has recently spawned is the definition of studentship. . 
+8) RS: 0.83	Context: flow into something (as a container) is the definition of acinos. . 
+9) RS: 0.83	Context: (medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group is the definition of roadrunner. . 
+10) RS: 0.83	Context: a dance involving a rhythmical stamping step is the definition of signor. . 
+11) RS: 0.78	Context: examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx) is the definition of personnel carrier. . 
+12) RS: 0.72	Context: a trivalent metallic element of the rare earth group; usually occurs in association with yttrium is the definition of velociraptor. . 
+13) RS: 0.67	Context: an Australian sheepdog with pointed ears is the definition of actinium. . 
+14) RS: 0.61	Context: octopuses and paper nautilus is the definition of oil filter. . 
+15) RS: 0.56	Context: a wildflower of the genus Ratibida is the definition of holiness. . 
+16) RS: 0.56	Context: small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs is the definition of lutetium. . 
+17) RS: 0.56	Context: a radioactive element of the actinide series; found in uranium ores is the definition of kelpie. . 
+18) RS: 0.56	Context: oily egg-shaped nut of an American tree of the walnut family is the definition of sound truck. . 
+19) RS: 0.50	Context: a filter that removes impurities from the oil used to lubricate an internal-combustion engine is the definition of octopoda. . 
+20) RS: 0.33	Context: speedy largely terrestrial bird found from California and Mexico to Texas is the definition of dysfunction. . 

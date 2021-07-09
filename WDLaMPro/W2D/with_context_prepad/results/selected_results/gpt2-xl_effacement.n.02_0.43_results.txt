@@ -1,0 +1,87 @@
+===============================================================================================
+
+WORD: effacement.n.02 (['Ġeff', 'acement']),     Number of Definitions: 8
+
+
+True Definition:
+withdrawing into the background; making yourself inconspicuous
+
+Prediction Rank Score: 0.43
+
+Definitions (True=1):
+
+1) withdrawing into the background; making yourself inconspicuous (effacement.n.02)
+Prediction Prob: 4.1210917914635055e-06, Prediction Rank: 5
+
+2) breaking camp (decampment.n.02)
+Prediction Prob: 1.1187570398748308e-07, Prediction Rank: 8
+
+3) withdrawing support or help despite allegiance or responsibility (desertion.n.01)
+Prediction Prob: 3.684333086793228e-07, Prediction Rank: 7
+
+4) the act of evacuating; leaving a place in an orderly fashion; especially for protection (evacuation.n.02)
+Prediction Prob: 2.477615890611809e-05, Prediction Rank: 1
+
+5) (military) the act of pulling back (especially an orderly withdrawal of troops) (pullback.n.02)
+Prediction Prob: 3.1009170500724027e-06, Prediction Rank: 6
+
+6) the act of becoming more distant (receding.n.02)
+Prediction Prob: 8.228809826633801e-06, Prediction Rank: 4
+
+7) withdrawal for prayer and study and meditation (retirement.n.03)
+Prediction Prob: 1.2573592032520545e-05, Prediction Rank: 2
+
+8) (military) withdrawal of troops to a more favorable position to escape the enemy's superior forces or after a defeat (retreat.n.01)
+Prediction Prob: 1.1968307339345167e-05, Prediction Rank: 3
+
+
+=====================================================
+Rank Scores when single contexts are prepadded:
+
+0) RS: 1.00	Context: withdrawing into the background; making yourself inconspicuous is the definition of effacement. 
+------------------------------------------------------------
+1) RS: 1.00	Context: of the other : “ this social type rests on principles so different from the preceding that it can develop only in proportion to the effacement of that preceding type. ” and “ the history of these two types shows , in effect , that one has progressed only as . 
+2) RS: 1.00	Context: baudrillard argued that the excess of signs and of meaning in late 20th century `` global '' society had caused ( quite paradoxically ) an effacement of reality . in this world neither liberal nor marxist utopias are any longer believed in . we live , he argued , not . 
+3) RS: 1.00	Context: the difference lay primarily in the outer ( chitzonius ) emotional conduct rabbi aharon expected of his followers , and the intense manifestation of self effacement rabbi dovber expected of his . . 
+4) RS: 1.00	Context: is a term coined by the media , and that radical activists are actually more in favor of globalization , in the sense of `` effacement of borders and the free movement of people , possessions and ideas '' than are the imf or wto . he also notes that . 
+5) RS: 1.00	Context: simulacrum of a presence that dislocates , displaces , and refers beyond itself . the trace has , properly speaking , no place , for effacement belongs to the very structure of the trace….in this was the metaphysical text is understood ; it is still readable , and remains read . 
+6) RS: 0.86	Context: lining the small intestine . tir is a receptor protein encoded by the `` espe '' gene which is located on the locus of enterocyte effacement ( lee ) pathogenicity island in epec strains . this receptor binds intimin upon translocation to enterocytes of the host cell . . 
+7) RS: 0.86	Context: the locus of enterocyte effacement ( lee ) is a fairly conserved pathogenicity island consisting of 35,000 base pairs in the bacteria `` escherichia coli '' genome . the . 
+8) RS: 0.71	Context: effacement is the shortening , or thinning , of a tissue . . 
+9) RS: 0.71	Context: according to the modified bishop 's pre-induction cervical scoring system , effacement has been replaced by cervical length in cm , with scores as follows- . 
+10) RS: 0.71	Context: it can refer to cervical effacement . it can also refer to a process occurring in podocytes . . 
+11) RS: 0.71	Context: matisoff described bleaching as `` the partial effacement of a morpheme 's semantic features , the stripping away of some of its precise content so it can be used in an abstracter . 
+12) RS: 0.71	Context: entreats bassanio to be gentle with her as she is a mere girl without education and worldly experience yet goes on to refute this self effacement with her ultimate triumph in court . not only does she triumph over shylock but also over bassanio who by her trick with the . 
+13) RS: 0.71	Context: 'pampered ' ones among them - because they have no law to protect them from attack by anyone . the oppression of women and the effacement of their selfhood is a flaw affecting most homes in saudi arabia . '' . 
+14) RS: 0.71	Context: that had been washed off its vellum pages , thus forming a palimpsest . the later text was produced in the 12th century . the effacement of the original text was incomplete , for beneath the text of ephraem are the remains of what was once a complete bible , . 
+15) RS: 0.71	Context: effacement . . 
+16) RS: 0.57	Context: cervical effacement . . 
+17) RS: 0.57	Context: uterine contractions in one hour before 37 weeks ' gestation . in contrast to false labor , true labor is accompanied by cervical shortening and effacement . also , vaginal bleeding in the third trimester , heavy pressure in the pelvis , or abdominal or back pain could be indicators . 
+18) RS: 0.57	Context: can be a chronic , stable process , since the feeding system is low-pressure . in such cases , subtle signs of bleeding such as effacement of sulci or medial displacement of the junction between gray matter and white matter may be apparent . a chronic bleed can be the . 
+19) RS: 0.57	Context: locus of enterocyte effacement . . 
+20) RS: 0.57	Context: middle part of the third trimester , when their impact is significant . many women experience false labor ( not leading to cervical shortening and effacement ) and are falsely labelled to be in preterm labor . the study of preterm birth has been hampered by the difficulty in distinguishing . 
+21) RS: 0.57	Context: born in grenoble in 1961 , decavele works with representations of memory and effacement through video and photography . . 
+22) RS: 0.57	Context: gain or advantage . lachit borphukan , momai tamuli 's son , inherited from his father this supreme sense of duty and capacity of self effacement in the cause or enterprise he undertook . . 
+23) RS: 0.57	Context: , along with uterine contractions , will dilate the cervix to 10 centimeters , which is `` complete . '' cervical dilation is accompanied by effacement , the thinning of the cervix . . 
+24) RS: 0.57	Context: cervical effacement refers to a thinning of the cervix . it is a component of the bishop score . . 
+25) RS: 0.57	Context: test and ultrasonography improves the diagnostic accuracy and reduces false-positive diagnosis . while treatments to arrest early labor where there is progressive cervical dilatation and effacement will not be effective to gain sufficient time to allow the fetus to grow and mature further , it may defer delivery sufficiently to . 
+26) RS: 0.57	Context: a woman is considered to be in labour when she begins experiencing regular uterine contractions , accompanied by changes of her cervix — primarily effacement and dilation . while childbirth is widely experienced as painful , some women do report painless labours , while others find that concentrating on . 
+27) RS: 0.57	Context: , may last many days and the contractions are an intensification of the braxton hicks contractions that may start around 26 weeks gestation . cervical effacement occurs during the closing weeks of pregnancy and is usually complete or near complete , by the end of latent phase . cervical effacement . 
+28) RS: 0.57	Context: `` nemonymous two '' , whose stories are loosely connected by an overarching theme of effacement , came out in may 2002 and is the first to disclose the names of those published in the previous issue . `` nemonymous . 
+29) RS: 0.43	Context: 'pampered ' ones among them - because they have no law to protect them from attack by anyone . the oppression of women and the effacement of their selfhood is a flaw affecting most homes in saudi arabia . '' in 2008 , she received international media attention when a . 
+30) RS: 0.43	Context: prior to effacement , the cervix is like a long bottleneck , usually about four centimeters in length . throughout pregnancy , the cervix is tightly closed . 
+31) RS: 0.43	Context: misoprostol is commonly used for labor induction . it causes uterine contractions and the ripening ( effacement or thinning ) of the cervix . misoprostol is more effective in starting labor than other drugs used for labor induction . it is . 
+32) RS: 0.43	Context: microscopic examination of the lymph node biopsy reveals complete or partial effacement of the lymph node architecture by scattered large malignant cells known as reed-sternberg cells ( rsc ) ( typical and variants ) admixed within . 
+33) RS: 0.43	Context: the exhortation to obedience , and whoever denies love denies familiarity ( uns ) and passion ( shawq ) and taste ( dhawq ) and effacement ( mahu ) and clarity ( sahu ) and extinction ( fana ' ) and subsistence ( baqa ' ) and contraction ( qabd . 
+34) RS: 0.43	Context: this is a generalized practice that is common to latin america as a whole and not just argentina , and is directly related to the effacement of non-european cultures . . 
+35) RS: 0.43	Context: with cervical incompetence , dilation and effacement of the cervix may occur without pain or uterine contractions . in a normal pregnancy , dilation and effacement occurs in response to uterine contractions . cervical incompetence occurs because of weakness of the cervix , which is made to open by the . 
+36) RS: 0.29	Context: prostaglandin content of seminal liquid can favour the maturation process of the cervix making it more flexible , allowing for easier and faster dilation and effacement of the cervix . however , the efficacy of using sexual intercourse as an induction agent `` remains uncertain '' . . 
+37) RS: 0.29	Context: body in its preparation for birth . not all expectant mothers have these contractions . they are thought to be part of the process of effacement of the cervix . . 
+38) RS: 0.29	Context: may be tinged with blood and the passage of the mucus plug is called bloody show ( or simply `` show '' ) . as effacement takes place , the cervix then shortens , or effaces , pulling up into the uterus and becoming part of the lower uterine wall . 
+39) RS: 0.14	Context: may be measured in percentages , from zero percent ( not effaced at all ) to 100 percent , which indicates a paper-thin cervix . effacement is followed by cervical dilation . . 
+40) RS: 0.14	Context: in a woman with cervical incompetence , dilation and effacement of the cervix may occur without pain or uterine contractions . in a normal pregnancy , dilation and effacement occurs in response to uterine . 
+41) RS: 0.14	Context: 1939 when world war ii erupted , the japanese government began a campaign to unify korea and japan as a culture . this meant the effacement of much of korea 's local colour . . 
+42) RS: 0.14	Context: by the end of latent phase . cervical effacement or cervical dilation is the thinning and stretching of the cervix . the degree of cervical effacement may be felt during a vaginal examination . a 'long ' cervix implies that not much has been taken into the lower segment , . 
+43) RS: 0.00	Context: takes place , the cervix then shortens , or effaces , pulling up into the uterus and becoming part of the lower uterine wall . effacement may be measured in percentages , from zero percent ( not effaced at all ) to 100 percent , which indicates a paper-thin cervix . 
+44) RS: 0.00	Context: uterine muscles form opposing spirals from the top of the upper segment of the uterus to its junction with the lower segment . during effacement , the cervix becomes incorporated into the lower segment of the uterus . during a contraction , these muscles contract causing shortening of the . 
+45) RS: 0.00	Context: cervical effacement occurs during the closing weeks of pregnancy and is usually complete or near complete , by the end of latent phase . cervical effacement or cervical dilation is the thinning and stretching of the cervix . the degree of cervical effacement may be felt during a vaginal examination . 

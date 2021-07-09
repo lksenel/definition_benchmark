@@ -1,0 +1,84 @@
+===============================================================================================
+
+WORD: clanger.n.01 (['Ġcl', 'anger']),     Number of Definitions: 10
+
+
+True Definition:
+a conspicuous mistake whose effects seem to reverberate
+
+Prediction Rank Score: 0.00
+
+Definitions (True=1):
+
+1) a conspicuous mistake whose effects seem to reverberate (clanger)
+Prediction Prob: 1.8648259517849324e-08, Prediction Rank: 10
+
+2) the momentary juggling of a batted or thrown baseball (bobble)
+Prediction Prob: 1.6463601536393953e-07, Prediction Rank: 2
+
+3) a serious and ludicrous blunder (bull)
+Prediction Prob: 6.420159696353812e-08, Prediction Rank: 7
+
+4) a socially awkward or tactless act (faux pas)
+Prediction Prob: 5.976385360304416e-08, Prediction Rank: 8
+
+5) a blunder (especially an actor's forgetting the lines) (fluff)
+Prediction Prob: 1.2209045907829917e-07, Prediction Rank: 4
+
+6) (sports) dropping the ball (fumble)
+Prediction Prob: 1.1692267265890838e-07, Prediction Rank: 5
+
+7) a glaring blunder (howler)
+Prediction Prob: 6.92020393541432e-08, Prediction Rank: 6
+
+8) an acronym often used by soldiers in World War II: situation normal all fucked up (snafu)
+Prediction Prob: 1.248173947916686e-07, Prediction Rank: 3
+
+9) a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself (spectacle)
+Prediction Prob: 1.9848313760599957e-07, Prediction Rank: 1
+
+10) an unintentional but embarrassing blunder (trip)
+Prediction Prob: 5.361895844435619e-08, Prediction Rank: 9
+
+
+=====================================================
+Rank Scores one shot (correct def pairs):
+
+0) RS: 1.00	Context: a conspicuous mistake whose effects seem to reverberate is the definition of clanger. 
+------------------------------------------------------------
+1) RS: 0.89	Context: a truck equipped with a loudspeaker and used for advertising is the definition of sound truck. . 
+2) RS: 0.67	Context: a dance involving a rhythmical stamping step is the definition of stomp. . 
+3) RS: 0.22	Context: (medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group is the definition of dysfunction. . 
+4) RS: 0.11	Context: plants closely allied to the genera Satureja and Calamintha is the definition of acinos. . 
+5) RS: 0.11	Context: an Australian sheepdog with pointed ears is the definition of kelpie. . 
+6) RS: 0.11	Context: a military vehicle (usually armored) for transporting military personnel and their equipment is the definition of personnel carrier. . 
+7) RS: 0.00	Context: a trivalent metallic element of the rare earth group; usually occurs in association with yttrium is the definition of lutetium. . 
+8) RS: 0.00	Context: the quality of being holy is the definition of holiness. . 
+9) RS: 0.00	Context: male salmon that has recently spawned is the definition of redfish. . 
+10) RS: 0.00	Context: octopuses and paper nautilus is the definition of octopoda. . 
+
+
+Rank Scores one shot (incorrect def pairs):
+
+
+------------------------------------------------------------
+1) RS: 0.67	Context: oily egg-shaped nut of an American tree of the walnut family is the definition of sound truck. . 
+2) RS: 0.56	Context: used as an Italian courtesy title; can be prefixed to the name or used separately is the definition of stomp. . 
+3) RS: 0.56	Context: octopuses and paper nautilus is the definition of oil filter. . 
+4) RS: 0.44	Context: a truck equipped with a loudspeaker and used for advertising is the definition of butternut. . 
+5) RS: 0.22	Context: plants closely allied to the genera Satureja and Calamintha is the definition of filling. . 
+6) RS: 0.11	Context: an Australian sheepdog with pointed ears is the definition of actinium. . 
+7) RS: 0.11	Context: (medicine) any disturbance in the functioning of an organ or body part or a disturbance in the functioning of a social group is the definition of roadrunner. . 
+8) RS: 0.11	Context: a dance involving a rhythmical stamping step is the definition of signor. . 
+9) RS: 0.11	Context: small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs is the definition of lutetium. . 
+10) RS: 0.11	Context: a military vehicle (usually armored) for transporting military personnel and their equipment is the definition of rhinoscopy. . 
+11) RS: 0.11	Context: examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx) is the definition of personnel carrier. . 
+12) RS: 0.00	Context: speedy largely terrestrial bird found from California and Mexico to Texas is the definition of dysfunction. . 
+13) RS: 0.00	Context: the position of student is the definition of redfish. . 
+14) RS: 0.00	Context: male salmon that has recently spawned is the definition of studentship. . 
+15) RS: 0.00	Context: a wildflower of the genus Ratibida is the definition of holiness. . 
+16) RS: 0.00	Context: a trivalent metallic element of the rare earth group; usually occurs in association with yttrium is the definition of velociraptor. . 
+17) RS: 0.00	Context: a radioactive element of the actinide series; found in uranium ores is the definition of kelpie. . 
+18) RS: 0.00	Context: flow into something (as a container) is the definition of acinos. . 
+19) RS: 0.00	Context: the quality of being holy is the definition of coneflower. . 
+20) RS: 0.00	Context: a filter that removes impurities from the oil used to lubricate an internal-combustion engine is the definition of octopoda. . 

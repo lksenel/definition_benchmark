@@ -1,0 +1,40 @@
+Results from mlm for Wordnet Nouns
+
+Example count: 51260
+Average option count: 48.66
+Minimum option count: 5
+Maximum option count: 400
+
+For rare (0-9):
+Example count: 10703
+Average option count: 71.50
+
+For medium (10-99):
+Example count: 12981
+Average option count: 63.90
+
+For freq. (100-):
+Example count: 27576
+Average option count: 32.60
+
+
+Prediction Rank Results
+
+| Model              |   rare (0-9) |   medium (10-99) |   freq. (100-) |   all |
+|--------------------+--------------+------------------+----------------+-------|
+| bert-base-uncased  |         0.59 |             0.62 |           0.68 |  0.65 |
+| bert-large-uncased |         0.57 |             0.61 |           0.71 |  0.65 |
+| roberta-base       |         0.63 |             0.67 |           0.7  |  0.67 |
+| roberta-large      |         0.62 |             0.68 |           0.74 |  0.7  |
+| random             |         0.5  |             0.5  |           0.5  |  0.5  |
+
+
+Accuracy Results
+
+| Model              |   rare (0-9) |   medium (10-99) |   freq. (100-) |   all |
+|--------------------+--------------+------------------+----------------+-------|
+| bert-base-uncased  |        14.7  |            20.63 |          28.65 | 23.71 |
+| bert-large-uncased |        12.03 |            20.07 |          33.12 | 25.41 |
+| roberta-base       |        17.71 |            24.24 |          29.54 | 25.73 |
+| roberta-large      |        17.85 |            25.8  |          34.51 | 28.83 |
+| random             |         6.67 |             7.08 |           8.25 |  7.62 |

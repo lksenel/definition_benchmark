@@ -1,0 +1,4 @@
+Dataset: CoDA-clean-easy_20_samples
+n: 0.4690 (20)
+All: 0.4690 (20)
+

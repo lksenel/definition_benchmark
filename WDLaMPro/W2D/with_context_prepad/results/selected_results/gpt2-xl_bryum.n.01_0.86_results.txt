@@ -1,0 +1,56 @@
+===============================================================================================
+
+WORD: bryum.n.01 (['Ġb', 'ry', 'um']),     Number of Definitions: 8
+
+
+True Definition:
+type genus of the Bryaceae: mosses distinguished by mostly erect and tufted gametophytes and symmetrical short-necked capsules
+
+Prediction Rank Score: 0.86
+
+Definitions (True=1):
+
+1) type genus of the Bryaceae: mosses distinguished by mostly erect and tufted gametophytes and symmetrical short-necked capsules (bryum.n.01)
+Prediction Prob: 2.00494215433992e-07, Prediction Rank: 2
+
+2) brown or blackish Alpine mosses having a dehiscent capsule with 4 longitudinal slits (andreaea.n.01)
+Prediction Prob: 4.5091661996580644e-10, Prediction Rank: 4
+
+3) hornworts (anthoceros.n.01)
+Prediction Prob: 2.312597969031633e-11, Prediction Rank: 7
+
+4) type genus of Dicranaceae (dicranum.n.01)
+Prediction Prob: 1.0729089046304929e-10, Prediction Rank: 6
+
+5) a large genus constituting the order Sphagnales: atypical mosses of temperate bogs with leaves that can hold much water (genus_sphagnum.n.01)
+Prediction Prob: 1.7700909007516434e-11, Prediction Rank: 8
+
+6) type genus of Marchantiaceae; liverworts that reproduce asexually by gemmae and have stalked antheridiophores (marchantia.n.01)
+Prediction Prob: 3.3978262372678147e-10, Prediction Rank: 5
+
+7) mosses similar to those of genus Bryum but larger (mnium.n.01)
+Prediction Prob: 0.0006312337089566213, Prediction Rank: 1
+
+8) type genus of Sphaerocarpaceae; liverworts with small many-lobed usually orbicular thallus (sphaerocarpus.n.01)
+Prediction Prob: 5.066338135884729e-10, Prediction Rank: 3
+
+
+=====================================================
+Rank Scores when single contexts are prepadded:
+
+0) RS: 1.00	Context: type genus of the Bryaceae: mosses distinguished by mostly erect and tufted gametophytes and symmetrical short-necked capsules is the definition of bryum. 
+------------------------------------------------------------
+1) RS: 1.00	Context: `` cladosporium herbarum '' is a fungal plant pathogen . its hosts include `` bryum '' , `` buxbaumia '' , `` gyroweissia '' , `` tortula '' , and `` dicranella '' . . 
+2) RS: 0.86	Context: acaulon muticum '' , `` barbula unguiculata '' , `` bartramia ithyphylla '' , `` brachythecium salebrosum '' , `` bryoerythrophyllum recurvirostre '' , `` bryum argenteum '' , `` bryum lanatum '' , `` bryum capillare '' , `` bryum klinggraeffii '' , `` campylium chrysophyllum '' , `` . 
+3) RS: 0.86	Context: provides ideal conditions for fungi and ferns . it contains a substantial assemblage of bryophytes with over 120 species recorded including the nationally rare `` bryum canariense '' and the very rare `` amblystegiella confervoides '' . . 
+4) RS: 0.86	Context: `` bryum dixonii '' , commonly known as dixon 's thread-moss , is a moss endemic to scotland . the species occupies montane habitats , and . 
+5) RS: 0.86	Context: '' . non-vascular plants include the moss genera `` detrichum '' , `` dicranum '' , `` pogonatum '' , `` sanionia '' , `` bryum '' , `` orthothecium '' and `` tortura '' , as well as the lichen genera `` cetraria '' , `` thamnolia '' , . 
+6) RS: 0.86	Context: barbula unguiculata '' , `` bartramia ithyphylla '' , `` brachythecium salebrosum '' , `` bryoerythrophyllum recurvirostre '' , `` bryum argenteum '' , `` bryum lanatum '' , `` bryum capillare '' , `` bryum klinggraeffii '' , `` campylium chrysophyllum '' , `` ceratodon piliferum '' , `` . 
+7) RS: 0.86	Context: . there are slightly fewer that 1,000 recognised species of moss in australia . the five largest genera are the `` fissidens '' , `` bryum '' , `` campylopus '' , `` macromitrium '' and `` andreaea '' . there are also over 800 species of liver- and horn-worts . 
+8) RS: 0.71	Context: bryum dixonii . . 
+9) RS: 0.71	Context: brachythecium salebrosum '' , `` bryoerythrophyllum recurvirostre '' , `` bryum argenteum '' , `` bryum lanatum '' , `` bryum capillare '' , `` bryum klinggraeffii '' , `` campylium chrysophyllum '' , `` ceratodon piliferum '' , `` desmatodon latifolius '' , `` didymodon cylindricum '' , `` . 
+10) RS: 0.71	Context: bartramia ithyphylla '' , `` brachythecium salebrosum '' , `` bryoerythrophyllum recurvirostre '' , `` bryum argenteum '' , `` bryum lanatum '' , `` bryum capillare '' , `` bryum klinggraeffii '' , `` campylium chrysophyllum '' , `` ceratodon piliferum '' , `` desmatodon latifolius '' , `` . 
+11) RS: 0.57	Context: island . the moraine bench is up to 50 m ( 164 ft ) wide . the vegetation is dominated by the moss species `` bryum argenteum '' . it is the most extensive and continuous area of mosses known of in the mcmurdo sound region . there is also . 
+12) RS: 0.57	Context: `` bryum warneum '' , known as sea `` bryum '' or warne 's thread moss , is a protected moss found in sandy coastal areas . 
+13) RS: 0.57	Context: bryum warneum . . 
+14) RS: 0.14	Context: `` bryum warneum '' , known as sea `` bryum '' or warne 's thread moss , is a protected moss found in sandy coastal areas in temperate regions of europe ( including iceland . 
