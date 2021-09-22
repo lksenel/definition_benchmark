@@ -6,7 +6,7 @@ You can download WDLAMPro dataset [here](https://www.dropbox.com/s/0fgqsj8w1dlx9
 
 ## Citation
 
-If you use WDLaMPro please use the following citation:
+If you use WDLaMPro please cite the following paper:
 
 ```
 @inproceedings{senel-schutze-2021-wink,
